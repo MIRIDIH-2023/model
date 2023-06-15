@@ -1,5 +1,6 @@
 # coding=utf-8
 # Code to preprocess sample CSV and XML to JSON
+# Requirements: Download sample CSV file from slack and save it as data/metadata.csv
 
 import json
 import math
@@ -12,8 +13,9 @@ from PIL import Image
 
 
 def process_bbox(XML_BBOX, IM_SIZE, SHEET_SIZE, angle):
+    RATIO = IM_SIZE[0] / SHEET_SIZE[0]
     x1, y1, x2, y2 = map(float, XML_BBOX)
-    x1, y1, x2, y2 = (x1 * IM_SIZE[0] / SHEET_SIZE[0]), (y1 * IM_SIZE[1] / SHEET_SIZE[1]), (x2 * IM_SIZE[0] / SHEET_SIZE[0]), (y2 * IM_SIZE[1] / SHEET_SIZE[1])
+    x1, y1, x2, y2 = (x1 * RATIO, y1 * RATIO, x2 * RATIO, y2 * RATIO)
 
     if angle != 0:
         angle = math.radians(angle)
