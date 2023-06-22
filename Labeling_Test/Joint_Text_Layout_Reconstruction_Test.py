@@ -1,4 +1,4 @@
-# Randomized Labeling Test for Visual Text Recognition (sentence version)
+# Randomized Labeling Test for Joint Text-Layout Reconstruction (sentence version)
 
 # 원래는 좀 더 세세하게 word 단위로 라벨링하려 했는데, 레이아웃에 중점을 두면 
 # 문장 단위로 라벨링하는 게 나을 것 같아서 문장 단위로 했습니다
@@ -44,15 +44,16 @@ for i in range(len(target_sentence['box'])):
     else:
         layout_token += f'<loc_{int(n*500/720)}> '
 
-label = '<extra_id_1> '+ data['form'][target_sentence_idx]['text']
 layout_token = layout_token[:-1]
-prompt = 'Visual Text Recognition.'
+label = '<extra_id_2> '+ data['form'][target_sentence_idx]['text'] + ' ' + layout_token
+prompt = 'Joint Text-Layout Reconstruction.'
 
 for i in range(len(data['form'])):
     if i == target_sentence_idx:
         # UDOP 논문 5페이지 참조. 얘네가 Layout Modeling 할 때 sentinel token을
         # <text_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_id_0>으로 대체했음!
-        prompt += ' <extra_id_1> ' + layout_token + ' </extra_id_1>'
+        # Task를 구별하기 위해 각 Task마다 다른 id를 쓰도록 수정했습니다
+        prompt += ' <extra_id_2>'
     else:
         prompt += ' ' + data['form'][i]['text']
 
