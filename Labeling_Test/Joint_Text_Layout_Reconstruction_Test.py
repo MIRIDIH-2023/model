@@ -45,7 +45,7 @@ for i in range(len(target_sentence['box'])):
         layout_token += f'<loc_{int(n*500/720)}> '
 
 layout_token = layout_token[:-1]
-label = '<extra_id_2> '+ data['form'][target_sentence_idx]['text'] + ' ' + layout_token
+label = '<extra_id_0> '+ data['form'][target_sentence_idx]['text'] + ' ' + layout_token
 prompt = 'Joint Text-Layout Reconstruction.'
 
 for i in range(len(data['form'])):
@@ -53,7 +53,10 @@ for i in range(len(data['form'])):
         # UDOP 논문 5페이지 참조. 얘네가 Layout Modeling 할 때 sentinel token을
         # <text_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_id_0>으로 대체했음!
         # Task를 구별하기 위해 각 Task마다 다른 id를 쓰도록 수정했습니다
-        prompt += ' <extra_id_2>'
+        # Layout Modeling => <extra_l_id_0>
+        # Visual Text Recognition => <extra_t_id_0>
+        # Joint Text_Layout Reconstruction => <extra_id_0>
+        prompt += ' <extra_id_0>'
     else:
         prompt += ' ' + data['form'][i]['text']
 

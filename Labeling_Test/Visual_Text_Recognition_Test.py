@@ -44,15 +44,18 @@ for i in range(len(target_sentence['box'])):
     else:
         layout_token += f'<loc_{int(n*500/720)}> '
 
-label = '<extra_id_1> '+ data['form'][target_sentence_idx]['text']
+label = '<extra_t_id_0> '+ data['form'][target_sentence_idx]['text']
 layout_token = layout_token[:-1]
 prompt = 'Visual Text Recognition.'
 
 for i in range(len(data['form'])):
     if i == target_sentence_idx:
         # UDOP 논문 5페이지 참조. 얘네가 Layout Modeling 할 때 sentinel token을
-        # <text_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_id_0>으로 대체했음!
-        prompt += ' <extra_id_1> ' + layout_token + ' </extra_id_1>'
+        # <text_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_t_id_0>으로 대체했음!
+        # Layout Modeling => <extra_l_id_0>
+        # Visual Text Recognition => <extra_t_id_0>
+        # Joint Text_Layout Reconstruction => <extra_id_0>
+        prompt += ' <extra_t_id_0> ' + layout_token + ' </extra_t_id_0>'
     else:
         prompt += ' ' + data['form'][i]['text']
 
