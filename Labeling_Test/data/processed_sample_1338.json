@@ -1,0 +1,152 @@
+{
+    "form": [
+        {
+            "text": "X",
+            "box": [
+                238,
+                92,
+                594,
+                618
+            ],
+            "font_id": 1046,
+            "font_size": 873.772,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "box": [
+                        238,
+                        92,
+                        594,
+                        618
+                    ],
+                    "font_size": 873.772,
+                    "letter_spacing": 5.0,
+                    "font_id": 1046,
+                    "color": [
+                        253,
+                        251,
+                        251
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The answer is!",
+            "box": [
+                176,
+                142,
+                623,
+                207
+            ],
+            "font_id": 5601,
+            "font_size": 78.9732,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "The",
+                    "box": [
+                        176,
+                        142,
+                        293,
+                        207
+                    ],
+                    "font_size": 78.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 5601,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        293,
+                        142,
+                        315,
+                        207
+                    ],
+                    "font_size": 78.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 5601,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                },
+                {
+                    "text": "answer",
+                    "box": [
+                        315,
+                        142,
+                        535,
+                        207
+                    ],
+                    "font_size": 78.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 5601,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        535,
+                        142,
+                        557,
+                        207
+                    ],
+                    "font_size": 78.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 5601,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                },
+                {
+                    "text": "is!",
+                    "box": [
+                        557,
+                        142,
+                        623,
+                        207
+                    ],
+                    "font_size": 78.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 5601,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

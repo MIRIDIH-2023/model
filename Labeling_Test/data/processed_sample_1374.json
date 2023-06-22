@@ -1,0 +1,557 @@
+{
+    "form": [
+        {
+            "text": "MON",
+            "box": [
+                95,
+                110,
+                127,
+                120
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MON",
+                    "box": [
+                        95,
+                        110,
+                        127,
+                        120
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TUE",
+            "box": [
+                252,
+                110,
+                279,
+                120
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TUE",
+                    "box": [
+                        252,
+                        110,
+                        279,
+                        120
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "WED",
+            "box": [
+                420,
+                110,
+                451,
+                120
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "WED",
+                    "box": [
+                        420,
+                        110,
+                        451,
+                        120
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "THU",
+            "box": [
+                585,
+                110,
+                617,
+                120
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "THU",
+                    "box": [
+                        585,
+                        110,
+                        614,
+                        120
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        614,
+                        110,
+                        617,
+                        120
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "FRI",
+            "box": [
+                94,
+                302,
+                117,
+                312
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "FRI",
+                    "box": [
+                        94,
+                        302,
+                        117,
+                        312
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 9.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SAT",
+            "box": [
+                253,
+                302,
+                280,
+                311
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "SAT",
+                    "box": [
+                        253,
+                        302,
+                        280,
+                        311
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SUN",
+            "box": [
+                420,
+                302,
+                448,
+                311
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "SUN",
+                    "box": [
+                        420,
+                        302,
+                        448,
+                        311
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MEMO",
+            "box": [
+                575,
+                301,
+                617,
+                311
+            ],
+            "font_id": 1065,
+            "font_size": 18.35574554609477,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "MEMO",
+                    "box": [
+                        575,
+                        301,
+                        617,
+                        311
+                    ],
+                    "font_size": 18.356,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DATE\u00a0 \u00a0 \u00a0 \u00a0 \u00a0.\u00a0 \u00a0 \u00a0 \u00a0 .",
+            "box": [
+                594,
+                80,
+                687,
+                89
+            ],
+            "font_id": 1065,
+            "font_size": 17.468328951973028,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "DATE",
+                    "box": [
+                        594,
+                        80,
+                        629,
+                        89
+                    ],
+                    "font_size": 17.468,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "box": [
+                        629,
+                        80,
+                        657,
+                        89
+                    ],
+                    "font_size": 17.468,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        657,
+                        80,
+                        660,
+                        89
+                    ],
+                    "font_size": 17.468,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 ",
+                    "box": [
+                        660,
+                        80,
+                        685,
+                        89
+                    ],
+                    "font_size": 17.468,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        685,
+                        80,
+                        687,
+                        89
+                    ],
+                    "font_size": 17.468,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        129,
+                        159,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "My Week Planning",
+            "box": [
+                254,
+                61,
+                551,
+                86
+            ],
+            "font_id": 1064,
+            "font_size": 48.02013333333333,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "My",
+                    "box": [
+                        254,
+                        61,
+                        302,
+                        86
+                    ],
+                    "font_size": 48.02,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        302,
+                        61,
+                        311,
+                        86
+                    ],
+                    "font_size": 48.02,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": "Week",
+                    "box": [
+                        311,
+                        61,
+                        403,
+                        86
+                    ],
+                    "font_size": 48.02,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        403,
+                        61,
+                        411,
+                        86
+                    ],
+                    "font_size": 48.02,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": "Planning",
+                    "box": [
+                        411,
+                        61,
+                        551,
+                        86
+                    ],
+                    "font_size": 48.02,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                }
+            ]
+        }
+    ]
+}

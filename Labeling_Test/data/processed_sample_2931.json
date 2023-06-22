@@ -1,0 +1,619 @@
+{
+    "form": [
+        {
+            "text": "TAX YEAR",
+            "box": [
+                415,
+                390,
+                599,
+                469
+            ],
+            "font_id": 1063,
+            "font_size": 37.3324,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": -15.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "TAX",
+                    "box": [
+                        415,
+                        390,
+                        599,
+                        469
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        479,
+                        408,
+                        535,
+                        452
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                },
+                {
+                    "text": "YEAR",
+                    "box": [
+                        487,
+                        410,
+                        528,
+                        450
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TAX",
+            "box": [
+                368,
+                521,
+                518,
+                670
+            ],
+            "font_id": 5634,
+            "font_size": 106.66399999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": -15.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TAX",
+                    "box": [
+                        368,
+                        521,
+                        518,
+                        670
+                    ],
+                    "font_size": 106.664,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "BONUS",
+            "box": [
+                410,
+                500,
+                523,
+                562
+            ],
+            "font_id": 1063,
+            "font_size": 39.998999999999995,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": -15.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "BONUS",
+                    "box": [
+                        410,
+                        500,
+                        523,
+                        562
+                    ],
+                    "font_size": 39.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "HOW TO\u00a0AVOID\u00a0TAX BOMBS!",
+            "box": [
+                510,
+                83,
+                770,
+                96
+            ],
+            "font_id": 1063,
+            "font_size": 22.6661,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "HOW",
+                    "box": [
+                        510,
+                        83,
+                        558,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        558,
+                        83,
+                        562,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        562,
+                        83,
+                        589,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        589,
+                        83,
+                        593,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "AVOID",
+                    "box": [
+                        593,
+                        83,
+                        653,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        653,
+                        83,
+                        657,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "TAX",
+                    "box": [
+                        657,
+                        83,
+                        695,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        695,
+                        83,
+                        698,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "BOMBS!",
+                    "box": [
+                        698,
+                        83,
+                        770,
+                        96
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1063,
+                    "color": [
+                        231,
+                        238,
+                        251
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Beginner's",
+            "box": [
+                50,
+                40,
+                446,
+                102
+            ],
+            "font_id": 5634,
+            "font_size": 86.66449999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.04,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Beginner's",
+                    "box": [
+                        50,
+                        40,
+                        431,
+                        102
+                    ],
+                    "font_size": 86.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        431,
+                        40,
+                        446,
+                        102
+                    ],
+                    "font_size": 86.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$",
+            "box": [
+                208,
+                597,
+                247,
+                664
+            ],
+            "font_id": 1065,
+            "font_size": 85.46641321591112,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": -4.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        208,
+                        597,
+                        247,
+                        664
+                    ],
+                    "font_size": 85.466,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$",
+            "box": [
+                703,
+                367,
+                731,
+                385
+            ],
+            "font_id": 1065,
+            "font_size": 36.57099962853765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 24.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        703,
+                        367,
+                        731,
+                        385
+                    ],
+                    "font_size": 36.571,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Guide to",
+            "box": [
+                47,
+                122,
+                439,
+                207
+            ],
+            "font_id": 5634,
+            "font_size": 117.3304,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.04,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Guide",
+                    "box": [
+                        47,
+                        122,
+                        320,
+                        207
+                    ],
+                    "font_size": 117.33,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        74,
+                        74,
+                        74
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        320,
+                        122,
+                        340,
+                        207
+                    ],
+                    "font_size": 117.33,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        74,
+                        74,
+                        74
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        340,
+                        122,
+                        439,
+                        207
+                    ],
+                    "font_size": 117.33,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        74,
+                        74,
+                        74
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Tax Return",
+            "box": [
+                50,
+                229,
+                434,
+                292
+            ],
+            "font_id": 5634,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.04,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Tax",
+                    "box": [
+                        50,
+                        229,
+                        184,
+                        292
+                    ],
+                    "font_size": 86.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        184,
+                        229,
+                        199,
+                        292
+                    ],
+                    "font_size": 86.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                },
+                {
+                    "text": "Return",
+                    "box": [
+                        199,
+                        229,
+                        434,
+                        292
+                    ],
+                    "font_size": 86.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 5634,
+                    "color": [
+                        0,
+                        106,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

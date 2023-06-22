@@ -1,0 +1,152 @@
+{
+    "form": [
+        {
+            "text": "CLASS B",
+            "box": [
+                348,
+                41,
+                452,
+                69
+            ],
+            "font_id": 1126,
+            "font_size": 42.6656,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "CLASS",
+                    "box": [
+                        348,
+                        41,
+                        428,
+                        69
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1126,
+                    "color": [
+                        35,
+                        90,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        428,
+                        41,
+                        435,
+                        69
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1126,
+                    "color": [
+                        35,
+                        90,
+                        0
+                    ]
+                },
+                {
+                    "text": "B",
+                    "box": [
+                        435,
+                        41,
+                        452,
+                        69
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1126,
+                    "color": [
+                        35,
+                        90,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TIME TABLE",
+            "box": [
+                124,
+                73,
+                671,
+                176
+            ],
+            "font_id": 1125,
+            "font_size": 159.127675,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TIME",
+                    "box": [
+                        124,
+                        73,
+                        351,
+                        176
+                    ],
+                    "font_size": 159.128,
+                    "letter_spacing": -4.0,
+                    "font_id": 1125,
+                    "color": [
+                        37,
+                        94,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        351,
+                        73,
+                        375,
+                        176
+                    ],
+                    "font_size": 159.128,
+                    "letter_spacing": -4.0,
+                    "font_id": 1125,
+                    "color": [
+                        37,
+                        94,
+                        0
+                    ]
+                },
+                {
+                    "text": "TABLE",
+                    "box": [
+                        375,
+                        73,
+                        671,
+                        176
+                    ],
+                    "font_size": 159.128,
+                    "letter_spacing": -4.0,
+                    "font_id": 1125,
+                    "color": [
+                        37,
+                        94,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

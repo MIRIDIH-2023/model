@@ -1,0 +1,152 @@
+{
+    "form": [
+        {
+            "text": "MIRI Restaurant",
+            "box": [
+                570,
+                140,
+                703,
+                155
+            ],
+            "font_id": 781,
+            "font_size": 42.6656,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.305,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        570,
+                        140,
+                        606,
+                        155
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        238,
+                        238,
+                        238
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        606,
+                        140,
+                        610,
+                        155
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        238,
+                        238,
+                        238
+                    ]
+                },
+                {
+                    "text": "Restaurant",
+                    "box": [
+                        610,
+                        140,
+                        703,
+                        155
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        238,
+                        238,
+                        238
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Thank\nyou",
+            "box": [
+                472,
+                174,
+                703,
+                305
+            ],
+            "font_id": 787,
+            "font_size": 186.66199999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.8287500000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "T",
+                    "box": [
+                        472,
+                        174,
+                        516,
+                        240
+                    ],
+                    "font_size": 186.662,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        224,
+                        113
+                    ]
+                },
+                {
+                    "text": "hank",
+                    "box": [
+                        516,
+                        174,
+                        703,
+                        240
+                    ],
+                    "font_size": 186.662,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        238,
+                        238,
+                        238
+                    ]
+                },
+                {
+                    "text": "you",
+                    "box": [
+                        564,
+                        239,
+                        703,
+                        305
+                    ],
+                    "font_size": 186.662,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        238,
+                        238,
+                        238
+                    ]
+                }
+            ]
+        }
+    ]
+}

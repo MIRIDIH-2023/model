@@ -1,0 +1,186 @@
+{
+    "form": [
+        {
+            "text": "TIME TABLE",
+            "box": [
+                42,
+                117,
+                518,
+                175
+            ],
+            "font_id": 1063,
+            "font_size": 113.6608566827308,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "TIME",
+                    "box": [
+                        42,
+                        117,
+                        236,
+                        175
+                    ],
+                    "font_size": 113.661,
+                    "letter_spacing": -3.021,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        236,
+                        117,
+                        254,
+                        175
+                    ],
+                    "font_size": 113.661,
+                    "letter_spacing": -3.021,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "TABLE",
+                    "box": [
+                        254,
+                        117,
+                        518,
+                        175
+                    ],
+                    "font_size": 113.661,
+                    "letter_spacing": -3.021,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MIRI ELEMENTARY SCHOOL",
+            "box": [
+                146,
+                74,
+                417,
+                89
+            ],
+            "font_id": 1065,
+            "font_size": 28.41359222130225,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0899999999999999,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        146,
+                        74,
+                        186,
+                        89
+                    ],
+                    "font_size": 28.414,
+                    "letter_spacing": -3.021,
+                    "font_id": 1065,
+                    "color": [
+                        45,
+                        76,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        185,
+                        74,
+                        190,
+                        89
+                    ],
+                    "font_size": 28.414,
+                    "letter_spacing": -3.021,
+                    "font_id": 1065,
+                    "color": [
+                        45,
+                        76,
+                        54
+                    ]
+                },
+                {
+                    "text": "ELEMENTARY",
+                    "box": [
+                        190,
+                        74,
+                        324,
+                        89
+                    ],
+                    "font_size": 28.414,
+                    "letter_spacing": -3.021,
+                    "font_id": 1065,
+                    "color": [
+                        45,
+                        76,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        324,
+                        74,
+                        329,
+                        89
+                    ],
+                    "font_size": 28.414,
+                    "letter_spacing": -3.021,
+                    "font_id": 1065,
+                    "color": [
+                        45,
+                        76,
+                        54
+                    ]
+                },
+                {
+                    "text": "SCHOOL",
+                    "box": [
+                        329,
+                        74,
+                        417,
+                        89
+                    ],
+                    "font_size": 28.414,
+                    "letter_spacing": -3.021,
+                    "font_id": 1065,
+                    "color": [
+                        45,
+                        76,
+                        54
+                    ]
+                }
+            ]
+        }
+    ]
+}

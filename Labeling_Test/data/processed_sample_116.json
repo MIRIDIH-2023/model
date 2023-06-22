@@ -1,0 +1,447 @@
+{
+    "form": [
+        {
+            "text": "LUNCH MENU\nCOUPON",
+            "box": [
+                192,
+                182,
+                611,
+                317
+            ],
+            "font_id": 738,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "LUNCH",
+                    "box": [
+                        195,
+                        182,
+                        402,
+                        234
+                    ],
+                    "font_size": 68.832,
+                    "letter_spacing": 1.0,
+                    "font_id": 738,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        402,
+                        182,
+                        418,
+                        234
+                    ],
+                    "font_size": 68.832,
+                    "letter_spacing": 1.0,
+                    "font_id": 738,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "MENU",
+                    "box": [
+                        418,
+                        182,
+                        608,
+                        234
+                    ],
+                    "font_size": 68.832,
+                    "letter_spacing": 1.0,
+                    "font_id": 738,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "COUPON",
+                    "box": [
+                        192,
+                        228,
+                        611,
+                        317
+                    ],
+                    "font_size": 115.489,
+                    "letter_spacing": 1.0,
+                    "font_id": 738,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "03.14_____03.20.20XX\nENJOY 50% OFF",
+            "box": [
+                205,
+                344,
+                598,
+                453
+            ],
+            "font_id": -1,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "03.14_____03.20.20XX",
+                    "box": [
+                        207,
+                        344,
+                        592,
+                        376
+                    ],
+                    "font_size": 50.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "ENJOY",
+                    "box": [
+                        205,
+                        386,
+                        360,
+                        453
+                    ],
+                    "font_size": 100.0,
+                    "letter_spacing": 5.0,
+                    "font_id": 629,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        360,
+                        386,
+                        375,
+                        453
+                    ],
+                    "font_size": 100.0,
+                    "letter_spacing": 5.0,
+                    "font_id": 629,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        375,
+                        386,
+                        491,
+                        453
+                    ],
+                    "font_size": 100.0,
+                    "letter_spacing": 5.0,
+                    "font_id": 629,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        491,
+                        386,
+                        506,
+                        453
+                    ],
+                    "font_size": 100.0,
+                    "letter_spacing": 5.0,
+                    "font_id": 629,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "OFF",
+                    "box": [
+                        506,
+                        386,
+                        598,
+                        453
+                    ],
+                    "font_size": 100.0,
+                    "letter_spacing": 5.0,
+                    "font_id": 629,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "From 11am to 2pm\n*Dinner menu excluded",
+            "box": [
+                263,
+                481,
+                536,
+                534
+            ],
+            "font_id": -1,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2500000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "From",
+                    "box": [
+                        263,
+                        481,
+                        337,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        337,
+                        481,
+                        347,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "11am",
+                    "box": [
+                        347,
+                        481,
+                        423,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        423,
+                        481,
+                        432,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        432,
+                        481,
+                        464,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        464,
+                        481,
+                        473,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "2pm",
+                    "box": [
+                        473,
+                        481,
+                        536,
+                        509
+                    ],
+                    "font_size": 44.667,
+                    "letter_spacing": -2.604,
+                    "font_id": 362,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "*Dinner",
+                    "box": [
+                        309,
+                        519,
+                        368,
+                        534
+                    ],
+                    "font_size": 23.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        368,
+                        519,
+                        372,
+                        534
+                    ],
+                    "font_size": 23.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "menu",
+                    "box": [
+                        372,
+                        519,
+                        416,
+                        534
+                    ],
+                    "font_size": 23.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        416,
+                        519,
+                        421,
+                        534
+                    ],
+                    "font_size": 23.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                },
+                {
+                    "text": "excluded",
+                    "box": [
+                        421,
+                        519,
+                        490,
+                        534
+                    ],
+                    "font_size": 23.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        227,
+                        48,
+                        37
+                    ]
+                }
+            ]
+        }
+    ]
+}

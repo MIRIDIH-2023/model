@@ -1,0 +1,368 @@
+{
+    "form": [
+        {
+            "text": "ATTENTION !",
+            "box": [
+                277,
+                107,
+                523,
+                140
+            ],
+            "font_id": 1375,
+            "font_size": 59.683428377993295,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "ATTENTION",
+                    "box": [
+                        277,
+                        107,
+                        496,
+                        140
+                    ],
+                    "font_size": 59.683,
+                    "letter_spacing": 1.0,
+                    "font_id": 1375,
+                    "color": [
+                        251,
+                        238,
+                        64
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        496,
+                        107,
+                        508,
+                        140
+                    ],
+                    "font_size": 59.683,
+                    "letter_spacing": 1.0,
+                    "font_id": 1375,
+                    "color": [
+                        251,
+                        238,
+                        64
+                    ]
+                },
+                {
+                    "text": "!",
+                    "box": [
+                        508,
+                        107,
+                        523,
+                        140
+                    ],
+                    "font_size": 59.683,
+                    "letter_spacing": 1.0,
+                    "font_id": 1375,
+                    "color": [
+                        251,
+                        238,
+                        64
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ROOMS FOR RENT",
+            "box": [
+                108,
+                154,
+                689,
+                213
+            ],
+            "font_id": 1375,
+            "font_size": 105.75553766325173,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "ROOMS",
+                    "box": [
+                        108,
+                        154,
+                        352,
+                        213
+                    ],
+                    "font_size": 105.756,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        352,
+                        154,
+                        370,
+                        213
+                    ],
+                    "font_size": 105.756,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "box": [
+                        370,
+                        154,
+                        500,
+                        213
+                    ],
+                    "font_size": 105.756,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        500,
+                        154,
+                        519,
+                        213
+                    ],
+                    "font_size": 105.756,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "RENT",
+                    "box": [
+                        519,
+                        154,
+                        689,
+                        213
+                    ],
+                    "font_size": 105.756,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "123-456-7890",
+            "box": [
+                24,
+                237,
+                768,
+                345
+            ],
+            "font_id": 1375,
+            "font_size": 196.6312490499356,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "123-456-7890",
+                    "box": [
+                        24,
+                        237,
+                        768,
+                        345
+                    ],
+                    "font_size": 196.631,
+                    "letter_spacing": -6.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "FRIENDLY OWNER ON CALL",
+            "box": [
+                180,
+                387,
+                622,
+                416
+            ],
+            "font_id": 1375,
+            "font_size": 54.081478580826065,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "FRIENDLY",
+                    "box": [
+                        180,
+                        387,
+                        338,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        338,
+                        387,
+                        348,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "OWNER",
+                    "box": [
+                        348,
+                        387,
+                        470,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        470,
+                        387,
+                        480,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        480,
+                        387,
+                        530,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        530,
+                        387,
+                        539,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "CALL",
+                    "box": [
+                        539,
+                        387,
+                        622,
+                        416
+                    ],
+                    "font_size": 54.081,
+                    "letter_spacing": -3.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

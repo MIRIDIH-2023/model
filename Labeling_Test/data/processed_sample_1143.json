@@ -1,0 +1,152 @@
+{
+    "form": [
+        {
+            "text": "elementary school",
+            "box": [
+                96,
+                42,
+                468,
+                78
+            ],
+            "font_id": 1122,
+            "font_size": 67.05628125000001,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9850000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "ELEMENTARY",
+                    "box": [
+                        96,
+                        42,
+                        324,
+                        78
+                    ],
+                    "font_size": 67.056,
+                    "letter_spacing": 0.0,
+                    "font_id": 1122,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        324,
+                        42,
+                        334,
+                        78
+                    ],
+                    "font_size": 67.056,
+                    "letter_spacing": 0.0,
+                    "font_id": 1122,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "SCHOOL",
+                    "box": [
+                        334,
+                        42,
+                        468,
+                        78
+                    ],
+                    "font_size": 67.056,
+                    "letter_spacing": 0.0,
+                    "font_id": 1122,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TIME\u00a0TABLE",
+            "box": [
+                46,
+                113,
+                516,
+                184
+            ],
+            "font_id": 1114,
+            "font_size": 124.55849275932023,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.213,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TIME",
+                    "box": [
+                        46,
+                        113,
+                        248,
+                        184
+                    ],
+                    "font_size": 124.558,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        248,
+                        113,
+                        268,
+                        184
+                    ],
+                    "font_size": 124.558,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "TABLE",
+                    "box": [
+                        268,
+                        113,
+                        516,
+                        184
+                    ],
+                    "font_size": 124.558,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        221,
+                        90
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,731 @@
+{
+    "form": [
+        {
+            "text": "Survey of Coffee\nBrand Preferences",
+            "box": [
+                33,
+                113,
+                295,
+                183
+            ],
+            "font_id": 1019,
+            "font_size": 41.22505439617171,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.26,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Survey",
+                    "box": [
+                        33,
+                        113,
+                        131,
+                        146
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        131,
+                        113,
+                        140,
+                        146
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        140,
+                        113,
+                        168,
+                        146
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        168,
+                        113,
+                        176,
+                        146
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Coffee",
+                    "box": [
+                        176,
+                        113,
+                        270,
+                        146
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Brand",
+                    "box": [
+                        33,
+                        150,
+                        116,
+                        183
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        116,
+                        150,
+                        125,
+                        183
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Preferences",
+                    "box": [
+                        125,
+                        150,
+                        295,
+                        183
+                    ],
+                    "font_size": 41.225,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Date.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .",
+            "box": [
+                33,
+                46,
+                136,
+                57
+            ],
+            "font_id": 1092,
+            "font_size": 18.666199999999996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Date.",
+                    "box": [
+                        33,
+                        46,
+                        66,
+                        57
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1092,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "box": [
+                        66,
+                        46,
+                        96,
+                        57
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1092,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        96,
+                        46,
+                        100,
+                        57
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1092,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ",
+                    "box": [
+                        100,
+                        46,
+                        133,
+                        57
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1092,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        133,
+                        46,
+                        136,
+                        57
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1092,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The survey is expected to take about 2 minutes. Thank you.",
+            "box": [
+                33,
+                203,
+                404,
+                217
+            ],
+            "font_id": 1017,
+            "font_size": 18.6662,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "The",
+                    "box": [
+                        33,
+                        203,
+                        56,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        56,
+                        203,
+                        60,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "survey",
+                    "box": [
+                        60,
+                        203,
+                        102,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        102,
+                        203,
+                        105,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        105,
+                        203,
+                        115,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        115,
+                        203,
+                        119,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "expected",
+                    "box": [
+                        119,
+                        203,
+                        176,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        176,
+                        203,
+                        180,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        180,
+                        203,
+                        193,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        193,
+                        203,
+                        197,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "take",
+                    "box": [
+                        197,
+                        203,
+                        223,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        223,
+                        203,
+                        227,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "about",
+                    "box": [
+                        227,
+                        203,
+                        263,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        263,
+                        203,
+                        267,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "box": [
+                        267,
+                        203,
+                        275,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        275,
+                        203,
+                        279,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "minutes.",
+                    "box": [
+                        279,
+                        203,
+                        333,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        333,
+                        203,
+                        336,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Thank",
+                    "box": [
+                        336,
+                        203,
+                        374,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        374,
+                        203,
+                        378,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "you.",
+                    "box": [
+                        378,
+                        203,
+                        404,
+                        217
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brand",
+            "box": [
+                455,
+                65,
+                502,
+                80
+            ],
+            "font_id": 647,
+            "font_size": 17.95577948544941,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "BRAND",
+                    "box": [
+                        455,
+                        65,
+                        502,
+                        80
+                    ],
+                    "font_size": 17.956,
+                    "letter_spacing": 4.0,
+                    "font_id": 647,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SURVEY",
+            "box": [
+                456,
+                91,
+                505,
+                100
+            ],
+            "font_id": 693,
+            "font_size": 11.604691154752032,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "SURVEY",
+                    "box": [
+                        456,
+                        91,
+                        505,
+                        100
+                    ],
+                    "font_size": 11.605,
+                    "letter_spacing": 35.0,
+                    "font_id": 693,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

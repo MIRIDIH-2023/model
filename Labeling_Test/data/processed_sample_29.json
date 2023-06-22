@@ -1,0 +1,186 @@
+{
+    "form": [
+        {
+            "text": "\uc0c8\ud559\uae30\u00a0\n\uc0c8\ucd9c\ubc1c",
+            "box": [
+                175,
+                194,
+                663,
+                527
+            ],
+            "font_id": 4246,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "\uc0c8\ud559\uae30",
+                    "box": [
+                        175,
+                        202,
+                        612,
+                        351
+                    ],
+                    "font_size": 214.096,
+                    "letter_spacing": 0.0,
+                    "font_id": 4246,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        612,
+                        194,
+                        663,
+                        352
+                    ],
+                    "font_size": 226.178,
+                    "letter_spacing": 0.0,
+                    "font_id": 4246,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\uc0c8\ucd9c\ubc1c",
+                    "box": [
+                        200,
+                        378,
+                        638,
+                        527
+                    ],
+                    "font_size": 214.096,
+                    "letter_spacing": 0.0,
+                    "font_id": 4246,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "#\ubbf8\ub9ac\ucea0\ud37c\uc2a4 #\uc0c8\ud559\uae30\ub9de\uc774 #EVENT",
+            "box": [
+                219,
+                621,
+                589,
+                639
+            ],
+            "font_id": 1063,
+            "font_size": 30.508113955067106,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "#\ubbf8\ub9ac\ucea0\ud37c\uc2a4",
+                    "box": [
+                        219,
+                        621,
+                        344,
+                        639
+                    ],
+                    "font_size": 30.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        344,
+                        621,
+                        351,
+                        639
+                    ],
+                    "font_size": 30.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "#\uc0c8\ud559\uae30\ub9de\uc774",
+                    "box": [
+                        351,
+                        621,
+                        476,
+                        639
+                    ],
+                    "font_size": 30.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        476,
+                        621,
+                        482,
+                        639
+                    ],
+                    "font_size": 30.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "#EVENT",
+                    "box": [
+                        482,
+                        621,
+                        589,
+                        639
+                    ],
+                    "font_size": 30.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

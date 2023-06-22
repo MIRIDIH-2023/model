@@ -1,0 +1,658 @@
+{
+    "form": [
+        {
+            "text": "cafe miri",
+            "box": [
+                45,
+                32,
+                109,
+                52
+            ],
+            "font_id": 392,
+            "font_size": 26.541643501908666,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "cafe",
+                    "box": [
+                        45,
+                        32,
+                        79,
+                        52
+                    ],
+                    "font_size": 26.542,
+                    "letter_spacing": 0.0,
+                    "font_id": 392,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        79,
+                        32,
+                        81,
+                        52
+                    ],
+                    "font_size": 26.542,
+                    "letter_spacing": 0.0,
+                    "font_id": 392,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "miri",
+                    "box": [
+                        81,
+                        32,
+                        109,
+                        52
+                    ],
+                    "font_size": 26.542,
+                    "letter_spacing": 0.0,
+                    "font_id": 392,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Strawberry yogurt smoothie.",
+            "box": [
+                76,
+                700,
+                356,
+                715
+            ],
+            "font_id": 3408,
+            "font_size": 27.93930604578224,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Strawberry",
+                    "box": [
+                        76,
+                        700,
+                        187,
+                        715
+                    ],
+                    "font_size": 27.939,
+                    "letter_spacing": 0.0,
+                    "font_id": 3408,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        187,
+                        700,
+                        192,
+                        715
+                    ],
+                    "font_size": 27.939,
+                    "letter_spacing": 0.0,
+                    "font_id": 3408,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "yogurt",
+                    "box": [
+                        192,
+                        700,
+                        256,
+                        715
+                    ],
+                    "font_size": 27.939,
+                    "letter_spacing": 0.0,
+                    "font_id": 3408,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        256,
+                        700,
+                        261,
+                        715
+                    ],
+                    "font_size": 27.939,
+                    "letter_spacing": 0.0,
+                    "font_id": 3408,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "smoothie.",
+                    "box": [
+                        261,
+                        700,
+                        356,
+                        715
+                    ],
+                    "font_size": 27.939,
+                    "letter_spacing": 0.0,
+                    "font_id": 3408,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "(R)\u00a0$ 5.0",
+            "box": [
+                403,
+                701,
+                465,
+                714
+            ],
+            "font_id": 3409,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "(R)",
+                    "box": [
+                        403,
+                        705,
+                        422,
+                        714
+                    ],
+                    "font_size": 16.645,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        422,
+                        705,
+                        425,
+                        714
+                    ],
+                    "font_size": 16.645,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "$",
+                    "box": [
+                        425,
+                        701,
+                        435,
+                        714
+                    ],
+                    "font_size": 24.927,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        435,
+                        701,
+                        439,
+                        714
+                    ],
+                    "font_size": 24.927,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "5.0",
+                    "box": [
+                        439,
+                        701,
+                        465,
+                        714
+                    ],
+                    "font_size": 24.927,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "FOOD\nTHERAPY",
+            "box": [
+                121,
+                116,
+                447,
+                277
+            ],
+            "font_id": 541,
+            "font_size": 88.85902146505195,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.84,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "FOOD",
+                    "box": [
+                        194,
+                        116,
+                        373,
+                        173
+                    ],
+                    "font_size": 88.859,
+                    "letter_spacing": -4.0,
+                    "font_id": 541,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "THERAPY",
+                    "box": [
+                        121,
+                        219,
+                        439,
+                        277
+                    ],
+                    "font_size": 88.859,
+                    "letter_spacing": -4.0,
+                    "font_id": 541,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        439,
+                        219,
+                        447,
+                        277
+                    ],
+                    "font_size": 88.859,
+                    "letter_spacing": -4.0,
+                    "font_id": 541,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Your",
+            "box": [
+                230,
+                172,
+                339,
+                220
+            ],
+            "font_id": 1221,
+            "font_size": 82.9262909304834,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Your",
+                    "box": [
+                        230,
+                        172,
+                        339,
+                        220
+                    ],
+                    "font_size": 82.926,
+                    "letter_spacing": 0.0,
+                    "font_id": 1221,
+                    "color": [
+                        255,
+                        191,
+                        191
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Sweet yogurt smoothie filled with strawberries.",
+            "box": [
+                75,
+                730,
+                309,
+                743
+            ],
+            "font_id": 1067,
+            "font_size": 19.41953498648743,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Sweet",
+                    "box": [
+                        75,
+                        730,
+                        107,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        107,
+                        730,
+                        110,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "yogurt",
+                    "box": [
+                        110,
+                        730,
+                        142,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        142,
+                        730,
+                        145,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "smoothie",
+                    "box": [
+                        145,
+                        730,
+                        191,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        191,
+                        730,
+                        194,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "filled",
+                    "box": [
+                        194,
+                        730,
+                        217,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        217,
+                        730,
+                        220,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "with",
+                    "box": [
+                        220,
+                        730,
+                        242,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        242,
+                        730,
+                        245,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                },
+                {
+                    "text": "strawberries.",
+                    "box": [
+                        245,
+                        730,
+                        309,
+                        743
+                    ],
+                    "font_size": 19.42,
+                    "letter_spacing": -5.0,
+                    "font_id": 1067,
+                    "color": [
+                        217,
+                        54,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "NEW",
+            "box": [
+                359,
+                697,
+                382,
+                705
+            ],
+            "font_id": 3409,
+            "font_size": 15.661451981725952,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "NEW",
+                    "box": [
+                        359,
+                        697,
+                        382,
+                        705
+                    ],
+                    "font_size": 15.661,
+                    "letter_spacing": 0.0,
+                    "font_id": 3409,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

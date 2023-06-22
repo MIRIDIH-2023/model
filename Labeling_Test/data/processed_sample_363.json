@@ -1,0 +1,118 @@
+{
+    "form": [
+        {
+            "text": "01",
+            "box": [
+                377,
+                185,
+                421,
+                228
+            ],
+            "font_id": 773,
+            "font_size": 88.64240000000001,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "01",
+                    "box": [
+                        377,
+                        185,
+                        421,
+                        228
+                    ],
+                    "font_size": 88.642,
+                    "letter_spacing": -1.0,
+                    "font_id": 773,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Destination characteristics",
+            "box": [
+                328,
+                238,
+                471,
+                251
+            ],
+            "font_id": 467,
+            "font_size": 27.451875,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Destination",
+                    "box": [
+                        328,
+                        238,
+                        390,
+                        251
+                    ],
+                    "font_size": 27.452,
+                    "letter_spacing": 0.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        390,
+                        238,
+                        393,
+                        251
+                    ],
+                    "font_size": 27.452,
+                    "letter_spacing": 0.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "characteristics",
+                    "box": [
+                        393,
+                        238,
+                        471,
+                        251
+                    ],
+                    "font_size": 27.452,
+                    "letter_spacing": 0.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

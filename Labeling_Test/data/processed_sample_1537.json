@@ -1,0 +1,277 @@
+{
+    "form": [
+        {
+            "text": "MARCH\nSALE",
+            "box": [
+                122,
+                259,
+                670,
+                538
+            ],
+            "font_id": 1055,
+            "font_size": 191.32854999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MARCH",
+                    "box": [
+                        122,
+                        259,
+                        670,
+                        383
+                    ],
+                    "font_size": 191.329,
+                    "letter_spacing": -0.928,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SALE",
+                    "box": [
+                        209,
+                        413,
+                        582,
+                        538
+                    ],
+                    "font_size": 191.329,
+                    "letter_spacing": -0.928,
+                    "font_id": 1055,
+                    "color": [
+                        251,
+                        164,
+                        149
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "WHITE-DAY SPECIAL\u00a0SALE",
+            "box": [
+                162,
+                202,
+                644,
+                239
+            ],
+            "font_id": -1,
+            "font_size": 45.3322,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7889999999999997,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "WHITE-DAY",
+                    "box": [
+                        162,
+                        202,
+                        373,
+                        239
+                    ],
+                    "font_size": 45.332,
+                    "letter_spacing": 7.624,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        373,
+                        202,
+                        385,
+                        239
+                    ],
+                    "font_size": 45.332,
+                    "letter_spacing": 7.624,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SPECIAL",
+                    "box": [
+                        385,
+                        202,
+                        538,
+                        239
+                    ],
+                    "font_size": 45.332,
+                    "letter_spacing": 7.624,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        538,
+                        202,
+                        550,
+                        239
+                    ],
+                    "font_size": 45.332,
+                    "letter_spacing": 7.624,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "SALE",
+                    "box": [
+                        550,
+                        202,
+                        644,
+                        239
+                    ],
+                    "font_size": 45.332,
+                    "letter_spacing": 7.624,
+                    "font_id": 1020,
+                    "color": [
+                        251,
+                        164,
+                        149
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "03.01 - 03.14",
+            "box": [
+                241,
+                588,
+                567,
+                621
+            ],
+            "font_id": 1020,
+            "font_size": 41.24926724279956,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "03.01",
+                    "box": [
+                        241,
+                        588,
+                        374,
+                        621
+                    ],
+                    "font_size": 41.249,
+                    "letter_spacing": 30.885,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        374,
+                        588,
+                        393,
+                        621
+                    ],
+                    "font_size": 41.249,
+                    "letter_spacing": 30.885,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        393,
+                        588,
+                        416,
+                        621
+                    ],
+                    "font_size": 41.249,
+                    "letter_spacing": 30.885,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        416,
+                        588,
+                        434,
+                        621
+                    ],
+                    "font_size": 41.249,
+                    "letter_spacing": 30.885,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "03.14",
+                    "box": [
+                        434,
+                        588,
+                        567,
+                        621
+                    ],
+                    "font_size": 41.249,
+                    "letter_spacing": 30.885,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

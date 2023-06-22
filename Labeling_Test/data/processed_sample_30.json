@@ -1,0 +1,379 @@
+{
+    "form": [
+        {
+            "text": "Winter\nNight Mood",
+            "box": [
+                60,
+                125,
+                599,
+                291
+            ],
+            "font_id": 1118,
+            "font_size": 153.3295,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.93,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Winter",
+                    "box": [
+                        60,
+                        125,
+                        397,
+                        202
+                    ],
+                    "font_size": 153.329,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Night",
+                    "box": [
+                        60,
+                        214,
+                        312,
+                        291
+                    ],
+                    "font_size": 153.329,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        312,
+                        214,
+                        341,
+                        291
+                    ],
+                    "font_size": 153.329,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Mood",
+                    "box": [
+                        341,
+                        214,
+                        599,
+                        291
+                    ],
+                    "font_size": 153.329,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "#PLAYLIST BEST 100",
+            "box": [
+                61,
+                310,
+                457,
+                352
+            ],
+            "font_id": 1018,
+            "font_size": 61.482174681010704,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "#PLAYLIST",
+                    "box": [
+                        61,
+                        310,
+                        267,
+                        352
+                    ],
+                    "font_size": 61.482,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        267,
+                        310,
+                        278,
+                        352
+                    ],
+                    "font_size": 61.482,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": "BEST",
+                    "box": [
+                        278,
+                        310,
+                        374,
+                        352
+                    ],
+                    "font_size": 61.482,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        374,
+                        310,
+                        385,
+                        352
+                    ],
+                    "font_size": 61.482,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": "100",
+                    "box": [
+                        385,
+                        310,
+                        457,
+                        352
+                    ],
+                    "font_size": 61.482,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Let's listen to it together",
+            "box": [
+                85,
+                73,
+                332,
+                97
+            ],
+            "font_id": 1017,
+            "font_size": 34.71613333333333,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Let's",
+                    "box": [
+                        85,
+                        73,
+                        134,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        134,
+                        73,
+                        140,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": "listen",
+                    "box": [
+                        140,
+                        73,
+                        194,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        194,
+                        73,
+                        200,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        200,
+                        73,
+                        220,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        220,
+                        73,
+                        227,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": "it",
+                    "box": [
+                        227,
+                        73,
+                        240,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        226,
+                        185,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        240,
+                        73,
+                        246,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "together",
+                    "box": [
+                        246,
+                        73,
+                        332,
+                        97
+                    ],
+                    "font_size": 34.716,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

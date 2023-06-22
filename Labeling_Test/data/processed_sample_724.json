@@ -1,0 +1,158 @@
+{
+    "form": [
+        {
+            "text": "www.brandname.com",
+            "box": [
+                39,
+                85,
+                173,
+                95
+            ],
+            "font_id": 1092,
+            "font_size": 19.225514875362155,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 178.5,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        39,
+                        85,
+                        43,
+                        95
+                    ],
+                    "font_size": 19.226,
+                    "letter_spacing": 2.0,
+                    "font_id": 1092,
+                    "color": [
+                        89,
+                        89,
+                        89
+                    ]
+                },
+                {
+                    "text": "www.brandname.com",
+                    "box": [
+                        43,
+                        85,
+                        173,
+                        95
+                    ],
+                    "font_size": 19.226,
+                    "letter_spacing": 2.0,
+                    "font_id": 1092,
+                    "color": [
+                        89,
+                        89,
+                        89
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "POSTCARD",
+            "box": [
+                43,
+                54,
+                175,
+                76
+            ],
+            "font_id": 693,
+            "font_size": 30.6790130989822,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 178.5,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "POSTCARD",
+                    "box": [
+                        43,
+                        54,
+                        175,
+                        76
+                    ],
+                    "font_size": 30.679,
+                    "letter_spacing": 19.0,
+                    "font_id": 693,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "post\nstamp",
+            "box": [
+                694,
+                97,
+                734,
+                121
+            ],
+            "font_id": 1092,
+            "font_size": 18.121704815508952,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "POST",
+                    "box": [
+                        699,
+                        97,
+                        729,
+                        106
+                    ],
+                    "font_size": 18.122,
+                    "letter_spacing": 2.0,
+                    "font_id": 1092,
+                    "color": [
+                        194,
+                        194,
+                        194
+                    ]
+                },
+                {
+                    "text": "STAMP",
+                    "box": [
+                        694,
+                        111,
+                        734,
+                        121
+                    ],
+                    "font_size": 18.122,
+                    "letter_spacing": 2.0,
+                    "font_id": 1092,
+                    "color": [
+                        194,
+                        194,
+                        194
+                    ]
+                }
+            ]
+        }
+    ]
+}

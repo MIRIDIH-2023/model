@@ -1,0 +1,186 @@
+{
+    "form": [
+        {
+            "text": "Christmas Carol",
+            "box": [
+                128,
+                125,
+                665,
+                234
+            ],
+            "font_id": 6038,
+            "font_size": 178.82462935974527,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1519140625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Christmas",
+                    "box": [
+                        128,
+                        125,
+                        451,
+                        234
+                    ],
+                    "font_size": 178.825,
+                    "letter_spacing": 0.0,
+                    "font_id": 6038,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        451,
+                        125,
+                        479,
+                        234
+                    ],
+                    "font_size": 178.825,
+                    "letter_spacing": 0.0,
+                    "font_id": 6038,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Carol",
+                    "box": [
+                        479,
+                        125,
+                        665,
+                        234
+                    ],
+                    "font_size": 178.825,
+                    "letter_spacing": 0.0,
+                    "font_id": 6038,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Christmas Play List",
+            "box": [
+                286,
+                281,
+                509,
+                302
+            ],
+            "font_id": 504,
+            "font_size": 29.20390436230576,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.386,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "CHRISTMAS",
+                    "box": [
+                        286,
+                        281,
+                        402,
+                        302
+                    ],
+                    "font_size": 29.204,
+                    "letter_spacing": 10.0,
+                    "font_id": 504,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        402,
+                        281,
+                        409,
+                        302
+                    ],
+                    "font_size": 29.204,
+                    "letter_spacing": 10.0,
+                    "font_id": 504,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "PLAY",
+                    "box": [
+                        409,
+                        281,
+                        458,
+                        302
+                    ],
+                    "font_size": 29.204,
+                    "letter_spacing": 10.0,
+                    "font_id": 504,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        458,
+                        281,
+                        465,
+                        302
+                    ],
+                    "font_size": 29.204,
+                    "letter_spacing": 10.0,
+                    "font_id": 504,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "LIST",
+                    "box": [
+                        465,
+                        281,
+                        509,
+                        302
+                    ],
+                    "font_size": 29.204,
+                    "letter_spacing": 10.0,
+                    "font_id": 504,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

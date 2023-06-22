@@ -1,0 +1,635 @@
+{
+    "form": [
+        {
+            "text": "MIRI ELEMENTARY SCHOOL",
+            "box": [
+                394,
+                34,
+                530,
+                41
+            ],
+            "font_id": 1065,
+            "font_size": 14.675289274848565,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        394,
+                        34,
+                        414,
+                        41
+                    ],
+                    "font_size": 14.675,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        414,
+                        34,
+                        416,
+                        41
+                    ],
+                    "font_size": 14.675,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "ELEMENTARY",
+                    "box": [
+                        416,
+                        34,
+                        483,
+                        41
+                    ],
+                    "font_size": 14.675,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        483,
+                        34,
+                        485,
+                        41
+                    ],
+                    "font_size": 14.675,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SCHOOL",
+                    "box": [
+                        485,
+                        34,
+                        530,
+                        41
+                    ],
+                    "font_size": 14.675,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "H",
+            "box": [
+                381,
+                35,
+                385,
+                41
+            ],
+            "font_id": 647,
+            "font_size": 7.96534968574466,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "H",
+                    "box": [
+                        381,
+                        35,
+                        385,
+                        41
+                    ],
+                    "font_size": 7.965,
+                    "letter_spacing": 0.0,
+                    "font_id": 647,
+                    "color": [
+                        250,
+                        120,
+                        68
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "20XX Curriculum Operations Plan",
+            "box": [
+                529,
+                602,
+                538,
+                446
+            ],
+            "font_id": 1064,
+            "font_size": 13.494493118935363,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.37,
+            "opacity": 255.0,
+            "rotate": 90.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        529,
+                        602,
+                        538,
+                        446
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "20XX",
+                    "box": [
+                        529,
+                        599,
+                        538,
+                        448
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        529,
+                        575,
+                        538,
+                        472
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "Curriculum",
+                    "box": [
+                        529,
+                        573,
+                        538,
+                        474
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        529,
+                        522,
+                        538,
+                        525
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "Operations",
+                    "box": [
+                        529,
+                        520,
+                        538,
+                        528
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        529,
+                        468,
+                        538,
+                        579
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "Plan",
+                    "box": [
+                        529,
+                        466,
+                        538,
+                        582
+                    ],
+                    "font_size": 13.494,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Curriculum",
+            "box": [
+                52,
+                627,
+                341,
+                666
+            ],
+            "font_id": 1063,
+            "font_size": 76.68640914805553,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.14,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Curriculum",
+                    "box": [
+                        52,
+                        627,
+                        341,
+                        666
+                    ],
+                    "font_size": 76.686,
+                    "letter_spacing": -4.0,
+                    "font_id": 1063,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "No. 1 in fostering future talent",
+            "box": [
+                54,
+                589,
+                348,
+                605
+            ],
+            "font_id": 1064,
+            "font_size": 30.082370630648246,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.37,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "No.",
+                    "box": [
+                        54,
+                        589,
+                        87,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        87,
+                        589,
+                        92,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        92,
+                        589,
+                        100,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        100,
+                        589,
+                        106,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "in",
+                    "box": [
+                        106,
+                        589,
+                        123,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        123,
+                        589,
+                        128,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "fostering",
+                    "box": [
+                        128,
+                        589,
+                        219,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        219,
+                        589,
+                        224,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "future",
+                    "box": [
+                        224,
+                        589,
+                        285,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        285,
+                        589,
+                        290,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                },
+                {
+                    "text": "talent",
+                    "box": [
+                        290,
+                        589,
+                        348,
+                        605
+                    ],
+                    "font_size": 30.082,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        65,
+                        65,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Operations Plan",
+            "box": [
+                52,
+                685,
+                508,
+                725
+            ],
+            "font_id": 1063,
+            "font_size": 78.73078369261572,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.14,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Operations",
+                    "box": [
+                        52,
+                        685,
+                        370,
+                        725
+                    ],
+                    "font_size": 78.731,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        250,
+                        120,
+                        68
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        370,
+                        685,
+                        384,
+                        725
+                    ],
+                    "font_size": 78.731,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        250,
+                        120,
+                        68
+                    ]
+                },
+                {
+                    "text": "Plan",
+                    "box": [
+                        384,
+                        685,
+                        508,
+                        725
+                    ],
+                    "font_size": 78.731,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        250,
+                        120,
+                        68
+                    ]
+                }
+            ]
+        }
+    ]
+}

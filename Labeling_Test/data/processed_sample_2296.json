@@ -1,0 +1,1888 @@
+{
+    "form": [
+        {
+            "text": "Miri Interior",
+            "box": [
+                619,
+                79,
+                746,
+                161
+            ],
+            "font_id": 868,
+            "font_size": 99.9974,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Miri",
+                    "box": [
+                        676,
+                        79,
+                        746,
+                        114
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        746,
+                        79,
+                        746,
+                        114
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Interior",
+                    "box": [
+                        619,
+                        126,
+                        746,
+                        161
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Please enter details about the keywords to the left.\nDouble-click the text to modify the information.",
+            "box": [
+                201,
+                241,
+                498,
+                268
+            ],
+            "font_id": 769,
+            "font_size": 29.3326,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4000000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Please",
+                    "box": [
+                        201,
+                        241,
+                        237,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        237,
+                        241,
+                        241,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "enter",
+                    "box": [
+                        241,
+                        241,
+                        272,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        272,
+                        241,
+                        276,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "details",
+                    "box": [
+                        276,
+                        241,
+                        314,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        314,
+                        241,
+                        317,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "about",
+                    "box": [
+                        317,
+                        241,
+                        351,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        351,
+                        241,
+                        355,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        355,
+                        241,
+                        374,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        374,
+                        241,
+                        378,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "keywords",
+                    "box": [
+                        378,
+                        241,
+                        432,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        432,
+                        241,
+                        436,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        436,
+                        241,
+                        448,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        448,
+                        241,
+                        452,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        452,
+                        241,
+                        471,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        471,
+                        241,
+                        475,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "left.",
+                    "box": [
+                        475,
+                        241,
+                        498,
+                        251
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Double-click",
+                    "box": [
+                        201,
+                        258,
+                        273,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        273,
+                        258,
+                        277,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        277,
+                        258,
+                        296,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        296,
+                        258,
+                        300,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "text",
+                    "box": [
+                        300,
+                        258,
+                        323,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        323,
+                        258,
+                        326,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        326,
+                        258,
+                        339,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        339,
+                        258,
+                        343,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "modify",
+                    "box": [
+                        343,
+                        258,
+                        381,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        381,
+                        258,
+                        385,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        385,
+                        258,
+                        404,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        404,
+                        258,
+                        408,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "information.",
+                    "box": [
+                        408,
+                        258,
+                        478,
+                        268
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Kindness",
+            "box": [
+                58,
+                242,
+                163,
+                266
+            ],
+            "font_id": 868,
+            "font_size": 66.66499999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "K",
+                    "box": [
+                        58,
+                        242,
+                        76,
+                        266
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        252,
+                        222,
+                        227
+                    ]
+                },
+                {
+                    "text": "indness",
+                    "box": [
+                        76,
+                        242,
+                        163,
+                        266
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Write down the key details here. Double-click the text to modify the information.",
+            "box": [
+                201,
+                299,
+                487,
+                326
+            ],
+            "font_id": 769,
+            "font_size": 29.3326,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4000000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Write",
+                    "box": [
+                        201,
+                        299,
+                        232,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        232,
+                        299,
+                        236,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "down",
+                    "box": [
+                        236,
+                        299,
+                        268,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        268,
+                        299,
+                        272,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        272,
+                        299,
+                        291,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        291,
+                        299,
+                        295,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "key",
+                    "box": [
+                        295,
+                        299,
+                        314,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        314,
+                        299,
+                        318,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "details",
+                    "box": [
+                        318,
+                        299,
+                        355,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        355,
+                        299,
+                        359,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "here.",
+                    "box": [
+                        359,
+                        299,
+                        389,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        389,
+                        299,
+                        392,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Double-click",
+                    "box": [
+                        392,
+                        299,
+                        464,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        464,
+                        299,
+                        468,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        468,
+                        299,
+                        487,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        487,
+                        299,
+                        487,
+                        308
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "text",
+                    "box": [
+                        201,
+                        316,
+                        224,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        224,
+                        316,
+                        228,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        228,
+                        316,
+                        240,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        240,
+                        316,
+                        244,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "modify",
+                    "box": [
+                        244,
+                        316,
+                        283,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        283,
+                        316,
+                        287,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        287,
+                        316,
+                        306,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        306,
+                        316,
+                        310,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "information.",
+                    "box": [
+                        310,
+                        316,
+                        380,
+                        326
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Diligence",
+            "box": [
+                58,
+                300,
+                163,
+                324
+            ],
+            "font_id": 868,
+            "font_size": 66.66499999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "D",
+                    "box": [
+                        58,
+                        300,
+                        75,
+                        324
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        252,
+                        222,
+                        227
+                    ]
+                },
+                {
+                    "text": "iligence",
+                    "box": [
+                        75,
+                        300,
+                        163,
+                        324
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Please enter details about the keywords to the left.\nDouble-click the text to modify the information.",
+            "box": [
+                201,
+                359,
+                498,
+                386
+            ],
+            "font_id": 769,
+            "font_size": 29.3326,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4000000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Please",
+                    "box": [
+                        201,
+                        359,
+                        237,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        237,
+                        359,
+                        241,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "enter",
+                    "box": [
+                        241,
+                        359,
+                        272,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        272,
+                        359,
+                        276,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "details",
+                    "box": [
+                        276,
+                        359,
+                        314,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        314,
+                        359,
+                        317,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "about",
+                    "box": [
+                        317,
+                        359,
+                        351,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        351,
+                        359,
+                        355,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        355,
+                        359,
+                        374,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        374,
+                        359,
+                        378,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "keywords",
+                    "box": [
+                        378,
+                        359,
+                        432,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        432,
+                        359,
+                        436,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        436,
+                        359,
+                        448,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        448,
+                        359,
+                        452,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        452,
+                        359,
+                        471,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        471,
+                        359,
+                        475,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "left.",
+                    "box": [
+                        475,
+                        359,
+                        498,
+                        369
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Double-click",
+                    "box": [
+                        201,
+                        376,
+                        273,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        273,
+                        376,
+                        277,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        277,
+                        376,
+                        296,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        296,
+                        376,
+                        300,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "text",
+                    "box": [
+                        300,
+                        376,
+                        323,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        323,
+                        376,
+                        326,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        326,
+                        376,
+                        339,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        339,
+                        376,
+                        343,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "modify",
+                    "box": [
+                        343,
+                        376,
+                        381,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        381,
+                        376,
+                        385,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        385,
+                        376,
+                        404,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        404,
+                        376,
+                        408,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "information.",
+                    "box": [
+                        408,
+                        376,
+                        478,
+                        386
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 769,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Quick",
+            "box": [
+                58,
+                361,
+                126,
+                384
+            ],
+            "font_id": 868,
+            "font_size": 66.66499999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Q",
+                    "box": [
+                        58,
+                        361,
+                        77,
+                        384
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        252,
+                        222,
+                        227
+                    ]
+                },
+                {
+                    "text": "uick",
+                    "box": [
+                        77,
+                        361,
+                        126,
+                        384
+                    ],
+                    "font_size": 66.665,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The best service",
+            "box": [
+                609,
+                36,
+                746,
+                53
+            ],
+            "font_id": 868,
+            "font_size": 49.332,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "T",
+                    "box": [
+                        609,
+                        36,
+                        621,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        252,
+                        222,
+                        227
+                    ]
+                },
+                {
+                    "text": "he",
+                    "box": [
+                        621,
+                        36,
+                        641,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        641,
+                        36,
+                        648,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "best",
+                    "box": [
+                        648,
+                        36,
+                        681,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        681,
+                        36,
+                        687,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "service",
+                    "box": [
+                        687,
+                        36,
+                        746,
+                        53
+                    ],
+                    "font_size": 49.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 868,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "form": [
+        {
+            "text": "Cafe",
+            "box": [
+                585,
+                341,
+                724,
+                393
+            ],
+            "font_id": 1118,
+            "font_size": 119.997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.935,
+            "opacity": 255.0,
+            "rotate": 10.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Cafe",
+                    "box": [
+                        585,
+                        341,
+                        724,
+                        393
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Home",
+            "box": [
+                345,
+                299,
+                517,
+                390
+            ],
+            "font_id": 1118,
+            "font_size": 119.997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.935,
+            "opacity": 255.0,
+            "rotate": -5.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Home",
+                    "box": [
+                        345,
+                        299,
+                        517,
+                        390
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1118,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "#Brewing #Homebarista",
+            "box": [
+                52,
+                373,
+                297,
+                395
+            ],
+            "font_id": 1019,
+            "font_size": 32.66585,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "#Brewing",
+                    "box": [
+                        52,
+                        373,
+                        150,
+                        395
+                    ],
+                    "font_size": 32.666,
+                    "letter_spacing": 1.0,
+                    "font_id": 1019,
+                    "color": [
+                        78,
+                        51,
+                        51
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        150,
+                        373,
+                        156,
+                        395
+                    ],
+                    "font_size": 32.666,
+                    "letter_spacing": 1.0,
+                    "font_id": 1019,
+                    "color": [
+                        78,
+                        51,
+                        51
+                    ]
+                },
+                {
+                    "text": "#Homebarista",
+                    "box": [
+                        156,
+                        373,
+                        297,
+                        395
+                    ],
+                    "font_size": 32.666,
+                    "letter_spacing": 1.0,
+                    "font_id": 1019,
+                    "color": [
+                        78,
+                        51,
+                        51
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Vlog",
+            "box": [
+                658,
+                273,
+                714,
+                304
+            ],
+            "font_id": 1118,
+            "font_size": 63.33175,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9349999999999998,
+            "opacity": 255.0,
+            "rotate": 10.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Vlog",
+                    "box": [
+                        658,
+                        273,
+                        714,
+                        304
+                    ],
+                    "font_size": 63.332,
+                    "letter_spacing": 4.0,
+                    "font_id": 1118,
+                    "color": [
+                        211,
+                        178,
+                        146
+                    ]
+                }
+            ]
+        }
+    ]
+}

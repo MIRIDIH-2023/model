@@ -1,0 +1,499 @@
+{
+    "form": [
+        {
+            "text": "www.brandname.com",
+            "box": [
+                224,
+                706,
+                336,
+                715
+            ],
+            "font_id": 651,
+            "font_size": 18.6662,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "www.brandname.com",
+                    "box": [
+                        224,
+                        706,
+                        336,
+                        715
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Hello.Summer!",
+            "box": [
+                207,
+                141,
+                352,
+                165
+            ],
+            "font_id": 1223,
+            "font_size": 42.81652692457152,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Hello.Summer!",
+                    "box": [
+                        207,
+                        141,
+                        352,
+                        165
+                    ],
+                    "font_size": 42.816,
+                    "letter_spacing": -3.0,
+                    "font_id": 1223,
+                    "color": [
+                        211,
+                        149,
+                        112
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Linen style",
+            "box": [
+                134,
+                177,
+                430,
+                218
+            ],
+            "font_id": 1065,
+            "font_size": 79.998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Linen",
+                    "box": [
+                        134,
+                        177,
+                        284,
+                        218
+                    ],
+                    "font_size": 79.998,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        284,
+                        177,
+                        298,
+                        218
+                    ],
+                    "font_size": 79.998,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": "style",
+                    "box": [
+                        298,
+                        177,
+                        430,
+                        218
+                    ],
+                    "font_size": 79.998,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\"UP TO 20% OFF\"",
+            "box": [
+                192,
+                244,
+                372,
+                260
+            ],
+            "font_id": 1064,
+            "font_size": 30.665899999999997,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "\"UP",
+                    "box": [
+                        192,
+                        244,
+                        228,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        228,
+                        244,
+                        233,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        233,
+                        244,
+                        266,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        266,
+                        244,
+                        272,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": "20%",
+                    "box": [
+                        272,
+                        244,
+                        317,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        317,
+                        244,
+                        322,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": "OFF\"",
+                    "box": [
+                        322,
+                        244,
+                        372,
+                        260
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shop now>",
+            "box": [
+                250,
+                304,
+                320,
+                321
+            ],
+            "font_id": 1223,
+            "font_size": 31.571659078998476,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "shop",
+                    "box": [
+                        250,
+                        304,
+                        278,
+                        321
+                    ],
+                    "font_size": 31.572,
+                    "letter_spacing": -3.0,
+                    "font_id": 1223,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        278,
+                        304,
+                        284,
+                        321
+                    ],
+                    "font_size": 31.572,
+                    "letter_spacing": -3.0,
+                    "font_id": 1223,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                },
+                {
+                    "text": "now>",
+                    "box": [
+                        284,
+                        304,
+                        320,
+                        321
+                    ],
+                    "font_size": 31.572,
+                    "letter_spacing": -3.0,
+                    "font_id": 1223,
+                    "color": [
+                        200,
+                        169,
+                        151
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2023 S/S\nSummer Event",
+            "box": [
+                546,
+                789,
+                617,
+                808
+            ],
+            "font_id": 651,
+            "font_size": 17.396513840901047,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "2023",
+                    "box": [
+                        576,
+                        789,
+                        598,
+                        797
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        598,
+                        789,
+                        601,
+                        797
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "S/S",
+                    "box": [
+                        601,
+                        789,
+                        617,
+                        797
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Summer",
+                    "box": [
+                        546,
+                        800,
+                        586,
+                        808
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        585,
+                        800,
+                        589,
+                        808
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Event",
+                    "box": [
+                        589,
+                        800,
+                        617,
+                        808
+                    ],
+                    "font_size": 17.397,
+                    "letter_spacing": 0.0,
+                    "font_id": 651,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

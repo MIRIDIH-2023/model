@@ -1,0 +1,947 @@
+{
+    "form": [
+        {
+            "text": "basketball\nplayer.",
+            "box": [
+                70,
+                70,
+                494,
+                234
+            ],
+            "font_id": 2281,
+            "font_size": 139.80969451824703,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.85,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "basketball",
+                    "box": [
+                        70,
+                        70,
+                        494,
+                        158
+                    ],
+                    "font_size": 139.81,
+                    "letter_spacing": 0.0,
+                    "font_id": 2281,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "player.",
+                    "box": [
+                        142,
+                        145,
+                        422,
+                        234
+                    ],
+                    "font_size": 139.81,
+                    "letter_spacing": 0.0,
+                    "font_id": 2281,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Basketball\u00a0Tryouts",
+            "box": [
+                17,
+                669,
+                366,
+                706
+            ],
+            "font_id": 2243,
+            "font_size": 53.331999999999994,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.06,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "BASKETBALL",
+                    "box": [
+                        17,
+                        669,
+                        213,
+                        706
+                    ],
+                    "font_size": 53.332,
+                    "letter_spacing": -6.0,
+                    "font_id": 2243,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        213,
+                        669,
+                        222,
+                        706
+                    ],
+                    "font_size": 53.332,
+                    "letter_spacing": -6.0,
+                    "font_id": 2243,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "TRYOUTS",
+                    "box": [
+                        222,
+                        669,
+                        366,
+                        706
+                    ],
+                    "font_size": 53.332,
+                    "letter_spacing": -6.0,
+                    "font_id": 2243,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "OPEN FROM:\nMARCH - APRIL 2060",
+            "box": [
+                418,
+                676,
+                549,
+                706
+            ],
+            "font_id": 2249,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.15,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "OPEN",
+                    "box": [
+                        460,
+                        676,
+                        499,
+                        692
+                    ],
+                    "font_size": 23.122,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        499,
+                        676,
+                        504,
+                        692
+                    ],
+                    "font_size": 23.122,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "FROM:",
+                    "box": [
+                        504,
+                        676,
+                        549,
+                        692
+                    ],
+                    "font_size": 23.122,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "MARCH",
+                    "box": [
+                        418,
+                        692,
+                        464,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        464,
+                        692,
+                        468,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        468,
+                        692,
+                        473,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        473,
+                        692,
+                        477,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "APRIL",
+                    "box": [
+                        477,
+                        692,
+                        513,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        513,
+                        692,
+                        517,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "2060",
+                    "box": [
+                        517,
+                        692,
+                        549,
+                        706
+                    ],
+                    "font_size": 19.611,
+                    "letter_spacing": 0.0,
+                    "font_id": 2249,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "CAPTAIN\u00a0| Daniel Smith",
+            "box": [
+                18,
+                757,
+                152,
+                770
+            ],
+            "font_id": -1,
+            "font_size": 18.6662,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "CAPTAIN",
+                    "box": [
+                        18,
+                        757,
+                        67,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 647,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        67,
+                        757,
+                        70,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "|",
+                    "box": [
+                        70,
+                        757,
+                        73,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        73,
+                        757,
+                        75,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "DANIEL",
+                    "box": [
+                        75,
+                        757,
+                        114,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        114,
+                        757,
+                        117,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SMITH",
+                    "box": [
+                        117,
+                        757,
+                        152,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Questions\u00a0\u00a0|\u00a0 \u00a01-800-000-0000",
+            "box": [
+                181,
+                757,
+                344,
+                770
+            ],
+            "font_id": -1,
+            "font_size": 18.6662,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "QUESTIONS",
+                    "box": [
+                        181,
+                        757,
+                        248,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 647,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0\u00a0",
+                    "box": [
+                        248,
+                        757,
+                        253,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "|",
+                    "box": [
+                        253,
+                        757,
+                        256,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0",
+                    "box": [
+                        256,
+                        757,
+                        263,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "1-800-000-0000",
+                    "box": [
+                        263,
+                        757,
+                        344,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "PlacE |\u00a0 Miri Campus, B02 GYM",
+            "box": [
+                375,
+                757,
+                547,
+                770
+            ],
+            "font_id": -1,
+            "font_size": 18.6662,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "PLACE",
+                    "box": [
+                        375,
+                        757,
+                        412,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 647,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        412,
+                        757,
+                        414,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "|",
+                    "box": [
+                        414,
+                        757,
+                        417,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        417,
+                        757,
+                        422,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "MIRI",
+                    "box": [
+                        422,
+                        757,
+                        445,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        445,
+                        757,
+                        447,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "CAMPUS,",
+                    "box": [
+                        447,
+                        757,
+                        496,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        496,
+                        757,
+                        499,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "B02",
+                    "box": [
+                        499,
+                        757,
+                        519,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        519,
+                        757,
+                        521,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "GYM",
+                    "box": [
+                        521,
+                        757,
+                        545,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        545,
+                        757,
+                        547,
+                        770
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": -2.0,
+                    "font_id": 467,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Only for Real Ballers!",
+            "box": [
+                183,
+                36,
+                383,
+                59
+            ],
+            "font_id": 2247,
+            "font_size": 33.465819767441864,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Only",
+                    "box": [
+                        183,
+                        36,
+                        228,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        228,
+                        36,
+                        235,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        235,
+                        36,
+                        262,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        262,
+                        36,
+                        269,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Real",
+                    "box": [
+                        269,
+                        36,
+                        309,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        309,
+                        36,
+                        316,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Ballers!",
+                    "box": [
+                        316,
+                        36,
+                        383,
+                        59
+                    ],
+                    "font_size": 33.466,
+                    "letter_spacing": -4.0,
+                    "font_id": 2247,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

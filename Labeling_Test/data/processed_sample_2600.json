@@ -1,0 +1,447 @@
+{
+    "form": [
+        {
+            "text": "BRAND NAME",
+            "box": [
+                50,
+                400,
+                152,
+                410
+            ],
+            "font_id": 1063,
+            "font_size": 31.332557964115164,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5500000000000003,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "BRAND",
+                    "box": [
+                        50,
+                        400,
+                        103,
+                        410
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        103,
+                        400,
+                        107,
+                        410
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "box": [
+                        107,
+                        400,
+                        152,
+                        410
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Thank you",
+            "box": [
+                247,
+                199,
+                551,
+                240
+            ],
+            "font_id": 1063,
+            "font_size": 125.35258493747588,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5499999999999998,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Thank",
+                    "box": [
+                        247,
+                        199,
+                        431,
+                        240
+                    ],
+                    "font_size": 125.353,
+                    "letter_spacing": -0.602,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        431,
+                        199,
+                        445,
+                        240
+                    ],
+                    "font_size": 125.353,
+                    "letter_spacing": -0.602,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "you",
+                    "box": [
+                        445,
+                        199,
+                        551,
+                        240
+                    ],
+                    "font_size": 125.353,
+                    "letter_spacing": -0.602,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Contact\u00a0Brand Lab\u00a0 Olivia White\u00a0 miribeauty@miribt.com\u00a0\u00a0   P 1.123.456.7890",
+            "box": [
+                226,
+                399,
+                622,
+                411
+            ],
+            "font_id": -1,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.789,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Contact",
+                    "box": [
+                        226,
+                        399,
+                        270,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        270,
+                        399,
+                        273,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Brand",
+                    "box": [
+                        273,
+                        401,
+                        298,
+                        411
+                    ],
+                    "font_size": 21.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        298,
+                        401,
+                        301,
+                        411
+                    ],
+                    "font_size": 21.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Lab",
+                    "box": [
+                        301,
+                        401,
+                        316,
+                        411
+                    ],
+                    "font_size": 21.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        316,
+                        399,
+                        323,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Olivia",
+                    "box": [
+                        323,
+                        399,
+                        351,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        351,
+                        399,
+                        355,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "White",
+                    "box": [
+                        355,
+                        399,
+                        386,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        386,
+                        399,
+                        393,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "miribeauty@miribt.com",
+                    "box": [
+                        393,
+                        399,
+                        515,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0\u00a0",
+                    "box": [
+                        515,
+                        399,
+                        522,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "   ",
+                    "box": [
+                        522,
+                        399,
+                        525,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "P",
+                    "box": [
+                        525,
+                        399,
+                        533,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        533,
+                        399,
+                        536,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "1.123.456.7890",
+                    "box": [
+                        536,
+                        399,
+                        622,
+                        411
+                    ],
+                    "font_size": 26.391,
+                    "letter_spacing": 1.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

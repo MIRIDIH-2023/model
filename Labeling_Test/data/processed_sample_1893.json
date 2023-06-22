@@ -1,0 +1,169 @@
+{
+    "form": [
+        {
+            "text": "COMPANY",
+            "box": [
+                173,
+                188,
+                622,
+                291
+            ],
+            "font_id": 773,
+            "font_size": 213.32799999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.88,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "C",
+                    "box": [
+                        173,
+                        188,
+                        232,
+                        291
+                    ],
+                    "font_size": 213.328,
+                    "letter_spacing": 0.0,
+                    "font_id": 773,
+                    "color": [
+                        47,
+                        165,
+                        153
+                    ]
+                },
+                {
+                    "text": "OMPANY",
+                    "box": [
+                        232,
+                        188,
+                        622,
+                        291
+                    ],
+                    "font_size": 213.328,
+                    "letter_spacing": 0.0,
+                    "font_id": 773,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "BIZ company introduction",
+            "box": [
+                304,
+                173,
+                521,
+                196
+            ],
+            "font_id": 592,
+            "font_size": 18.6662,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.88,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "BIZ",
+                    "box": [
+                        310,
+                        173,
+                        365,
+                        182
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 186.607,
+                    "font_id": 592,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        365,
+                        173,
+                        382,
+                        182
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 186.607,
+                    "font_id": 592,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "company",
+                    "box": [
+                        382,
+                        173,
+                        516,
+                        182
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 186.607,
+                    "font_id": 592,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        516,
+                        173,
+                        516,
+                        182
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 186.607,
+                    "font_id": 592,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "introduction",
+                    "box": [
+                        304,
+                        187,
+                        521,
+                        196
+                    ],
+                    "font_size": 18.666,
+                    "letter_spacing": 186.607,
+                    "font_id": 592,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

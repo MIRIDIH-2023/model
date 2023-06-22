@@ -1,0 +1,169 @@
+{
+    "form": [
+        {
+            "text": "BRAND NAME",
+            "box": [
+                453,
+                368,
+                555,
+                378
+            ],
+            "font_id": 1063,
+            "font_size": 31.332557964115164,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5500000000000003,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "BRAND",
+                    "box": [
+                        453,
+                        368,
+                        506,
+                        378
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        506,
+                        368,
+                        510,
+                        378
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "box": [
+                        510,
+                        368,
+                        555,
+                        378
+                    ],
+                    "font_size": 31.333,
+                    "letter_spacing": -0.596,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miridi Beauty\nSmile",
+            "box": [
+                370,
+                171,
+                735,
+                279
+            ],
+            "font_id": 1063,
+            "font_size": 117.38139985622097,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Miridi",
+                    "box": [
+                        370,
+                        171,
+                        526,
+                        210
+                    ],
+                    "font_size": 117.381,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        526,
+                        171,
+                        539,
+                        210
+                    ],
+                    "font_size": 117.381,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Beauty",
+                    "box": [
+                        539,
+                        171,
+                        735,
+                        210
+                    ],
+                    "font_size": 117.381,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Smile",
+                    "box": [
+                        370,
+                        240,
+                        522,
+                        279
+                    ],
+                    "font_size": 117.381,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

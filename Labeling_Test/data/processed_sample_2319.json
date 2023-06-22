@@ -1,0 +1,118 @@
+{
+    "form": [
+        {
+            "text": "THANK YOU",
+            "box": [
+                264,
+                202,
+                537,
+                238
+            ],
+            "font_id": 740,
+            "font_size": 99.59249794559355,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.540625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "THANK",
+                    "box": [
+                        264,
+                        202,
+                        426,
+                        238
+                    ],
+                    "font_size": 99.592,
+                    "letter_spacing": 5.034,
+                    "font_id": 740,
+                    "color": [
+                        194,
+                        147,
+                        76
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        426,
+                        202,
+                        439,
+                        238
+                    ],
+                    "font_size": 99.592,
+                    "letter_spacing": 5.034,
+                    "font_id": 740,
+                    "color": [
+                        194,
+                        147,
+                        76
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "box": [
+                        439,
+                        202,
+                        537,
+                        238
+                    ],
+                    "font_size": 99.592,
+                    "letter_spacing": 5.034,
+                    "font_id": 740,
+                    "color": [
+                        194,
+                        147,
+                        76
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "PRESENTATION",
+            "box": [
+                332,
+                250,
+                471,
+                262
+            ],
+            "font_id": 847,
+            "font_size": 27.683814063624986,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7618164062500001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "PRESENTATION",
+                    "box": [
+                        332,
+                        250,
+                        471,
+                        262
+                    ],
+                    "font_size": 27.684,
+                    "letter_spacing": 40.745,
+                    "font_id": 847,
+                    "color": [
+                        194,
+                        147,
+                        76
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,973 @@
+{
+    "form": [
+        {
+            "text": "Guatemala Antigua",
+            "box": [
+                116,
+                212,
+                679,
+                288
+            ],
+            "font_id": 1020,
+            "font_size": 93.1741411764706,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Guatemala",
+                    "box": [
+                        116,
+                        212,
+                        437,
+                        288
+                    ],
+                    "font_size": 93.174,
+                    "letter_spacing": -6.999,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        437,
+                        212,
+                        452,
+                        288
+                    ],
+                    "font_size": 93.174,
+                    "letter_spacing": -6.999,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "Antigua",
+                    "box": [
+                        452,
+                        212,
+                        679,
+                        288
+                    ],
+                    "font_size": 93.174,
+                    "letter_spacing": -6.999,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Signature coffee",
+            "box": [
+                304,
+                301,
+                494,
+                328
+            ],
+            "font_id": 1017,
+            "font_size": 33.8814,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.37,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Signature",
+                    "box": [
+                        304,
+                        301,
+                        414,
+                        328
+                    ],
+                    "font_size": 33.881,
+                    "letter_spacing": -1.114,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        414,
+                        301,
+                        421,
+                        328
+                    ],
+                    "font_size": 33.881,
+                    "letter_spacing": -1.114,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "coffee",
+                    "box": [
+                        421,
+                        301,
+                        494,
+                        328
+                    ],
+                    "font_size": 33.881,
+                    "letter_spacing": -1.114,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Coffee Bean Features",
+            "box": [
+                330,
+                382,
+                480,
+                398
+            ],
+            "font_id": 1020,
+            "font_size": 19.058294117647062,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.48,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Coffee",
+                    "box": [
+                        330,
+                        382,
+                        376,
+                        398
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        376,
+                        382,
+                        380,
+                        398
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "Bean",
+                    "box": [
+                        380,
+                        382,
+                        415,
+                        398
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        415,
+                        382,
+                        419,
+                        398
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "Features",
+                    "box": [
+                        419,
+                        382,
+                        480,
+                        398
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Signature coffee\nfrom Guatemala",
+            "box": [
+                338,
+                416,
+                472,
+                460
+            ],
+            "font_id": 1017,
+            "font_size": 23.29351260504202,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Signature",
+                    "box": [
+                        338,
+                        416,
+                        415,
+                        435
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        415,
+                        416,
+                        420,
+                        435
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "coffee",
+                    "box": [
+                        420,
+                        416,
+                        472,
+                        435
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "from",
+                    "box": [
+                        340,
+                        441,
+                        378,
+                        460
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        377,
+                        441,
+                        382,
+                        460
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "Guatemala",
+                    "box": [
+                        382,
+                        441,
+                        470,
+                        460
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Aroma",
+            "box": [
+                163,
+                546,
+                219,
+                565
+            ],
+            "font_id": 1019,
+            "font_size": 23.29353529411765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Aroma",
+                    "box": [
+                        163,
+                        546,
+                        219,
+                        565
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Acidity",
+            "box": [
+                163,
+                582,
+                222,
+                601
+            ],
+            "font_id": 1019,
+            "font_size": 23.29353529411765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Acidity",
+                    "box": [
+                        163,
+                        582,
+                        222,
+                        601
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Sweetness",
+            "box": [
+                163,
+                618,
+                258,
+                637
+            ],
+            "font_id": 1019,
+            "font_size": 23.29353529411765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Sweetness",
+                    "box": [
+                        163,
+                        618,
+                        258,
+                        637
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Bitterness",
+            "box": [
+                163,
+                654,
+                251,
+                673
+            ],
+            "font_id": 1019,
+            "font_size": 23.29353529411765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Bitterness",
+                    "box": [
+                        163,
+                        654,
+                        251,
+                        673
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Body",
+            "box": [
+                163,
+                690,
+                206,
+                709
+            ],
+            "font_id": 1019,
+            "font_size": 23.29353529411765,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Body",
+                    "box": [
+                        163,
+                        690,
+                        206,
+                        709
+                    ],
+                    "font_size": 23.294,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "medium",
+            "box": [
+                553,
+                690,
+                609,
+                706
+            ],
+            "font_id": 1019,
+            "font_size": 19.05834705882353,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "medium",
+                    "box": [
+                        553,
+                        690,
+                        609,
+                        706
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "high",
+            "box": [
+                566,
+                661,
+                596,
+                677
+            ],
+            "font_id": 1019,
+            "font_size": 19.05836974789916,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 10,
+            "words": [
+                {
+                    "text": "high",
+                    "box": [
+                        566,
+                        661,
+                        596,
+                        677
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "city",
+            "box": [
+                568,
+                633,
+                594,
+                649
+            ],
+            "font_id": 1019,
+            "font_size": 19.05836974789916,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 11,
+            "words": [
+                {
+                    "text": "city",
+                    "box": [
+                        568,
+                        633,
+                        594,
+                        649
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "full city",
+            "box": [
+                555,
+                603,
+                607,
+                619
+            ],
+            "font_id": 1019,
+            "font_size": 19.05836974789916,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 12,
+            "words": [
+                {
+                    "text": "full",
+                    "box": [
+                        555,
+                        603,
+                        576,
+                        619
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        576,
+                        603,
+                        581,
+                        619
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "city",
+                    "box": [
+                        581,
+                        603,
+                        607,
+                        619
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "french",
+            "box": [
+                558,
+                575,
+                603,
+                591
+            ],
+            "font_id": 1019,
+            "font_size": 19.05836974789916,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 13,
+            "words": [
+                {
+                    "text": "french",
+                    "box": [
+                        558,
+                        575,
+                        603,
+                        591
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "italian",
+            "box": [
+                559,
+                546,
+                602,
+                561
+            ],
+            "font_id": 1019,
+            "font_size": 19.05836974789916,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4208,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 14,
+            "words": [
+                {
+                    "text": "italian",
+                    "box": [
+                        559,
+                        546,
+                        602,
+                        561
+                    ],
+                    "font_size": 19.058,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u2605",
+            "box": [
+                625,
+                597,
+                645,
+                620
+            ],
+            "font_id": 467,
+            "font_size": 27.000000000000053,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 15,
+            "words": [
+                {
+                    "text": "\u2605",
+                    "box": [
+                        625,
+                        597,
+                        645,
+                        620
+                    ],
+                    "font_size": 27.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 467,
+                    "color": [
+                        154,
+                        32,
+                        37
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Roasting\u00a0Point",
+            "box": [
+                507,
+                671,
+                519,
+                581
+            ],
+            "font_id": 1019,
+            "font_size": 16.94075294117647,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 90.0,
+            "id": 16,
+            "words": [
+                {
+                    "text": "Roasting",
+                    "box": [
+                        507,
+                        671,
+                        519,
+                        581
+                    ],
+                    "font_size": 16.941,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        507,
+                        617,
+                        519,
+                        635
+                    ],
+                    "font_size": 16.941,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "text": "Point",
+                    "box": [
+                        507,
+                        613,
+                        519,
+                        639
+                    ],
+                    "font_size": 16.941,
+                    "letter_spacing": 1.964,
+                    "font_id": 1019,
+                    "color": [
+                        120,
+                        120,
+                        120
+                    ]
+                }
+            ]
+        }
+    ]
+}

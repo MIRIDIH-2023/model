@@ -1,0 +1,362 @@
+{
+    "form": [
+        {
+            "text": "What's your\nholiday budget?",
+            "box": [
+                179,
+                123,
+                619,
+                244
+            ],
+            "font_id": 1125,
+            "font_size": 77.3312,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "What's",
+                    "box": [
+                        237,
+                        123,
+                        419,
+                        181
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        419,
+                        123,
+                        434,
+                        181
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": "your",
+                    "box": [
+                        434,
+                        123,
+                        561,
+                        181
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": "holiday",
+                    "box": [
+                        179,
+                        186,
+                        379,
+                        244
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        67,
+                        111,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        379,
+                        186,
+                        395,
+                        244
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        67,
+                        111,
+                        39
+                    ]
+                },
+                {
+                    "text": "bud",
+                    "box": [
+                        395,
+                        186,
+                        496,
+                        244
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        67,
+                        111,
+                        39
+                    ]
+                },
+                {
+                    "text": "get?",
+                    "box": [
+                        496,
+                        186,
+                        619,
+                        244
+                    ],
+                    "font_size": 77.331,
+                    "letter_spacing": -1.0,
+                    "font_id": 1125,
+                    "color": [
+                        67,
+                        111,
+                        39
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Cost-effective & restrained",
+            "box": [
+                245,
+                490,
+                554,
+                585
+            ],
+            "font_id": 1393,
+            "font_size": 58.6652,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Cost-effective",
+                    "box": [
+                        245,
+                        490,
+                        520,
+                        533
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        520,
+                        490,
+                        532,
+                        533
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        532,
+                        490,
+                        554,
+                        533
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        554,
+                        490,
+                        554,
+                        533
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                },
+                {
+                    "text": "restrained",
+                    "box": [
+                        315,
+                        542,
+                        484,
+                        585
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        91,
+                        62,
+                        44
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Flexible & YOLO",
+            "box": [
+                254,
+                364,
+                544,
+                407
+            ],
+            "font_id": 1393,
+            "font_size": 58.6652,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Flexible",
+                    "box": [
+                        254,
+                        364,
+                        383,
+                        407
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        255,
+                        248,
+                        228
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        383,
+                        364,
+                        395,
+                        407
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        255,
+                        248,
+                        228
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        395,
+                        364,
+                        416,
+                        407
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        255,
+                        248,
+                        228
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        416,
+                        364,
+                        429,
+                        407
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        255,
+                        248,
+                        228
+                    ]
+                },
+                {
+                    "text": "YOLO",
+                    "box": [
+                        429,
+                        364,
+                        544,
+                        407
+                    ],
+                    "font_size": 58.665,
+                    "letter_spacing": -1.0,
+                    "font_id": 1393,
+                    "color": [
+                        255,
+                        248,
+                        228
+                    ]
+                }
+            ]
+        }
+    ]
+}

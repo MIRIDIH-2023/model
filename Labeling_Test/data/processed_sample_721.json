@@ -1,0 +1,691 @@
+{
+    "form": [
+        {
+            "text": "CAFENAME",
+            "box": [
+                189,
+                164,
+                611,
+                230
+            ],
+            "font_id": 1013,
+            "font_size": 110.20333460886678,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.182,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "CAFENAME",
+                    "box": [
+                        189,
+                        164,
+                        611,
+                        230
+                    ],
+                    "font_size": 110.203,
+                    "letter_spacing": 2.178,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "OPEN A.M11:00-CLOSE P.M09:00",
+            "box": [
+                243,
+                260,
+                556,
+                277
+            ],
+            "font_id": 1013,
+            "font_size": 28.869778809786105,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1820000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "OPEN",
+                    "box": [
+                        243,
+                        260,
+                        294,
+                        277
+                    ],
+                    "font_size": 28.87,
+                    "letter_spacing": 0.0,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        294,
+                        260,
+                        301,
+                        277
+                    ],
+                    "font_size": 28.87,
+                    "letter_spacing": 0.0,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "A.M11:00-CLOSE",
+                    "box": [
+                        301,
+                        260,
+                        463,
+                        277
+                    ],
+                    "font_size": 28.87,
+                    "letter_spacing": 0.0,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        463,
+                        260,
+                        469,
+                        277
+                    ],
+                    "font_size": 28.87,
+                    "letter_spacing": 0.0,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "P.M09:00",
+                    "box": [
+                        469,
+                        260,
+                        556,
+                        277
+                    ],
+                    "font_size": 28.87,
+                    "letter_spacing": 0.0,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "AMERICANO \u00b7 ESPRESSO \u00b7 GREEN TEA\nCAFFE LATTE \u00b7 CAKE \u00b7 SANDWICH \u00b7 MACARON",
+            "box": [
+                129,
+                380,
+                670,
+                439
+            ],
+            "font_id": 1013,
+            "font_size": 34.1630337287487,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.76118,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "AMERICANO",
+                    "box": [
+                        179,
+                        380,
+                        324,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        324,
+                        380,
+                        332,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "\u00b7",
+                    "box": [
+                        332,
+                        380,
+                        339,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        339,
+                        380,
+                        347,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "ESPRESSO",
+                    "box": [
+                        347,
+                        380,
+                        462,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        462,
+                        380,
+                        470,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "\u00b7",
+                    "box": [
+                        470,
+                        380,
+                        477,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        477,
+                        380,
+                        485,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "GREEN",
+                    "box": [
+                        485,
+                        380,
+                        566,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        566,
+                        380,
+                        574,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "TEA",
+                    "box": [
+                        574,
+                        380,
+                        620,
+                        401
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "CAFFE",
+                    "box": [
+                        129,
+                        418,
+                        203,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        203,
+                        418,
+                        211,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "LATTE",
+                    "box": [
+                        211,
+                        418,
+                        286,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        286,
+                        418,
+                        294,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "\u00b7",
+                    "box": [
+                        294,
+                        418,
+                        301,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        301,
+                        418,
+                        309,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "CAKE",
+                    "box": [
+                        309,
+                        418,
+                        373,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        373,
+                        418,
+                        381,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "\u00b7",
+                    "box": [
+                        381,
+                        418,
+                        388,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        388,
+                        418,
+                        396,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "SANDWICH",
+                    "box": [
+                        396,
+                        418,
+                        527,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        527,
+                        418,
+                        535,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "\u00b7",
+                    "box": [
+                        535,
+                        418,
+                        542,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        542,
+                        418,
+                        550,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "MACARON",
+                    "box": [
+                        550,
+                        418,
+                        670,
+                        439
+                    ],
+                    "font_size": 34.163,
+                    "letter_spacing": 2.166,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "CAFE NAME",
+            "box": [
+                352,
+                484,
+                447,
+                499
+            ],
+            "font_id": 1013,
+            "font_size": 24.979422511343135,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1820000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "CAFE",
+                    "box": [
+                        352,
+                        484,
+                        393,
+                        499
+                    ],
+                    "font_size": 24.979,
+                    "letter_spacing": -2.162,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        393,
+                        484,
+                        398,
+                        499
+                    ],
+                    "font_size": 24.979,
+                    "letter_spacing": -2.162,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "box": [
+                        398,
+                        484,
+                        447,
+                        499
+                    ],
+                    "font_size": 24.979,
+                    "letter_spacing": -2.162,
+                    "font_id": 1013,
+                    "color": [
+                        255,
+                        236,
+                        207
+                    ]
+                }
+            ]
+        }
+    ]
+}

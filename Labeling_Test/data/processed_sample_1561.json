@@ -1,0 +1,755 @@
+{
+    "form": [
+        {
+            "text": "STUDY PLAN",
+            "box": [
+                281,
+                148,
+                356,
+                158
+            ],
+            "font_id": 787,
+            "font_size": 17.804441093019044,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.105,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "STUDY",
+                    "box": [
+                        281,
+                        148,
+                        320,
+                        158
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        320,
+                        148,
+                        324,
+                        158
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "PLAN",
+                    "box": [
+                        324,
+                        148,
+                        356,
+                        158
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TOTAL TIME",
+            "box": [
+                61,
+                685,
+                131,
+                695
+            ],
+            "font_id": 787,
+            "font_size": 17.8044465279812,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.105,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "box": [
+                        61,
+                        685,
+                        99,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        99,
+                        685,
+                        102,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "box": [
+                        102,
+                        685,
+                        131,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DATE\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0/\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0/",
+            "box": [
+                48,
+                147,
+                200,
+                156
+            ],
+            "font_id": 787,
+            "font_size": 17.804441093018937,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.835,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "DATE",
+                    "box": [
+                        48,
+                        147,
+                        79,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "box": [
+                        79,
+                        147,
+                        137,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "/",
+                    "box": [
+                        137,
+                        147,
+                        143,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "box": [
+                        143,
+                        147,
+                        180,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "/",
+                    "box": [
+                        180,
+                        147,
+                        186,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        186,
+                        147,
+                        200,
+                        156
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 100.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TODAY'S GOAL",
+            "box": [
+                366,
+                685,
+                452,
+                695
+            ],
+            "font_id": 787,
+            "font_size": 17.8044465279812,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.105,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "TODAY'S",
+                    "box": [
+                        366,
+                        685,
+                        417,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        417,
+                        685,
+                        420,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "GOAL",
+                    "box": [
+                        420,
+                        685,
+                        452,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MEMO",
+            "box": [
+                50,
+                400,
+                87,
+                410
+            ],
+            "font_id": 787,
+            "font_size": 17.80449055117366,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.105,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "MEMO",
+                    "box": [
+                        50,
+                        400,
+                        87,
+                        410
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "COMMENT",
+            "box": [
+                212,
+                685,
+                272,
+                695
+            ],
+            "font_id": 787,
+            "font_size": 17.8044465279812,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.105,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "COMMENT",
+                    "box": [
+                        212,
+                        685,
+                        272,
+                        695
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TO DO LIST",
+            "box": [
+                50,
+                211,
+                115,
+                221
+            ],
+            "font_id": 787,
+            "font_size": 17.80446087628066,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1050000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "TO",
+                    "box": [
+                        50,
+                        211,
+                        66,
+                        221
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        66,
+                        211,
+                        69,
+                        221
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "DO",
+                    "box": [
+                        69,
+                        211,
+                        86,
+                        221
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        86,
+                        211,
+                        90,
+                        221
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "LIST",
+                    "box": [
+                        90,
+                        211,
+                        115,
+                        221
+                    ],
+                    "font_size": 17.804,
+                    "letter_spacing": 5.0,
+                    "font_id": 787,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ONE DAY",
+            "box": [
+                49,
+                54,
+                166,
+                79
+            ],
+            "font_id": 1021,
+            "font_size": 35.919672283940415,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "ONE",
+                    "box": [
+                        49,
+                        54,
+                        102,
+                        79
+                    ],
+                    "font_size": 35.92,
+                    "letter_spacing": 10.0,
+                    "font_id": 1021,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        102,
+                        54,
+                        111,
+                        79
+                    ],
+                    "font_size": 35.92,
+                    "letter_spacing": 10.0,
+                    "font_id": 1021,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "DAY",
+                    "box": [
+                        111,
+                        54,
+                        166,
+                        79
+                    ],
+                    "font_size": 35.92,
+                    "letter_spacing": 10.0,
+                    "font_id": 1021,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "My One Day Plan",
+            "box": [
+                52,
+                85,
+                159,
+                95
+            ],
+            "font_id": 781,
+            "font_size": 20.18917785361014,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.505,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "My",
+                    "box": [
+                        52,
+                        85,
+                        70,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        70,
+                        85,
+                        74,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "One",
+                    "box": [
+                        74,
+                        85,
+                        100,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        100,
+                        85,
+                        103,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "Day",
+                    "box": [
+                        103,
+                        85,
+                        127,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        127,
+                        85,
+                        131,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                },
+                {
+                    "text": "Plan",
+                    "box": [
+                        131,
+                        85,
+                        159,
+                        95
+                    ],
+                    "font_size": 20.189,
+                    "letter_spacing": 4.0,
+                    "font_id": 781,
+                    "color": [
+                        110,
+                        95,
+                        73
+                    ]
+                }
+            ]
+        }
+    ]
+}

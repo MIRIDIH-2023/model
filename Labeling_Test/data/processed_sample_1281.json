@@ -1,0 +1,931 @@
+{
+    "form": [
+        {
+            "text": "perfume",
+            "box": [
+                58,
+                54,
+                150,
+                71
+            ],
+            "font_id": 740,
+            "font_size": 25.704745346820157,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.92,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "PERFUME",
+                    "box": [
+                        58,
+                        54,
+                        150,
+                        71
+                    ],
+                    "font_size": 25.705,
+                    "letter_spacing": 2.0,
+                    "font_id": 740,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TEST",
+            "box": [
+                682,
+                54,
+                737,
+                71
+            ],
+            "font_id": 740,
+            "font_size": 25.70474534682016,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.92,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "TEST",
+                    "box": [
+                        682,
+                        54,
+                        737,
+                        71
+                    ],
+                    "font_size": 25.705,
+                    "letter_spacing": 9.0,
+                    "font_id": 740,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "#C",
+            "box": [
+                377,
+                52,
+                425,
+                72
+            ],
+            "font_id": 740,
+            "font_size": 30.529125000000004,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.92,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "#C",
+                    "box": [
+                        377,
+                        52,
+                        425,
+                        72
+                    ],
+                    "font_size": 30.529,
+                    "letter_spacing": 48.0,
+                    "font_id": 740,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Your best scent\nis 'Woody'",
+            "box": [
+                131,
+                154,
+                667,
+                282
+            ],
+            "font_id": 3404,
+            "font_size": 91.14196153846154,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Your",
+                    "box": [
+                        131,
+                        154,
+                        301,
+                        208
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        301,
+                        154,
+                        319,
+                        208
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": "best",
+                    "box": [
+                        319,
+                        154,
+                        463,
+                        208
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        463,
+                        154,
+                        480,
+                        208
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": "scent",
+                    "box": [
+                        480,
+                        154,
+                        667,
+                        208
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        245,
+                        228,
+                        294,
+                        282
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        294,
+                        228,
+                        312,
+                        282
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                },
+                {
+                    "text": "'Woody'",
+                    "box": [
+                        312,
+                        228,
+                        552,
+                        282
+                    ],
+                    "font_size": 91.142,
+                    "letter_spacing": -2.0,
+                    "font_id": 3404,
+                    "color": [
+                        66,
+                        94,
+                        33
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Weighty, long-lasting woody scents!",
+            "box": [
+                332,
+                415,
+                675,
+                437
+            ],
+            "font_id": 1018,
+            "font_size": 26.666035714285716,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.38,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Weighty,",
+                    "box": [
+                        332,
+                        415,
+                        417,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        417,
+                        415,
+                        422,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "long-lasting",
+                    "box": [
+                        422,
+                        415,
+                        532,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        532,
+                        415,
+                        538,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "woody",
+                    "box": [
+                        538,
+                        415,
+                        601,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        601,
+                        415,
+                        606,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "scents!",
+                    "box": [
+                        606,
+                        415,
+                        675,
+                        437
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "woody",
+            "box": [
+                332,
+                382,
+                433,
+                403
+            ],
+            "font_id": 740,
+            "font_size": 32.36988461538462,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.92,
+            "opacity": 147.89999999999998,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "WOODY",
+                    "box": [
+                        332,
+                        382,
+                        433,
+                        403
+                    ],
+                    "font_size": 32.37,
+                    "letter_spacing": 2.0,
+                    "font_id": 740,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Feature",
+            "box": [
+                335,
+                492,
+                433,
+                509
+            ],
+            "font_id": 3404,
+            "font_size": 29.296038461538465,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 147.89999999999998,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Feature",
+                    "box": [
+                        335,
+                        492,
+                        433,
+                        509
+                    ],
+                    "font_size": 29.296,
+                    "letter_spacing": 5.0,
+                    "font_id": 3404,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Dry scents like well-matured wood",
+            "box": [
+                335,
+                521,
+                628,
+                540
+            ],
+            "font_id": 1018,
+            "font_size": 23.999399999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.38,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Dry",
+                    "box": [
+                        335,
+                        521,
+                        364,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        364,
+                        521,
+                        369,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "scents",
+                    "box": [
+                        369,
+                        521,
+                        425,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        425,
+                        521,
+                        430,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "like",
+                    "box": [
+                        430,
+                        521,
+                        458,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        458,
+                        521,
+                        463,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "well-matured",
+                    "box": [
+                        463,
+                        521,
+                        576,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        576,
+                        521,
+                        581,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "wood",
+                    "box": [
+                        581,
+                        521,
+                        628,
+                        540
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Recommendation",
+            "box": [
+                335,
+                563,
+                543,
+                581
+            ],
+            "font_id": 3404,
+            "font_size": 29.296038461538465,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.09,
+            "opacity": 147.89999999999998,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Recommendation",
+                    "box": [
+                        335,
+                        563,
+                        543,
+                        581
+                    ],
+                    "font_size": 29.296,
+                    "letter_spacing": 5.0,
+                    "font_id": 3404,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Used for subtle, long-lasting base notes.",
+            "box": [
+                335,
+                594,
+                675,
+                613
+            ],
+            "font_id": 1018,
+            "font_size": 23.999399999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.38,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "Used",
+                    "box": [
+                        335,
+                        594,
+                        377,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        377,
+                        594,
+                        382,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        382,
+                        594,
+                        406,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        406,
+                        594,
+                        411,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "subtle,",
+                    "box": [
+                        411,
+                        594,
+                        468,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        468,
+                        594,
+                        473,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "long-lasting",
+                    "box": [
+                        473,
+                        594,
+                        572,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        572,
+                        594,
+                        577,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "base",
+                    "box": [
+                        577,
+                        594,
+                        617,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        617,
+                        594,
+                        622,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                },
+                {
+                    "text": "notes.",
+                    "box": [
+                        622,
+                        594,
+                        675,
+                        613
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        247
+                    ]
+                }
+            ]
+        }
+    ]
+}

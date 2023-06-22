@@ -1,0 +1,328 @@
+{
+    "form": [
+        {
+            "text": "It's easy\nand delicious.",
+            "box": [
+                79,
+                100,
+                366,
+                174
+            ],
+            "font_id": 1063,
+            "font_size": 59.04226666666667,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "It's",
+                    "box": [
+                        79,
+                        100,
+                        140,
+                        130
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        140,
+                        100,
+                        150,
+                        130
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "easy",
+                    "box": [
+                        150,
+                        100,
+                        250,
+                        130
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        79,
+                        144,
+                        159,
+                        174
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        159,
+                        144,
+                        169,
+                        174
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "delicious.",
+                    "box": [
+                        169,
+                        144,
+                        366,
+                        174
+                    ],
+                    "font_size": 59.042,
+                    "letter_spacing": 0.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "10\nmins",
+            "box": [
+                118,
+                243,
+                179,
+                280
+            ],
+            "font_id": 1126,
+            "font_size": 34.6658,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.98,
+            "opacity": 255.0,
+            "rotate": 16.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "10",
+                    "box": [
+                        130,
+                        240,
+                        167,
+                        283
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1126,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "mins",
+                    "box": [
+                        124,
+                        264,
+                        173,
+                        259
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1126,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "RISOTTO",
+            "box": [
+                68,
+                253,
+                581,
+                375
+            ],
+            "font_id": 1125,
+            "font_size": 189.874,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "R",
+                    "box": [
+                        68,
+                        253,
+                        142,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        252,
+                        82,
+                        48
+                    ]
+                },
+                {
+                    "text": "I",
+                    "box": [
+                        142,
+                        253,
+                        178,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        255,
+                        249,
+                        225
+                    ]
+                },
+                {
+                    "text": "S",
+                    "box": [
+                        178,
+                        253,
+                        244,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        0,
+                        171,
+                        71
+                    ]
+                },
+                {
+                    "text": "O",
+                    "box": [
+                        244,
+                        253,
+                        332,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        252,
+                        82,
+                        48
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        332,
+                        253,
+                        413,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        255,
+                        249,
+                        225
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        413,
+                        253,
+                        493,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        0,
+                        171,
+                        71
+                    ]
+                },
+                {
+                    "text": "O",
+                    "box": [
+                        493,
+                        253,
+                        581,
+                        375
+                    ],
+                    "font_size": 189.874,
+                    "letter_spacing": 0.0,
+                    "font_id": 1125,
+                    "color": [
+                        252,
+                        82,
+                        48
+                    ]
+                }
+            ]
+        }
+    ]
+}

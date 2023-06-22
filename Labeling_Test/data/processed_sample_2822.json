@@ -1,0 +1,942 @@
+{
+    "form": [
+        {
+            "text": "\uc2e0\uccad\ubc29\ubc95\uc740",
+            "box": [
+                238,
+                115,
+                519,
+                172
+            ],
+            "font_id": 1364,
+            "font_size": 87.99779605263159,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "\uc2e0\uccad\ubc29\ubc95\uc740",
+                    "box": [
+                        238,
+                        115,
+                        519,
+                        172
+                    ],
+                    "font_size": 87.998,
+                    "letter_spacing": -2.0,
+                    "font_id": 1364,
+                    "color": [
+                        12,
+                        90,
+                        229
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uccad\ub144\ub3c4\uc57d\uacc4\uc88c \uc0c1\ud488 \ucde8\uae09 \uae08\uc735\uae30\uad00\u00a0(\ucd94\ud6c4 \uacf5\uace0)",
+            "box": [
+                154,
+                217,
+                639,
+                238
+            ],
+            "font_id": 1065,
+            "font_size": 35.99917105263159,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "\uccad\ub144\ub3c4\uc57d\uacc4\uc88c",
+                    "box": [
+                        154,
+                        217,
+                        300,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        300,
+                        217,
+                        306,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\uc0c1\ud488",
+                    "box": [
+                        306,
+                        217,
+                        355,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        355,
+                        217,
+                        361,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\ucde8\uae09",
+                    "box": [
+                        361,
+                        217,
+                        410,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        410,
+                        217,
+                        416,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\uae08\uc735\uae30\uad00",
+                    "box": [
+                        416,
+                        217,
+                        513,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        513,
+                        217,
+                        519,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": "(\ucd94\ud6c4",
+                    "box": [
+                        519,
+                        217,
+                        576,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        576,
+                        217,
+                        582,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": "\uacf5\uace0)",
+                    "box": [
+                        582,
+                        217,
+                        639,
+                        238
+                    ],
+                    "font_size": 35.999,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uc2e0\uccad\uc740 \uc5b8\uc81c\ubd80\ud130",
+            "box": [
+                163,
+                498,
+                571,
+                556
+            ],
+            "font_id": 1364,
+            "font_size": 87.99779605263159,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "\uc2e0\uccad\uc740",
+                    "box": [
+                        163,
+                        498,
+                        329,
+                        556
+                    ],
+                    "font_size": 87.998,
+                    "letter_spacing": -2.0,
+                    "font_id": 1364,
+                    "color": [
+                        12,
+                        90,
+                        229
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        329,
+                        498,
+                        344,
+                        556
+                    ],
+                    "font_size": 87.998,
+                    "letter_spacing": -2.0,
+                    "font_id": 1364,
+                    "color": [
+                        12,
+                        90,
+                        229
+                    ]
+                },
+                {
+                    "text": "\uc5b8\uc81c\ubd80\ud130",
+                    "box": [
+                        344,
+                        498,
+                        571,
+                        556
+                    ],
+                    "font_size": 87.998,
+                    "letter_spacing": -2.0,
+                    "font_id": 1364,
+                    "color": [
+                        12,
+                        90,
+                        229
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uc2e0\uccad\uc740 2023\ub144 6\uc6d4 \uc911 \uc811\uc218",
+            "box": [
+                87,
+                630,
+                399,
+                652
+            ],
+            "font_id": 1065,
+            "font_size": 37.3324,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "\uc2e0\uccad\uc740",
+                    "box": [
+                        87,
+                        630,
+                        163,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        163,
+                        630,
+                        169,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "2023\ub144",
+                    "box": [
+                        169,
+                        630,
+                        262,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        262,
+                        630,
+                        269,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": "6\uc6d4",
+                    "box": [
+                        269,
+                        630,
+                        310,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        310,
+                        630,
+                        317,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": "\uc911",
+                    "box": [
+                        317,
+                        630,
+                        342,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        342,
+                        630,
+                        348,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                },
+                {
+                    "text": "\uc811\uc218",
+                    "box": [
+                        348,
+                        630,
+                        399,
+                        652
+                    ],
+                    "font_size": 37.332,
+                    "letter_spacing": -5.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        83,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "*\uccad\ub144\ub3c4\uc57d\uacc4\uc88c\uc758 \uc2e0\uccad \uae30\uac04\uc740\u00a0\u00a0\uc544\uc9c1\uae4c\uc9c0\ub294 \ubbf8\uc124\uc815.",
+            "box": [
+                89,
+                676,
+                482,
+                692
+            ],
+            "font_id": 1064,
+            "font_size": 26.665999999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "*\uccad\ub144\ub3c4\uc57d\uacc4\uc88c\uc758",
+                    "box": [
+                        89,
+                        676,
+                        222,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        222,
+                        676,
+                        226,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": "\uc2e0\uccad",
+                    "box": [
+                        226,
+                        676,
+                        262,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        262,
+                        676,
+                        267,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": "\uae30\uac04\uc740",
+                    "box": [
+                        267,
+                        676,
+                        321,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": "\u00a0\u00a0",
+                    "box": [
+                        321,
+                        676,
+                        330,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": "\uc544\uc9c1\uae4c\uc9c0\ub294",
+                    "box": [
+                        330,
+                        676,
+                        420,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        420,
+                        676,
+                        425,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                },
+                {
+                    "text": "\ubbf8\uc124\uc815.",
+                    "box": [
+                        425,
+                        676,
+                        482,
+                        692
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1064,
+                    "color": [
+                        77,
+                        72,
+                        54
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uccad\ub144\ub3c4\uc57d\uacc4\uc88c \ubbf8\ub9ac \uc54c\uc544\ubcf4\uae30 #05",
+            "box": [
+                229,
+                48,
+                576,
+                64
+            ],
+            "font_id": 1064,
+            "font_size": 27.999299999999995,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "\uccad\ub144\ub3c4\uc57d\uacc4\uc88c",
+                    "box": [
+                        229,
+                        48,
+                        364,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        364,
+                        48,
+                        373,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\ubbf8\ub9ac",
+                    "box": [
+                        373,
+                        48,
+                        418,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        418,
+                        48,
+                        427,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\uc54c\uc544\ubcf4\uae30",
+                    "box": [
+                        427,
+                        48,
+                        517,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        517,
+                        48,
+                        526,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "#05",
+                    "box": [
+                        526,
+                        48,
+                        576,
+                        64
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 13.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uac00\uc785\uc2e0\uccad",
+            "box": [
+                176,
+                322,
+                264,
+                341
+            ],
+            "font_id": 1065,
+            "font_size": 30.878118733108913,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "\uac00\uc785\uc2e0\uccad",
+                    "box": [
+                        176,
+                        322,
+                        264,
+                        341
+                    ],
+                    "font_size": 30.878,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uc18c\ub4dd\uc2ec\uc0ac",
+            "box": [
+                367,
+                323,
+                455,
+                341
+            ],
+            "font_id": 1065,
+            "font_size": 30.878118733108895,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "\uc18c\ub4dd\uc2ec\uc0ac",
+                    "box": [
+                        367,
+                        323,
+                        455,
+                        341
+                    ],
+                    "font_size": 30.878,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uc720\uc9c0\uc2ec\uc0ac",
+            "box": [
+                559,
+                323,
+                647,
+                341
+            ],
+            "font_id": 1065,
+            "font_size": 30.878118733108906,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "\uc720\uc9c0\uc2ec\uc0ac",
+                    "box": [
+                        559,
+                        323,
+                        647,
+                        341
+                    ],
+                    "font_size": 30.878,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

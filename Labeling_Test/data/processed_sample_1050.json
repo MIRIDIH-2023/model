@@ -1,0 +1,1136 @@
+{
+    "form": [
+        {
+            "text": "Product Info",
+            "box": [
+                238,
+                54,
+                386,
+                81
+            ],
+            "font_id": 1020,
+            "font_size": 34.01639878139621,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Product",
+                    "box": [
+                        238,
+                        54,
+                        333,
+                        81
+                    ],
+                    "font_size": 34.016,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        333,
+                        54,
+                        340,
+                        81
+                    ],
+                    "font_size": 34.016,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Info",
+                    "box": [
+                        340,
+                        54,
+                        386,
+                        81
+                    ],
+                    "font_size": 34.016,
+                    "letter_spacing": 0.0,
+                    "font_id": 1020,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Product Name",
+            "box": [
+                74,
+                487,
+                189,
+                506
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Product",
+                    "box": [
+                        74,
+                        487,
+                        137,
+                        506
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        137,
+                        487,
+                        142,
+                        506
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                },
+                {
+                    "text": "Name",
+                    "box": [
+                        142,
+                        487,
+                        189,
+                        506
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Material",
+            "box": [
+                99,
+                545,
+                164,
+                563
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Material",
+                    "box": [
+                        99,
+                        545,
+                        164,
+                        563
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Color",
+            "box": [
+                111,
+                599,
+                152,
+                617
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Color",
+                    "box": [
+                        111,
+                        599,
+                        152,
+                        617
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Size",
+            "box": [
+                115,
+                655,
+                148,
+                674
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Size",
+                    "box": [
+                        115,
+                        655,
+                        148,
+                        674
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Shipping",
+            "box": [
+                97,
+                709,
+                166,
+                727
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Shipping",
+                    "box": [
+                        97,
+                        709,
+                        166,
+                        727
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        175,
+                        136,
+                        91
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miri Hardwood Dining Set (4-person set)",
+            "box": [
+                229,
+                489,
+                552,
+                508
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Miri",
+                    "box": [
+                        229,
+                        489,
+                        259,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        259,
+                        489,
+                        264,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "Hardwood",
+                    "box": [
+                        264,
+                        489,
+                        346,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        346,
+                        489,
+                        351,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "Dining",
+                    "box": [
+                        351,
+                        489,
+                        401,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        400,
+                        489,
+                        405,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "Set",
+                    "box": [
+                        405,
+                        489,
+                        432,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        432,
+                        489,
+                        437,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "(4-person",
+                    "box": [
+                        437,
+                        489,
+                        516,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        516,
+                        489,
+                        521,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "set)",
+                    "box": [
+                        521,
+                        489,
+                        552,
+                        508
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Pine wood",
+            "box": [
+                229,
+                543,
+                313,
+                562
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Pine",
+                    "box": [
+                        229,
+                        543,
+                        264,
+                        562
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        264,
+                        543,
+                        269,
+                        562
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "wood",
+                    "box": [
+                        269,
+                        543,
+                        313,
+                        562
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Grey",
+            "box": [
+                266,
+                598,
+                304,
+                617
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Grey",
+                    "box": [
+                        266,
+                        598,
+                        304,
+                        617
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "W290 X D108 X H94",
+            "box": [
+                229,
+                655,
+                400,
+                674
+            ],
+            "font_id": 1018,
+            "font_size": 23.94585416925021,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "W290",
+                    "box": [
+                        229,
+                        655,
+                        279,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        279,
+                        655,
+                        284,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "X",
+                    "box": [
+                        284,
+                        655,
+                        296,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        296,
+                        655,
+                        301,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "D108",
+                    "box": [
+                        301,
+                        655,
+                        345,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        345,
+                        655,
+                        350,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "X",
+                    "box": [
+                        350,
+                        655,
+                        362,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        362,
+                        655,
+                        367,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "H94",
+                    "box": [
+                        367,
+                        655,
+                        400,
+                        674
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Free shipping",
+            "box": [
+                229,
+                708,
+                339,
+                727
+            ],
+            "font_id": 1018,
+            "font_size": 23.94585416925021,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 10,
+            "words": [
+                {
+                    "text": "Free",
+                    "box": [
+                        229,
+                        708,
+                        265,
+                        727
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        265,
+                        708,
+                        270,
+                        727
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "shipping",
+                    "box": [
+                        270,
+                        708,
+                        339,
+                        727
+                    ],
+                    "font_size": 23.946,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Natural",
+            "box": [
+                373,
+                598,
+                431,
+                617
+            ],
+            "font_id": 1018,
+            "font_size": 23.332749999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 11,
+            "words": [
+                {
+                    "text": "Natural",
+                    "box": [
+                        373,
+                        598,
+                        431,
+                        617
+                    ],
+                    "font_size": 23.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "* We\u2019ll come and install it",
+            "box": [
+                357,
+                713,
+                512,
+                728
+            ],
+            "font_id": 1018,
+            "font_size": 17.56630397114792,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 12,
+            "words": [
+                {
+                    "text": "*",
+                    "box": [
+                        357,
+                        713,
+                        364,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        364,
+                        713,
+                        368,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "We\u2019ll",
+                    "box": [
+                        368,
+                        713,
+                        398,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        398,
+                        713,
+                        401,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "come",
+                    "box": [
+                        401,
+                        713,
+                        435,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        435,
+                        713,
+                        439,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        439,
+                        713,
+                        461,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        461,
+                        713,
+                        465,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "install",
+                    "box": [
+                        465,
+                        713,
+                        500,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        500,
+                        713,
+                        504,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                },
+                {
+                    "text": "it",
+                    "box": [
+                        504,
+                        713,
+                        512,
+                        728
+                    ],
+                    "font_size": 17.566,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        88,
+                        74,
+                        59
+                    ]
+                }
+            ]
+        }
+    ]
+}

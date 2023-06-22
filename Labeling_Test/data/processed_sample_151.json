@@ -1,0 +1,346 @@
+{
+    "form": [
+        {
+            "text": "Seminar topic",
+            "box": [
+                46,
+                52,
+                180,
+                74
+            ],
+            "font_id": 1021,
+            "font_size": 47.00863975066027,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Seminar",
+                    "box": [
+                        46,
+                        52,
+                        125,
+                        74
+                    ],
+                    "font_size": 47.009,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        125,
+                        52,
+                        131,
+                        74
+                    ],
+                    "font_size": 47.009,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                },
+                {
+                    "text": "topic",
+                    "box": [
+                        131,
+                        52,
+                        180,
+                        74
+                    ],
+                    "font_size": 47.009,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Time table",
+            "box": [
+                48,
+                31,
+                92,
+                47
+            ],
+            "font_id": 6046,
+            "font_size": 41.32841482001589,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5330000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Time",
+                    "box": [
+                        48,
+                        31,
+                        69,
+                        47
+                    ],
+                    "font_size": 41.328,
+                    "letter_spacing": 0.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        69,
+                        31,
+                        74,
+                        47
+                    ],
+                    "font_size": 41.328,
+                    "letter_spacing": 0.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                },
+                {
+                    "text": "table",
+                    "box": [
+                        74,
+                        31,
+                        92,
+                        47
+                    ],
+                    "font_size": 41.328,
+                    "letter_spacing": 0.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ENTER",
+            "box": [
+                253,
+                153,
+                546,
+                253
+            ],
+            "font_id": 1022,
+            "font_size": 217.7188,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "ENTER",
+                    "box": [
+                        253,
+                        153,
+                        546,
+                        253
+                    ],
+                    "font_size": 217.719,
+                    "letter_spacing": 0.0,
+                    "font_id": 1022,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Relevant topics",
+            "box": [
+                243,
+                237,
+                558,
+                309
+            ],
+            "font_id": 6046,
+            "font_size": 190.9228,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5330000000000004,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Relevant",
+                    "box": [
+                        243,
+                        237,
+                        423,
+                        309
+                    ],
+                    "font_size": 190.923,
+                    "letter_spacing": 3.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        423,
+                        237,
+                        449,
+                        309
+                    ],
+                    "font_size": 190.923,
+                    "letter_spacing": 3.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                },
+                {
+                    "text": "topics",
+                    "box": [
+                        449,
+                        237,
+                        558,
+                        309
+                    ],
+                    "font_size": 190.923,
+                    "letter_spacing": 3.0,
+                    "font_id": 6046,
+                    "color": [
+                        255,
+                        111,
+                        64
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\"",
+            "box": [
+                197,
+                133,
+                239,
+                233
+            ],
+            "font_id": 1022,
+            "font_size": 217.7188,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "\"",
+                    "box": [
+                        197,
+                        133,
+                        239,
+                        233
+                    ],
+                    "font_size": 217.719,
+                    "letter_spacing": 0.0,
+                    "font_id": 1022,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\"",
+            "box": [
+                560,
+                133,
+                602,
+                233
+            ],
+            "font_id": 1022,
+            "font_size": 217.7188,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "\"",
+                    "box": [
+                        560,
+                        133,
+                        602,
+                        233
+                    ],
+                    "font_size": 217.719,
+                    "letter_spacing": 0.0,
+                    "font_id": 1022,
+                    "color": [
+                        61,
+                        61,
+                        61
+                    ]
+                }
+            ]
+        }
+    ]
+}

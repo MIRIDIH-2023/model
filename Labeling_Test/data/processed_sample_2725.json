@@ -1,0 +1,203 @@
+{
+    "form": [
+        {
+            "text": "THANK YOU.",
+            "box": [
+                263,
+                168,
+                527,
+                197
+            ],
+            "font_id": 1063,
+            "font_size": 86.66441739130431,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "THANK",
+                    "box": [
+                        263,
+                        168,
+                        413,
+                        197
+                    ],
+                    "font_size": 86.664,
+                    "letter_spacing": -1.0,
+                    "font_id": 1063,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        413,
+                        168,
+                        422,
+                        197
+                    ],
+                    "font_size": 86.664,
+                    "letter_spacing": -1.0,
+                    "font_id": 1063,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": "YOU.",
+                    "box": [
+                        422,
+                        168,
+                        527,
+                        197
+                    ],
+                    "font_size": 86.664,
+                    "letter_spacing": -1.0,
+                    "font_id": 1063,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miricompany Co., Ltd\nmiri@miricompany.com",
+            "box": [
+                603,
+                369,
+                752,
+                405
+            ],
+            "font_id": 2308,
+            "font_size": 35.0834,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Miricompany",
+                    "box": [
+                        616,
+                        369,
+                        699,
+                        383
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        699,
+                        369,
+                        702,
+                        383
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": "Co.,",
+                    "box": [
+                        702,
+                        369,
+                        728,
+                        383
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        728,
+                        369,
+                        731,
+                        383
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": "Ltd",
+                    "box": [
+                        731,
+                        369,
+                        752,
+                        383
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                },
+                {
+                    "text": "miri@miricompany.com",
+                    "box": [
+                        603,
+                        391,
+                        752,
+                        405
+                    ],
+                    "font_size": 35.083,
+                    "letter_spacing": -1.0,
+                    "font_id": 2308,
+                    "color": [
+                        45,
+                        60,
+                        118
+                    ]
+                }
+            ]
+        }
+    ]
+}

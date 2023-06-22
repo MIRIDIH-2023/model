@@ -1,0 +1,152 @@
+{
+    "form": [
+        {
+            "text": "ALL BLACK",
+            "box": [
+                358,
+                174,
+                632,
+                226
+            ],
+            "font_id": 1022,
+            "font_size": 113.3305,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7890000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "ALL",
+                    "box": [
+                        358,
+                        174,
+                        451,
+                        226
+                    ],
+                    "font_size": 113.33,
+                    "letter_spacing": 2.635,
+                    "font_id": 1022,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        451,
+                        174,
+                        466,
+                        226
+                    ],
+                    "font_size": 113.33,
+                    "letter_spacing": 2.635,
+                    "font_id": 1022,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "BLACK",
+                    "box": [
+                        466,
+                        174,
+                        632,
+                        226
+                    ],
+                    "font_size": 113.33,
+                    "letter_spacing": 2.635,
+                    "font_id": 1022,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SIMPLE PRESENTATION",
+            "box": [
+                360,
+                238,
+                648,
+                253
+            ],
+            "font_id": 1018,
+            "font_size": 33.332499999999996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.789,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "SIMPLE",
+                    "box": [
+                        360,
+                        238,
+                        452,
+                        253
+                    ],
+                    "font_size": 33.333,
+                    "letter_spacing": 50.4,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        452,
+                        238,
+                        463,
+                        253
+                    ],
+                    "font_size": 33.333,
+                    "letter_spacing": 50.4,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "PRESENTATION",
+                    "box": [
+                        463,
+                        238,
+                        648,
+                        253
+                    ],
+                    "font_size": 33.333,
+                    "letter_spacing": 50.4,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

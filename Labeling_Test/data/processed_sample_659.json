@@ -1,0 +1,352 @@
+{
+    "form": [
+        {
+            "text": "2,000.00",
+            "box": [
+                175,
+                254,
+                697,
+                399
+            ],
+            "font_id": 1073,
+            "font_size": 198.64127773700284,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "2,000.00",
+                    "box": [
+                        175,
+                        254,
+                        697,
+                        399
+                    ],
+                    "font_size": 198.641,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$",
+            "box": [
+                95,
+                261,
+                161,
+                390
+            ],
+            "font_id": 1073,
+            "font_size": 176.84213137892354,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        95,
+                        261,
+                        161,
+                        390
+                    ],
+                    "font_size": 176.842,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "HOST",
+            "box": [
+                212,
+                451,
+                252,
+                467
+            ],
+            "font_id": 1022,
+            "font_size": 23.210505808769497,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "HOST",
+                    "box": [
+                        212,
+                        451,
+                        252,
+                        467
+                    ],
+                    "font_size": 23.211,
+                    "letter_spacing": -0.661,
+                    "font_id": 1022,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MIRI COMPANY",
+            "box": [
+                260,
+                451,
+                368,
+                467
+            ],
+            "font_id": 1019,
+            "font_size": 23.2105058087695,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        260,
+                        451,
+                        291,
+                        467
+                    ],
+                    "font_size": 23.211,
+                    "letter_spacing": -0.61,
+                    "font_id": 1019,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        290,
+                        451,
+                        295,
+                        467
+                    ],
+                    "font_size": 23.211,
+                    "letter_spacing": -0.61,
+                    "font_id": 1019,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "box": [
+                        295,
+                        451,
+                        368,
+                        467
+                    ],
+                    "font_size": 23.211,
+                    "letter_spacing": -0.61,
+                    "font_id": 1019,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GRAND\u00a0PRIZE",
+            "box": [
+                169,
+                188,
+                630,
+                261
+            ],
+            "font_id": 1073,
+            "font_size": 99.39451418696042,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9999999999999999,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "GRAND",
+                    "box": [
+                        169,
+                        188,
+                        412,
+                        261
+                    ],
+                    "font_size": 99.395,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        412,
+                        188,
+                        432,
+                        261
+                    ],
+                    "font_size": 99.395,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                },
+                {
+                    "text": "PRIZE",
+                    "box": [
+                        432,
+                        188,
+                        630,
+                        261
+                    ],
+                    "font_size": 99.395,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "WINNER",
+            "box": [
+                350,
+                161,
+                469,
+                192
+            ],
+            "font_id": 1073,
+            "font_size": 41.271653052186196,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "WINNER",
+                    "box": [
+                        350,
+                        161,
+                        469,
+                        192
+                    ],
+                    "font_size": 41.272,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SPONSOR",
+            "box": [
+                387,
+                451,
+                458,
+                467
+            ],
+            "font_id": 1022,
+            "font_size": 23.2105058087695,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "SPONSOR",
+                    "box": [
+                        387,
+                        451,
+                        458,
+                        467
+                    ],
+                    "font_size": 23.211,
+                    "letter_spacing": -0.661,
+                    "font_id": 1022,
+                    "color": [
+                        34,
+                        61,
+                        147
+                    ]
+                }
+            ]
+        }
+    ]
+}

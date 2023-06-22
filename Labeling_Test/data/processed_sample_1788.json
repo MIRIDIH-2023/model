@@ -1,0 +1,669 @@
+{
+    "form": [
+        {
+            "text": "MIRI GREEN",
+            "box": [
+                62,
+                31,
+                156,
+                45
+            ],
+            "font_id": 787,
+            "font_size": 22.32302777819736,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        62,
+                        31,
+                        97,
+                        45
+                    ],
+                    "font_size": 22.323,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        64,
+                        121,
+                        80
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        97,
+                        31,
+                        101,
+                        45
+                    ],
+                    "font_size": 22.323,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        64,
+                        121,
+                        80
+                    ]
+                },
+                {
+                    "text": "GREEN",
+                    "box": [
+                        101,
+                        31,
+                        156,
+                        45
+                    ],
+                    "font_size": 22.323,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        64,
+                        121,
+                        80
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GUILT FREE",
+            "box": [
+                165,
+                167,
+                634,
+                237
+            ],
+            "font_id": 1167,
+            "font_size": 111.0902,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.15,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "GUILT",
+                    "box": [
+                        165,
+                        167,
+                        419,
+                        237
+                    ],
+                    "font_size": 111.09,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        139,
+                        179,
+                        86
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        419,
+                        167,
+                        441,
+                        237
+                    ],
+                    "font_size": 111.09,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        139,
+                        179,
+                        86
+                    ]
+                },
+                {
+                    "text": "FREE",
+                    "box": [
+                        441,
+                        167,
+                        634,
+                        237
+                    ],
+                    "font_size": 111.09,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        139,
+                        179,
+                        86
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Have you heard of guilt-free marketing?",
+            "box": [
+                564,
+                647,
+                724,
+                702
+            ],
+            "font_id": 1166,
+            "font_size": 25.577752747252745,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.67,
+            "opacity": 255.0,
+            "rotate": 11.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Have",
+                    "box": [
+                        564,
+                        647,
+                        724,
+                        702
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        610,
+                        638,
+                        678,
+                        711
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "you",
+                    "box": [
+                        615,
+                        637,
+                        673,
+                        712
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        649,
+                        630,
+                        640,
+                        718
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "heard",
+                    "box": [
+                        653,
+                        629,
+                        635,
+                        719
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        708,
+                        619,
+                        580,
+                        730
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        584,
+                        675,
+                        704,
+                        674
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        605,
+                        671,
+                        683,
+                        678
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "guilt-free",
+                    "box": [
+                        610,
+                        670,
+                        678,
+                        679
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        700,
+                        653,
+                        588,
+                        696
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "marketing?",
+                    "box": [
+                        596,
+                        705,
+                        692,
+                        644
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1166,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "PART.01",
+            "box": [
+                591,
+                610,
+                673,
+                617
+            ],
+            "font_id": 1167,
+            "font_size": 25.57772646248682,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 11.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "PART.01",
+                    "box": [
+                        591,
+                        610,
+                        673,
+                        617
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        663,
+                        596,
+                        600,
+                        631
+                    ],
+                    "font_size": 25.578,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        102,
+                        64,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Let\u2019s All Care for the Environment!",
+            "box": [
+                201,
+                121,
+                598,
+                141
+            ],
+            "font_id": 1167,
+            "font_size": 31.611955678513134,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Let\u2019s",
+                    "box": [
+                        201,
+                        121,
+                        257,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        257,
+                        121,
+                        264,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": "All",
+                    "box": [
+                        264,
+                        121,
+                        289,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        289,
+                        121,
+                        296,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": "Care",
+                    "box": [
+                        296,
+                        121,
+                        352,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        352,
+                        121,
+                        358,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        358,
+                        121,
+                        396,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        396,
+                        121,
+                        402,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        402,
+                        121,
+                        442,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        442,
+                        121,
+                        448,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                },
+                {
+                    "text": "Environment!",
+                    "box": [
+                        448,
+                        121,
+                        598,
+                        141
+                    ],
+                    "font_size": 31.612,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MARKETING",
+            "box": [
+                103,
+                254,
+                696,
+                340
+            ],
+            "font_id": 1167,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.15,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "MARKETING",
+                    "box": [
+                        103,
+                        254,
+                        696,
+                        340
+                    ],
+                    "font_size": 136.519,
+                    "letter_spacing": 0.0,
+                    "font_id": 1167,
+                    "color": [
+                        0,
+                        86,
+                        38
+                    ]
+                }
+            ]
+        }
+    ]
+}

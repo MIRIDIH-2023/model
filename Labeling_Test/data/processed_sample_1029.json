@@ -1,0 +1,396 @@
+{
+    "form": [
+        {
+            "text": "COZY TENT",
+            "box": [
+                76,
+                186,
+                547,
+                286
+            ],
+            "font_id": 1033,
+            "font_size": 118.66369999999999,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "COZY",
+                    "box": [
+                        76,
+                        186,
+                        303,
+                        286
+                    ],
+                    "font_size": 118.664,
+                    "letter_spacing": 0.0,
+                    "font_id": 1033,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        303,
+                        186,
+                        322,
+                        286
+                    ],
+                    "font_size": 118.664,
+                    "letter_spacing": 0.0,
+                    "font_id": 1033,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "TENT",
+                    "box": [
+                        322,
+                        186,
+                        547,
+                        286
+                    ],
+                    "font_size": 118.664,
+                    "letter_spacing": 0.0,
+                    "font_id": 1033,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "BRAND\nNAME",
+            "box": [
+                281,
+                49,
+                344,
+                101
+            ],
+            "font_id": 847,
+            "font_size": 25.809229960093315,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "BRAND",
+                    "box": [
+                        281,
+                        49,
+                        344,
+                        69
+                    ],
+                    "font_size": 25.809,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "box": [
+                        286,
+                        81,
+                        339,
+                        101
+                    ],
+                    "font_size": 25.809,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A dome tent as cozy as home",
+            "box": [
+                97,
+                308,
+                527,
+                341
+            ],
+            "font_id": 847,
+            "font_size": 42.66564338235294,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "A",
+                    "box": [
+                        97,
+                        308,
+                        117,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        117,
+                        308,
+                        125,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "dome",
+                    "box": [
+                        125,
+                        308,
+                        209,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        209,
+                        308,
+                        217,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "tent",
+                    "box": [
+                        217,
+                        308,
+                        275,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        275,
+                        308,
+                        283,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        283,
+                        308,
+                        315,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        315,
+                        308,
+                        323,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "cozy",
+                    "box": [
+                        323,
+                        308,
+                        387,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        387,
+                        308,
+                        395,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        395,
+                        308,
+                        427,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        427,
+                        308,
+                        435,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "home",
+                    "box": [
+                        435,
+                        308,
+                        519,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        519,
+                        308,
+                        527,
+                        341
+                    ],
+                    "font_size": 42.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        210,
+                        255,
+                        39
+                    ]
+                }
+            ]
+        }
+    ]
+}

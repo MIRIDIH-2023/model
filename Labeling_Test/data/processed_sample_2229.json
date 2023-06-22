@@ -1,0 +1,555 @@
+{
+    "form": [
+        {
+            "text": "Brand\nCollaboration",
+            "box": [
+                49,
+                96,
+                354,
+                198
+            ],
+            "font_id": 1155,
+            "font_size": 117.3304,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.01,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Brand",
+                    "box": [
+                        49,
+                        96,
+                        186,
+                        149
+                    ],
+                    "font_size": 117.33,
+                    "letter_spacing": -1.0,
+                    "font_id": 1155,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Collaboration",
+                    "box": [
+                        49,
+                        145,
+                        354,
+                        198
+                    ],
+                    "font_size": 117.33,
+                    "letter_spacing": -1.0,
+                    "font_id": 1155,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Manager_ Olivia White\nT\u00a0 1-123-456-7890\nE\u00a0 Olivia@mirifnb.com",
+            "box": [
+                49,
+                350,
+                164,
+                397
+            ],
+            "font_id": 1152,
+            "font_size": 27.999299999999995,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.47,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Manager_",
+                    "box": [
+                        49,
+                        350,
+                        100,
+                        363
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        100,
+                        350,
+                        103,
+                        363
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Olivia",
+                    "box": [
+                        103,
+                        350,
+                        131,
+                        363
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        131,
+                        350,
+                        134,
+                        363
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "White",
+                    "box": [
+                        134,
+                        350,
+                        164,
+                        363
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        49,
+                        367,
+                        56,
+                        380
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        56,
+                        367,
+                        61,
+                        380
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "1-123-456-7890",
+                    "box": [
+                        61,
+                        367,
+                        150,
+                        380
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "E",
+                    "box": [
+                        49,
+                        385,
+                        56,
+                        397
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        56,
+                        385,
+                        61,
+                        397
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Olivia@mirifnb.com",
+                    "box": [
+                        61,
+                        385,
+                        162,
+                        397
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1152,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MIRI F&B Company",
+            "box": [
+                49,
+                318,
+                180,
+                334
+            ],
+            "font_id": 1154,
+            "font_size": 34.6658,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "MIRI",
+                    "box": [
+                        49,
+                        318,
+                        82,
+                        334
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1154,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        82,
+                        318,
+                        86,
+                        334
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1154,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "F&B",
+                    "box": [
+                        86,
+                        318,
+                        114,
+                        334
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1154,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        114,
+                        318,
+                        117,
+                        334
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1154,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        117,
+                        318,
+                        180,
+                        334
+                    ],
+                    "font_size": 34.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1154,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miri F&B\u00a0 x\u00a0 Biz Dessert",
+            "box": [
+                49,
+                220,
+                258,
+                241
+            ],
+            "font_id": 1157,
+            "font_size": 47.998799999999996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Miri",
+                    "box": [
+                        49,
+                        220,
+                        84,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        84,
+                        220,
+                        88,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "F&B",
+                    "box": [
+                        88,
+                        220,
+                        127,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        127,
+                        220,
+                        136,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "x",
+                    "box": [
+                        136,
+                        220,
+                        146,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        146,
+                        220,
+                        155,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Biz",
+                    "box": [
+                        155,
+                        220,
+                        184,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        184,
+                        220,
+                        188,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Dessert",
+                    "box": [
+                        188,
+                        220,
+                        258,
+                        241
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1157,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

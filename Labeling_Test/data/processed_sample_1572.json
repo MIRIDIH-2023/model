@@ -1,0 +1,493 @@
+{
+    "form": [
+        {
+            "text": "APARTMENT",
+            "box": [
+                65,
+                76,
+                728,
+                178
+            ],
+            "font_id": 1375,
+            "font_size": 184.6674173032425,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "APARTMENT",
+                    "box": [
+                        65,
+                        76,
+                        728,
+                        178
+                    ],
+                    "font_size": 184.667,
+                    "letter_spacing": -6.0,
+                    "font_id": 1375,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "123-456-7890",
+            "box": [
+                125,
+                412,
+                693,
+                493
+            ],
+            "font_id": 1375,
+            "font_size": 147.02694638620181,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "123-456-7890",
+                    "box": [
+                        125,
+                        412,
+                        693,
+                        493
+                    ],
+                    "font_size": 147.027,
+                    "letter_spacing": -5.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "CALL\n\u2665ME\u2665",
+            "box": [
+                93,
+                419,
+                207,
+                493
+            ],
+            "font_id": 1375,
+            "font_size": 56.648629889587426,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "CALL",
+                    "box": [
+                        108,
+                        419,
+                        192,
+                        450
+                    ],
+                    "font_size": 56.649,
+                    "letter_spacing": -4.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        222,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u2665ME\u2665",
+                    "box": [
+                        93,
+                        462,
+                        207,
+                        493
+                    ],
+                    "font_size": 56.649,
+                    "letter_spacing": -4.0,
+                    "font_id": 1375,
+                    "color": [
+                        255,
+                        222,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "FOR RENT!",
+            "box": [
+                67,
+                188,
+                724,
+                306
+            ],
+            "font_id": 1375,
+            "font_size": 214.39398780407362,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "FOR",
+                    "box": [
+                        67,
+                        188,
+                        319,
+                        306
+                    ],
+                    "font_size": 214.394,
+                    "letter_spacing": -6.0,
+                    "font_id": 1375,
+                    "color": [
+                        223,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        319,
+                        188,
+                        352,
+                        306
+                    ],
+                    "font_size": 214.394,
+                    "letter_spacing": -6.0,
+                    "font_id": 1375,
+                    "color": [
+                        223,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "RENT!",
+                    "box": [
+                        352,
+                        188,
+                        724,
+                        306
+                    ],
+                    "font_size": 214.394,
+                    "letter_spacing": -6.0,
+                    "font_id": 1375,
+                    "color": [
+                        223,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u2605I'M SURE IT'LL BE YOUR BEST CHOICE EVER!\u2605",
+            "box": [
+                127,
+                341,
+                668,
+                361
+            ],
+            "font_id": 1147,
+            "font_size": 34.480115078323195,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "\u2605I'M",
+                    "box": [
+                        127,
+                        341,
+                        183,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        183,
+                        341,
+                        189,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SURE",
+                    "box": [
+                        189,
+                        341,
+                        250,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        250,
+                        341,
+                        256,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "IT'LL",
+                    "box": [
+                        256,
+                        341,
+                        311,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        311,
+                        341,
+                        317,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "box": [
+                        317,
+                        341,
+                        347,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        347,
+                        341,
+                        353,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "YOUR",
+                    "box": [
+                        353,
+                        341,
+                        417,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        417,
+                        341,
+                        423,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "BEST",
+                    "box": [
+                        423,
+                        341,
+                        482,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        482,
+                        341,
+                        488,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "CHOICE",
+                    "box": [
+                        488,
+                        341,
+                        571,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        571,
+                        341,
+                        577,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "EVER!\u2605",
+                    "box": [
+                        577,
+                        341,
+                        668,
+                        361
+                    ],
+                    "font_size": 34.48,
+                    "letter_spacing": 0.0,
+                    "font_id": 1147,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

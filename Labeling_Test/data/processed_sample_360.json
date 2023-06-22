@@ -1,0 +1,209 @@
+{
+    "form": [
+        {
+            "text": "Merry",
+            "box": [
+                269,
+                229,
+                523,
+                330
+            ],
+            "font_id": 740,
+            "font_size": 155.58897541204666,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.340625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Merry",
+                    "box": [
+                        269,
+                        229,
+                        523,
+                        330
+                    ],
+                    "font_size": 155.59,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Christmas",
+            "box": [
+                194,
+                326,
+                600,
+                428
+            ],
+            "font_id": 740,
+            "font_size": 155.58897541204666,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.340625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Christmas",
+                    "box": [
+                        194,
+                        326,
+                        600,
+                        428
+                    ],
+                    "font_size": 155.59,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12.01\u00a0 ~\u00a0\u00a0 11.24",
+            "box": [
+                345,
+                498,
+                476,
+                523
+            ],
+            "font_id": -1,
+            "font_size": 30.665899038461536,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.340625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "12.01",
+                    "box": [
+                        345,
+                        501,
+                        389,
+                        521
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        389,
+                        501,
+                        404,
+                        521
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                },
+                {
+                    "text": "~",
+                    "box": [
+                        404,
+                        498,
+                        416,
+                        523
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1017,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                },
+                {
+                    "text": "\u00a0\u00a0",
+                    "box": [
+                        416,
+                        498,
+                        427,
+                        523
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 1017,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        427,
+                        501,
+                        431,
+                        521
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                },
+                {
+                    "text": "11.24",
+                    "box": [
+                        431,
+                        501,
+                        476,
+                        521
+                    ],
+                    "font_size": 30.666,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        204,
+                        158,
+                        78
+                    ]
+                }
+            ]
+        }
+    ]
+}

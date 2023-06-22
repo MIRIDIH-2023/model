@@ -1,0 +1,834 @@
+{
+    "form": [
+        {
+            "text": "BARISTA\nCOFFEE",
+            "box": [
+                377,
+                76,
+                424,
+                100
+            ],
+            "font_id": 787,
+            "font_size": 17.015803417100756,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.43,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "BARISTA",
+                    "box": [
+                        377,
+                        76,
+                        424,
+                        85
+                    ],
+                    "font_size": 17.016,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "COFFEE",
+                    "box": [
+                        380,
+                        91,
+                        422,
+                        100
+                    ],
+                    "font_size": 17.016,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "8.5 fl oz X 1 set",
+            "box": [
+                671,
+                381,
+                761,
+                391
+            ],
+            "font_id": 787,
+            "font_size": 18.27059034469575,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.63,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "8.5",
+                    "box": [
+                        671,
+                        381,
+                        690,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        690,
+                        381,
+                        693,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "fl",
+                    "box": [
+                        693,
+                        381,
+                        702,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        702,
+                        381,
+                        705,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "oz",
+                    "box": [
+                        705,
+                        381,
+                        718,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        718,
+                        381,
+                        721,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "X",
+                    "box": [
+                        721,
+                        381,
+                        729,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        729,
+                        381,
+                        733,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        732,
+                        381,
+                        740,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        740,
+                        381,
+                        743,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "set",
+                    "box": [
+                        743,
+                        381,
+                        761,
+                        391
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "barista\ncoldbrew",
+            "box": [
+                246,
+                180,
+                557,
+                287
+            ],
+            "font_id": 787,
+            "font_size": 85.61233924780723,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "BARISTA",
+                    "box": [
+                        284,
+                        180,
+                        519,
+                        226
+                    ],
+                    "font_size": 85.612,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "COLDBREW",
+                    "box": [
+                        246,
+                        241,
+                        557,
+                        287
+                    ],
+                    "font_size": 85.612,
+                    "letter_spacing": 2.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Barista Coffee\nCold brew at home",
+            "box": [
+                347,
+                366,
+                454,
+                394
+            ],
+            "font_id": 1017,
+            "font_size": 18.27059034469575,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.35,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Barista",
+                    "box": [
+                        360,
+                        366,
+                        400,
+                        378
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        400,
+                        366,
+                        403,
+                        378
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Coffee",
+                    "box": [
+                        403,
+                        366,
+                        441,
+                        378
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Cold",
+                    "box": [
+                        347,
+                        381,
+                        372,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        372,
+                        381,
+                        376,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "brew",
+                    "box": [
+                        376,
+                        381,
+                        404,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        404,
+                        381,
+                        408,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "at",
+                    "box": [
+                        408,
+                        381,
+                        419,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        419,
+                        381,
+                        423,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "home",
+                    "box": [
+                        423,
+                        381,
+                        454,
+                        394
+                    ],
+                    "font_size": 18.271,
+                    "letter_spacing": 2.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Signature Blend",
+            "box": [
+                46,
+                491,
+                104,
+                524
+            ],
+            "font_id": 1018,
+            "font_size": 19.310922800634163,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.62,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Signature",
+                    "box": [
+                        46,
+                        491,
+                        104,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        104,
+                        491,
+                        104,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Blend",
+                    "box": [
+                        56,
+                        510,
+                        90,
+                        524
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        90,
+                        510,
+                        94,
+                        524
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Ethiopia Yirgacheffe",
+            "box": [
+                257,
+                491,
+                326,
+                524
+            ],
+            "font_id": 1018,
+            "font_size": 19.310922800634163,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.62,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Ethiopia",
+                    "box": [
+                        267,
+                        491,
+                        315,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        315,
+                        491,
+                        315,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Yirgacheffe",
+                    "box": [
+                        257,
+                        510,
+                        326,
+                        524
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Colombia Supremo",
+            "box": [
+                482,
+                491,
+                538,
+                524
+            ],
+            "font_id": 1018,
+            "font_size": 19.310922800634163,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.62,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Colombia",
+                    "box": [
+                        482,
+                        491,
+                        538,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        538,
+                        491,
+                        538,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "Supremo",
+                    "box": [
+                        483,
+                        510,
+                        537,
+                        524
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Kenya AA",
+            "box": [
+                708,
+                491,
+                745,
+                524
+            ],
+            "font_id": 1018,
+            "font_size": 19.310922800634163,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.62,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Kenya",
+                    "box": [
+                        708,
+                        491,
+                        745,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        745,
+                        491,
+                        745,
+                        504
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "AA",
+                    "box": [
+                        718,
+                        510,
+                        735,
+                        524
+                    ],
+                    "font_size": 19.311,
+                    "letter_spacing": 2.0,
+                    "font_id": 1018,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

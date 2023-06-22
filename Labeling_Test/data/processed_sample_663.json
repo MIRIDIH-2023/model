@@ -1,0 +1,294 @@
+{
+    "form": [
+        {
+            "text": "Hello!",
+            "box": [
+                375,
+                132,
+                424,
+                147
+            ],
+            "font_id": 1021,
+            "font_size": 34.58274897641433,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 8.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "HELLO!",
+                    "box": [
+                        375,
+                        132,
+                        424,
+                        147
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        48,
+                        46,
+                        68
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "let me introduce myself.",
+            "box": [
+                45,
+                183,
+                754,
+                238
+            ],
+            "font_id": 1021,
+            "font_size": 120.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 8.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "LET",
+                    "box": [
+                        45,
+                        183,
+                        133,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        133,
+                        183,
+                        148,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "ME",
+                    "box": [
+                        148,
+                        183,
+                        224,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        224,
+                        183,
+                        238,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "INTRODUCE",
+                    "box": [
+                        238,
+                        183,
+                        524,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        524,
+                        183,
+                        539,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "MYSELF.",
+                    "box": [
+                        539,
+                        183,
+                        754,
+                        238
+                    ],
+                    "font_size": 120.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "I'M LIAM SMITH",
+            "box": [
+                346,
+                293,
+                453,
+                309
+            ],
+            "font_id": 1018,
+            "font_size": 34.582748976414386,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": true
+            },
+            "linespace": 8.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "I'M",
+                    "box": [
+                        346,
+                        293,
+                        366,
+                        309
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        249,
+                        244,
+                        231
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        366,
+                        293,
+                        371,
+                        309
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        249,
+                        244,
+                        231
+                    ]
+                },
+                {
+                    "text": "LIAM",
+                    "box": [
+                        370,
+                        293,
+                        405,
+                        309
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        249,
+                        244,
+                        231
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        405,
+                        293,
+                        409,
+                        309
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        249,
+                        244,
+                        231
+                    ]
+                },
+                {
+                    "text": "SMITH",
+                    "box": [
+                        409,
+                        293,
+                        453,
+                        309
+                    ],
+                    "font_size": 34.583,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        249,
+                        244,
+                        231
+                    ]
+                }
+            ]
+        }
+    ]
+}

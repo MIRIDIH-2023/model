@@ -1,0 +1,339 @@
+{
+    "form": [
+        {
+            "text": "THANK YOU",
+            "box": [
+                50,
+                85,
+                390,
+                137
+            ],
+            "font_id": 781,
+            "font_size": 146.66299999999998,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.205,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "THANK",
+                    "box": [
+                        50,
+                        85,
+                        251,
+                        137
+                    ],
+                    "font_size": 146.663,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        253,
+                        111,
+                        34
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        251,
+                        85,
+                        267,
+                        137
+                    ],
+                    "font_size": 146.663,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        253,
+                        111,
+                        34
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "box": [
+                        267,
+                        85,
+                        390,
+                        137
+                    ],
+                    "font_size": 146.663,
+                    "letter_spacing": 0.0,
+                    "font_id": 781,
+                    "color": [
+                        253,
+                        111,
+                        34
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "20XX.05.15\nAD Department\nTeam Leader Olivia White\n\n\nMIRI Company",
+            "box": [
+                53,
+                322,
+                169,
+                388
+            ],
+            "font_id": 482,
+            "font_size": 23.999333333333336,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4364999999999999,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "20XX.05.15",
+                    "box": [
+                        53,
+                        322,
+                        107,
+                        330
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "AD",
+                    "box": [
+                        53,
+                        336,
+                        67,
+                        345
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        67,
+                        336,
+                        69,
+                        345
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Department",
+                    "box": [
+                        69,
+                        336,
+                        124,
+                        345
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Team",
+                    "box": [
+                        53,
+                        350,
+                        79,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        79,
+                        350,
+                        81,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Leader",
+                    "box": [
+                        81,
+                        350,
+                        112,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        112,
+                        350,
+                        115,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Olivia",
+                    "box": [
+                        115,
+                        350,
+                        139,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        139,
+                        350,
+                        142,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "White",
+                    "box": [
+                        142,
+                        350,
+                        169,
+                        359
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "MIRI",
+                    "box": [
+                        53,
+                        379,
+                        73,
+                        388
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        73,
+                        379,
+                        75,
+                        388
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        75,
+                        379,
+                        118,
+                        388
+                    ],
+                    "font_size": 23.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

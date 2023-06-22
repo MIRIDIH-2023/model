@@ -1,0 +1,135 @@
+{
+    "form": [
+        {
+            "text": "Happy\nMother's\u00a0\nDay",
+            "box": [
+                600,
+                632,
+                722,
+                709
+            ],
+            "font_id": 5477,
+            "font_size": 29.3326,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": true
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Happy",
+                    "box": [
+                        619,
+                        632,
+                        703,
+                        657
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 5477,
+                    "color": [
+                        255,
+                        244,
+                        143
+                    ]
+                },
+                {
+                    "text": "Mother's",
+                    "box": [
+                        600,
+                        658,
+                        718,
+                        683
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 5477,
+                    "color": [
+                        255,
+                        244,
+                        143
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        718,
+                        658,
+                        722,
+                        683
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 5477,
+                    "color": [
+                        255,
+                        244,
+                        143
+                    ]
+                },
+                {
+                    "text": "Day",
+                    "box": [
+                        636,
+                        684,
+                        687,
+                        709
+                    ],
+                    "font_size": 29.333,
+                    "letter_spacing": 1.0,
+                    "font_id": 5477,
+                    "color": [
+                        255,
+                        244,
+                        143
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "May",
+            "box": [
+                67,
+                122,
+                136,
+                111
+            ],
+            "font_id": 5477,
+            "font_size": 31.9992,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 40.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "May",
+                    "box": [
+                        67,
+                        122,
+                        136,
+                        111
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": 1.0,
+                    "font_id": 5477,
+                    "color": [
+                        231,
+                        123,
+                        135
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "form": [
+        {
+            "text": "My kid\nloves\nto play!",
+            "box": [
+                198,
+                199,
+                628,
+                529
+            ],
+            "font_id": 1043,
+            "font_size": 163.40580192997015,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.87,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "My",
+                    "box": [
+                        232,
+                        199,
+                        396,
+                        318
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        255,
+                        191,
+                        99
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        396,
+                        199,
+                        422,
+                        318
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        255,
+                        191,
+                        99
+                    ]
+                },
+                {
+                    "text": "kid",
+                    "box": [
+                        422,
+                        199,
+                        594,
+                        318
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        255,
+                        191,
+                        99
+                    ]
+                },
+                {
+                    "text": "loves",
+                    "box": [
+                        260,
+                        304,
+                        566,
+                        424
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        255,
+                        191,
+                        99
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        198,
+                        410,
+                        318,
+                        529
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        89,
+                        176,
+                        219
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        318,
+                        410,
+                        344,
+                        529
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        89,
+                        176,
+                        219
+                    ]
+                },
+                {
+                    "text": "play!",
+                    "box": [
+                        344,
+                        410,
+                        628,
+                        529
+                    ],
+                    "font_size": 163.406,
+                    "letter_spacing": -1.0,
+                    "font_id": 1043,
+                    "color": [
+                        89,
+                        176,
+                        219
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The Effects of Play on Children",
+            "box": [
+                248,
+                587,
+                564,
+                605
+            ],
+            "font_id": 787,
+            "font_size": 28.66595,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0550000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "The",
+                    "box": [
+                        248,
+                        587,
+                        286,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        286,
+                        587,
+                        291,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Effects",
+                    "box": [
+                        291,
+                        587,
+                        364,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        364,
+                        587,
+                        370,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        370,
+                        587,
+                        391,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        391,
+                        587,
+                        397,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Play",
+                    "box": [
+                        397,
+                        587,
+                        440,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        440,
+                        587,
+                        445,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "on",
+                    "box": [
+                        445,
+                        587,
+                        471,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        471,
+                        587,
+                        477,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Children",
+                    "box": [
+                        477,
+                        587,
+                        564,
+                        605
+                    ],
+                    "font_size": 28.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MIRICANVAS\u3163www.miricanvas.com",
+            "box": [
+                438,
+                747,
+                767,
+                764
+            ],
+            "font_id": -1,
+            "font_size": 26.665999999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.355,
+            "opacity": 127.5,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "MIRICANVAS\u3163",
+                    "box": [
+                        438,
+                        747,
+                        578,
+                        764
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 787,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "text": "www.miricanvas.com",
+                    "box": [
+                        578,
+                        747,
+                        767,
+                        764
+                    ],
+                    "font_size": 26.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}

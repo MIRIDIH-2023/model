@@ -1,0 +1,277 @@
+{
+    "form": [
+        {
+            "text": "02_",
+            "box": [
+                776,
+                82,
+                758,
+                123
+            ],
+            "font_id": 1055,
+            "font_size": 41.0329,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 270.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "02_",
+                    "box": [
+                        776,
+                        82,
+                        758,
+                        123
+                    ],
+                    "font_size": 41.033,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "02",
+            "box": [
+                116,
+                193,
+                203,
+                256
+            ],
+            "font_id": 1055,
+            "font_size": 171.761,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "02",
+                    "box": [
+                        116,
+                        193,
+                        203,
+                        256
+                    ],
+                    "font_size": 171.761,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        239,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Please enter\u00a0\nthe chapter title.",
+            "box": [
+                324,
+                170,
+                695,
+                263
+            ],
+            "font_id": 1055,
+            "font_size": 104.973,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Please",
+                    "box": [
+                        324,
+                        170,
+                        469,
+                        208
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        469,
+                        170,
+                        480,
+                        208
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "enter",
+                    "box": [
+                        480,
+                        170,
+                        601,
+                        208
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        601,
+                        170,
+                        612,
+                        208
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        324,
+                        224,
+                        398,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        398,
+                        224,
+                        409,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "chapter",
+                    "box": [
+                        409,
+                        224,
+                        582,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        6,
+                        201,
+                        166
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        582,
+                        224,
+                        593,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        6,
+                        201,
+                        166
+                    ]
+                },
+                {
+                    "text": "title",
+                    "box": [
+                        593,
+                        224,
+                        683,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        6,
+                        201,
+                        166
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        683,
+                        224,
+                        695,
+                        263
+                    ],
+                    "font_size": 104.973,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        35,
+                        31,
+                        32
+                    ]
+                }
+            ]
+        }
+    ]
+}

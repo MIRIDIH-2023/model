@@ -1,0 +1,283 @@
+{
+    "form": [
+        {
+            "text": "2029 My Daily Plan",
+            "box": [
+                165,
+                19,
+                399,
+                47
+            ],
+            "font_id": 1073,
+            "font_size": 33.72555555555556,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "2029",
+                    "box": [
+                        165,
+                        19,
+                        221,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        221,
+                        19,
+                        228,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": "My",
+                    "box": [
+                        228,
+                        19,
+                        266,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        266,
+                        19,
+                        274,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": "Daily",
+                    "box": [
+                        274,
+                        19,
+                        337,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        337,
+                        19,
+                        345,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                },
+                {
+                    "text": "Plan",
+                    "box": [
+                        345,
+                        19,
+                        399,
+                        47
+                    ],
+                    "font_size": 33.726,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        255,
+                        194,
+                        130
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DATE.",
+            "box": [
+                40,
+                113,
+                81,
+                127
+            ],
+            "font_id": 1076,
+            "font_size": 16.704349393085554,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "DATE.",
+                    "box": [
+                        40,
+                        113,
+                        77,
+                        127
+                    ],
+                    "font_size": 16.704,
+                    "letter_spacing": 0.0,
+                    "font_id": 1076,
+                    "color": [
+                        67,
+                        60,
+                        49
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        77,
+                        113,
+                        81,
+                        127
+                    ],
+                    "font_size": 16.704,
+                    "letter_spacing": 0.0,
+                    "font_id": 1076,
+                    "color": [
+                        67,
+                        60,
+                        49
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Weather.",
+            "box": [
+                192,
+                112,
+                245,
+                125
+            ],
+            "font_id": 1076,
+            "font_size": 16.704349393085558,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Weather.",
+                    "box": [
+                        192,
+                        112,
+                        245,
+                        125
+                    ],
+                    "font_size": 16.704,
+                    "letter_spacing": 0.0,
+                    "font_id": 1076,
+                    "color": [
+                        67,
+                        60,
+                        49
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MTWTFSS",
+            "box": [
+                407,
+                114,
+                534,
+                127
+            ],
+            "font_id": 1076,
+            "font_size": 16.70434939308555,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "MTWTFSS",
+                    "box": [
+                        407,
+                        114,
+                        534,
+                        127
+                    ],
+                    "font_size": 16.704,
+                    "letter_spacing": 80.0,
+                    "font_id": 1076,
+                    "color": [
+                        67,
+                        60,
+                        49
+                    ]
+                }
+            ]
+        }
+    ]
+}

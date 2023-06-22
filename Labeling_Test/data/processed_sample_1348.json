@@ -1,0 +1,561 @@
+{
+    "form": [
+        {
+            "text": "Twinkle\nLittle Star",
+            "box": [
+                153,
+                118,
+                642,
+                329
+            ],
+            "font_id": 535,
+            "font_size": 159.99599999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.23,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Twinkle",
+                    "box": [
+                        206,
+                        118,
+                        589,
+                        204
+                    ],
+                    "font_size": 159.996,
+                    "letter_spacing": -4.0,
+                    "font_id": 535,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Little",
+                    "box": [
+                        153,
+                        243,
+                        413,
+                        329
+                    ],
+                    "font_size": 159.996,
+                    "letter_spacing": -4.0,
+                    "font_id": 535,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        413,
+                        243,
+                        440,
+                        329
+                    ],
+                    "font_size": 159.996,
+                    "letter_spacing": -4.0,
+                    "font_id": 535,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Star",
+                    "box": [
+                        440,
+                        243,
+                        642,
+                        329
+                    ],
+                    "font_size": 159.996,
+                    "letter_spacing": -4.0,
+                    "font_id": 535,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "year-end party",
+            "box": [
+                237,
+                194,
+                563,
+                243
+            ],
+            "font_id": 1223,
+            "font_size": 88.66445,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.48,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "year-end",
+                    "box": [
+                        237,
+                        194,
+                        433,
+                        243
+                    ],
+                    "font_size": 88.664,
+                    "letter_spacing": 1.967,
+                    "font_id": 1223,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        433,
+                        194,
+                        454,
+                        243
+                    ],
+                    "font_size": 88.664,
+                    "letter_spacing": 1.967,
+                    "font_id": 1223,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "party",
+                    "box": [
+                        454,
+                        194,
+                        563,
+                        243
+                    ],
+                    "font_size": 88.664,
+                    "letter_spacing": 1.967,
+                    "font_id": 1223,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "20XX Year-end Party",
+            "box": [
+                286,
+                59,
+                514,
+                80
+            ],
+            "font_id": 891,
+            "font_size": 35.33245,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.150390625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "20XX",
+                    "box": [
+                        286,
+                        59,
+                        347,
+                        80
+                    ],
+                    "font_size": 35.333,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        347,
+                        59,
+                        354,
+                        80
+                    ],
+                    "font_size": 35.333,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "Year-end",
+                    "box": [
+                        354,
+                        59,
+                        453,
+                        80
+                    ],
+                    "font_size": 35.333,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        453,
+                        59,
+                        461,
+                        80
+                    ],
+                    "font_size": 35.333,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "Party",
+                    "box": [
+                        461,
+                        59,
+                        514,
+                        80
+                    ],
+                    "font_size": 35.333,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12.31 PM 7:00 Mirihotel",
+            "box": [
+                173,
+                364,
+                365,
+                379
+            ],
+            "font_id": 891,
+            "font_size": 26.20839313572543,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.150390625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "12.31",
+                    "box": [
+                        173,
+                        364,
+                        215,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        215,
+                        364,
+                        221,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "PM",
+                    "box": [
+                        221,
+                        364,
+                        248,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        248,
+                        364,
+                        253,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "7:00",
+                    "box": [
+                        253,
+                        364,
+                        288,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        288,
+                        364,
+                        293,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                },
+                {
+                    "text": "Mirihotel",
+                    "box": [
+                        293,
+                        364,
+                        365,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        224,
+                        179,
+                        211
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miridi employee year-end party",
+            "box": [
+                375,
+                364,
+                619,
+                379
+            ],
+            "font_id": 891,
+            "font_size": 26.20839313572543,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.150390625,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Miridi",
+                    "box": [
+                        375,
+                        364,
+                        423,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        423,
+                        364,
+                        428,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "employee",
+                    "box": [
+                        428,
+                        364,
+                        499,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        499,
+                        364,
+                        504,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "year-end",
+                    "box": [
+                        504,
+                        364,
+                        574,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        574,
+                        364,
+                        579,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "party",
+                    "box": [
+                        579,
+                        364,
+                        619,
+                        379
+                    ],
+                    "font_size": 26.208,
+                    "letter_spacing": 2.0,
+                    "font_id": 891,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

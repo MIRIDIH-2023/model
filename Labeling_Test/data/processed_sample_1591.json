@@ -1,0 +1,448 @@
+{
+    "form": [
+        {
+            "text": "Meeting Minutes",
+            "box": [
+                32,
+                57,
+                279,
+                84
+            ],
+            "font_id": 2118,
+            "font_size": 47.44866666666666,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Meeting",
+                    "box": [
+                        32,
+                        57,
+                        152,
+                        84
+                    ],
+                    "font_size": 47.449,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        91,
+                        119,
+                        210
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        152,
+                        57,
+                        160,
+                        84
+                    ],
+                    "font_size": 47.449,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        91,
+                        119,
+                        210
+                    ]
+                },
+                {
+                    "text": "Minutes",
+                    "box": [
+                        160,
+                        57,
+                        279,
+                        84
+                    ],
+                    "font_size": 47.449,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        91,
+                        119,
+                        210
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Writer",
+            "box": [
+                309,
+                95,
+                339,
+                104
+            ],
+            "font_id": 2118,
+            "font_size": 15.999599999999997,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Writer",
+                    "box": [
+                        309,
+                        95,
+                        339,
+                        104
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        126,
+                        147,
+                        216
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Date",
+            "box": [
+                409,
+                95,
+                436,
+                104
+            ],
+            "font_id": 2118,
+            "font_size": 15.999599999999997,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Date",
+                    "box": [
+                        409,
+                        95,
+                        436,
+                        104
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        126,
+                        147,
+                        216
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Liam Smith",
+            "box": [
+                346,
+                95,
+                398,
+                104
+            ],
+            "font_id": 2118,
+            "font_size": 14.6663,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Liam",
+                    "box": [
+                        346,
+                        95,
+                        369,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        369,
+                        95,
+                        371,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": "Smith",
+                    "box": [
+                        371,
+                        95,
+                        398,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "11 / 13 / 20XX",
+            "box": [
+                438,
+                96,
+                503,
+                104
+            ],
+            "font_id": 2118,
+            "font_size": 14.666299999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "11",
+                    "box": [
+                        438,
+                        96,
+                        450,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        450,
+                        96,
+                        452,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": "/",
+                    "box": [
+                        452,
+                        96,
+                        456,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        456,
+                        96,
+                        459,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": "13",
+                    "box": [
+                        459,
+                        96,
+                        470,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        470,
+                        96,
+                        473,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": "/",
+                    "box": [
+                        473,
+                        96,
+                        477,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        477,
+                        96,
+                        479,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "text": "20XX",
+                    "box": [
+                        479,
+                        96,
+                        503,
+                        104
+                    ],
+                    "font_size": 14.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        46,
+                        46,
+                        46
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MIRICOMPANY",
+            "box": [
+                232,
+                749,
+                318,
+                760
+            ],
+            "font_id": 2118,
+            "font_size": 18.961305071031386,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.73,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "MIRICOMPANY",
+                    "box": [
+                        232,
+                        749,
+                        318,
+                        760
+                    ],
+                    "font_size": 18.961,
+                    "letter_spacing": 0.0,
+                    "font_id": 2118,
+                    "color": [
+                        91,
+                        119,
+                        210
+                    ]
+                }
+            ]
+        }
+    ]
+}

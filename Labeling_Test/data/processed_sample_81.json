@@ -1,0 +1,204 @@
+{
+    "form": [
+        {
+            "text": "Water",
+            "box": [
+                100,
+                154,
+                558,
+                243
+            ],
+            "font_id": 1055,
+            "font_size": 193.09935307811446,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9400000000000001,
+            "opacity": 255.0,
+            "rotate": 7.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Water",
+                    "box": [
+                        100,
+                        154,
+                        558,
+                        243
+                    ],
+                    "font_size": 193.1,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        143,
+                        249,
+                        189
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Melon",
+            "box": [
+                197,
+                257,
+                658,
+                346
+            ],
+            "font_id": 1055,
+            "font_size": 193.09935307811443,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 7.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Melon",
+                    "box": [
+                        197,
+                        257,
+                        658,
+                        346
+                    ],
+                    "font_size": 193.1,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "new",
+            "box": [
+                141,
+                66,
+                296,
+                160
+            ],
+            "font_id": 720,
+            "font_size": 151.5198978868239,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 7.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "new",
+                    "box": [
+                        141,
+                        66,
+                        296,
+                        160
+                    ],
+                    "font_size": 151.52,
+                    "letter_spacing": -3.021,
+                    "font_id": 720,
+                    "color": [
+                        31,
+                        146,
+                        57
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "5.00",
+            "box": [
+                566,
+                381,
+                755,
+                407
+            ],
+            "font_id": 1055,
+            "font_size": 65.66573076923078,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 7.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "5.00",
+                    "box": [
+                        566,
+                        381,
+                        755,
+                        407
+                    ],
+                    "font_size": 65.666,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        193,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$",
+            "box": [
+                536,
+                396,
+                552,
+                419
+            ],
+            "font_id": 1055,
+            "font_size": 29.44696153846154,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 7.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        536,
+                        396,
+                        552,
+                        419
+                    ],
+                    "font_size": 29.447,
+                    "letter_spacing": -3.021,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        193,
+                        192
+                    ]
+                }
+            ]
+        }
+    ]
+}

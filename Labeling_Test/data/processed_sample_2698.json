@@ -1,0 +1,754 @@
+{
+    "form": [
+        {
+            "text": "123 Anywhere St., Any City, ST 12345, USA",
+            "box": [
+                60,
+                356,
+                262,
+                363
+            ],
+            "font_id": 1064,
+            "font_size": 19.999499999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "123",
+                    "box": [
+                        60,
+                        356,
+                        75,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        75,
+                        356,
+                        78,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Anywhere",
+                    "box": [
+                        78,
+                        356,
+                        127,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        127,
+                        356,
+                        130,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "St.,",
+                    "box": [
+                        130,
+                        356,
+                        144,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        144,
+                        356,
+                        147,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Any",
+                    "box": [
+                        147,
+                        356,
+                        165,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        165,
+                        356,
+                        168,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "City,",
+                    "box": [
+                        168,
+                        356,
+                        190,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        190,
+                        356,
+                        193,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "ST",
+                    "box": [
+                        193,
+                        356,
+                        206,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        206,
+                        356,
+                        209,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "12345,",
+                    "box": [
+                        209,
+                        356,
+                        238,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        238,
+                        356,
+                        241,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "USA",
+                    "box": [
+                        241,
+                        356,
+                        262,
+                        363
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Phone. 02-1234-5678\nE-mail. miri-info@miricanvas.com\nWebsite. www,miricanvas.com",
+            "box": [
+                60,
+                370,
+                219,
+                405
+            ],
+            "font_id": 1064,
+            "font_size": 19.999499999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.7,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Phone.",
+                    "box": [
+                        60,
+                        370,
+                        92,
+                        377
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        92,
+                        370,
+                        95,
+                        377
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "02-1234-5678",
+                    "box": [
+                        95,
+                        370,
+                        160,
+                        377
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "E-mail.",
+                    "box": [
+                        60,
+                        385,
+                        92,
+                        391
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        92,
+                        385,
+                        95,
+                        391
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "miri-info@miricanvas.com",
+                    "box": [
+                        95,
+                        385,
+                        219,
+                        391
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Website.",
+                    "box": [
+                        60,
+                        399,
+                        101,
+                        405
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        101,
+                        399,
+                        104,
+                        405
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "www,miricanvas.com",
+                    "box": [
+                        104,
+                        399,
+                        207,
+                        405
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Thank You",
+            "box": [
+                60,
+                137,
+                354,
+                178
+            ],
+            "font_id": 1063,
+            "font_size": 122.66360000000002,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Thank",
+                    "box": [
+                        60,
+                        137,
+                        233,
+                        178
+                    ],
+                    "font_size": 122.664,
+                    "letter_spacing": -3.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        233,
+                        137,
+                        246,
+                        178
+                    ],
+                    "font_size": 122.664,
+                    "letter_spacing": -3.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "You",
+                    "box": [
+                        246,
+                        137,
+                        354,
+                        178
+                    ],
+                    "font_size": 122.664,
+                    "letter_spacing": -3.0,
+                    "font_id": 1063,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Global\u00a0 IT Solution Leader",
+            "box": [
+                66,
+                203,
+                191,
+                210
+            ],
+            "font_id": 1064,
+            "font_size": 19.989199041778715,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Global",
+                    "box": [
+                        66,
+                        203,
+                        97,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "\u00a0 ",
+                    "box": [
+                        97,
+                        203,
+                        103,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "IT",
+                    "box": [
+                        103,
+                        203,
+                        112,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        112,
+                        203,
+                        115,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Solution",
+                    "box": [
+                        115,
+                        203,
+                        153,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        153,
+                        203,
+                        156,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Leader",
+                    "box": [
+                        156,
+                        203,
+                        191,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "www,miricanvas.com",
+            "box": [
+                197,
+                204,
+                300,
+                211
+            ],
+            "font_id": 1064,
+            "font_size": 19.989199041778715,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "www,miricanvas.com",
+                    "box": [
+                        197,
+                        204,
+                        300,
+                        211
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 5.0,
+                    "font_id": 1064,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uff5c",
+            "box": [
+                187,
+                203,
+                195,
+                210
+            ],
+            "font_id": 1065,
+            "font_size": 19.989199041778715,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "\uff5c",
+                    "box": [
+                        187,
+                        203,
+                        195,
+                        210
+                    ],
+                    "font_size": 19.989,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

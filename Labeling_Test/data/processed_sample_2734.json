@@ -1,0 +1,652 @@
+{
+    "form": [
+        {
+            "text": "Real",
+            "box": [
+                209,
+                60,
+                388,
+                152
+            ],
+            "font_id": 663,
+            "font_size": 181.9732106830818,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Real",
+                    "box": [
+                        209,
+                        60,
+                        388,
+                        152
+                    ],
+                    "font_size": 181.973,
+                    "letter_spacing": 0.0,
+                    "font_id": 663,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Ade",
+            "box": [
+                406,
+                45,
+                599,
+                159
+            ],
+            "font_id": 850,
+            "font_size": 167.9624410246227,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.15,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Ade",
+                    "box": [
+                        406,
+                        45,
+                        599,
+                        159
+                    ],
+                    "font_size": 167.963,
+                    "letter_spacing": -1.572,
+                    "font_id": 850,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Lemon Ade\n$ 5.0",
+            "box": [
+                83,
+                340,
+                175,
+                376
+            ],
+            "font_id": -1,
+            "font_size": 25.000018348623854,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2000000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Lemon",
+                    "box": [
+                        83,
+                        340,
+                        139,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        112,
+                        147,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        139,
+                        340,
+                        143,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        112,
+                        147,
+                        3
+                    ]
+                },
+                {
+                    "text": "Ade",
+                    "box": [
+                        143,
+                        340,
+                        175,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        112,
+                        147,
+                        3
+                    ]
+                },
+                {
+                    "text": "$",
+                    "box": [
+                        83,
+                        359,
+                        93,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        93,
+                        359,
+                        97,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                },
+                {
+                    "text": "5.0",
+                    "box": [
+                        97,
+                        359,
+                        119,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Grapefruit Ade\n$ 5.0",
+            "box": [
+                631,
+                340,
+                752,
+                376
+            ],
+            "font_id": -1,
+            "font_size": 25.000018348623854,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2000000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Grapefruit",
+                    "box": [
+                        631,
+                        340,
+                        717,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        245,
+                        113,
+                        88
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        717,
+                        340,
+                        721,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        245,
+                        113,
+                        88
+                    ]
+                },
+                {
+                    "text": "Ade",
+                    "box": [
+                        721,
+                        340,
+                        752,
+                        357
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 848,
+                    "color": [
+                        245,
+                        113,
+                        88
+                    ]
+                },
+                {
+                    "text": "$",
+                    "box": [
+                        631,
+                        359,
+                        640,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        640,
+                        359,
+                        644,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                },
+                {
+                    "text": "5.0",
+                    "box": [
+                        644,
+                        359,
+                        666,
+                        376
+                    ],
+                    "font_size": 25.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        155,
+                        155,
+                        155
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Organic food made with only fair-trade ingredients",
+            "box": [
+                212,
+                40,
+                586,
+                59
+            ],
+            "font_id": -1,
+            "font_size": 28.000032110091745,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Organic",
+                    "box": [
+                        212,
+                        40,
+                        274,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 850,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        274,
+                        40,
+                        278,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 850,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "food",
+                    "box": [
+                        278,
+                        40,
+                        315,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 850,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        315,
+                        40,
+                        318,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "made",
+                    "box": [
+                        318,
+                        40,
+                        361,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        361,
+                        40,
+                        365,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "with",
+                    "box": [
+                        365,
+                        40,
+                        395,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        395,
+                        40,
+                        399,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "only",
+                    "box": [
+                        399,
+                        40,
+                        430,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        430,
+                        40,
+                        433,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "fair-trade",
+                    "box": [
+                        433,
+                        40,
+                        500,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        500,
+                        40,
+                        504,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                },
+                {
+                    "text": "ingredients",
+                    "box": [
+                        504,
+                        40,
+                        586,
+                        59
+                    ],
+                    "font_size": 28.0,
+                    "letter_spacing": -4.0,
+                    "font_id": 849,
+                    "color": [
+                        14,
+                        116,
+                        211
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SUMMER SPECIAL",
+            "box": [
+                324,
+                186,
+                475,
+                207
+            ],
+            "font_id": 850,
+            "font_size": 29.99999311926606,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.0,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "SUMMER",
+                    "box": [
+                        324,
+                        186,
+                        401,
+                        207
+                    ],
+                    "font_size": 30.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        401,
+                        186,
+                        406,
+                        207
+                    ],
+                    "font_size": 30.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SPECIAL",
+                    "box": [
+                        406,
+                        186,
+                        475,
+                        207
+                    ],
+                    "font_size": 30.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

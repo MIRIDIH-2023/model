@@ -1,0 +1,283 @@
+{
+    "form": [
+        {
+            "text": "Christmas\nevent",
+            "box": [
+                168,
+                271,
+                630,
+                454
+            ],
+            "font_id": 1073,
+            "font_size": 119.997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "Christmas",
+                    "box": [
+                        168,
+                        271,
+                        630,
+                        374
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        214,
+                        156,
+                        99
+                    ]
+                },
+                {
+                    "text": "event",
+                    "box": [
+                        275,
+                        351,
+                        523,
+                        454
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        214,
+                        156,
+                        99
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12.20 - 12.31",
+            "box": [
+                336,
+                465,
+                463,
+                489
+            ],
+            "font_id": 1078,
+            "font_size": 27.999299999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "12.20",
+                    "box": [
+                        336,
+                        465,
+                        389,
+                        489
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        389,
+                        465,
+                        396,
+                        489
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        396,
+                        465,
+                        403,
+                        489
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        403,
+                        465,
+                        410,
+                        489
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": "12.31",
+                    "box": [
+                        410,
+                        465,
+                        463,
+                        489
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12.25",
+            "box": [
+                33,
+                716,
+                97,
+                744
+            ],
+            "font_id": 1078,
+            "font_size": 33.332499999999996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "12.25",
+                    "box": [
+                        33,
+                        716,
+                        97,
+                        744
+                    ],
+                    "font_size": 33.333,
+                    "letter_spacing": 0.0,
+                    "font_id": 1078,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MERRY CHRISTMAS",
+            "box": [
+                33,
+                755,
+                171,
+                767
+            ],
+            "font_id": 849,
+            "font_size": 15.9996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "MERRY",
+                    "box": [
+                        33,
+                        755,
+                        82,
+                        767
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 20.0,
+                    "font_id": 849,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        82,
+                        755,
+                        88,
+                        767
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 20.0,
+                    "font_id": 849,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                },
+                {
+                    "text": "CHRISTMAS",
+                    "box": [
+                        88,
+                        755,
+                        171,
+                        767
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 20.0,
+                    "font_id": 849,
+                    "color": [
+                        252,
+                        213,
+                        193
+                    ]
+                }
+            ]
+        }
+    ]
+}

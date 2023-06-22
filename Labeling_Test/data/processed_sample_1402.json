@@ -1,0 +1,169 @@
+{
+    "form": [
+        {
+            "text": "Merry\nChristmas",
+            "box": [
+                171,
+                201,
+                628,
+                402
+            ],
+            "font_id": 1073,
+            "font_size": -1.0,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.06,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Merry",
+                    "box": [
+                        252,
+                        201,
+                        547,
+                        309
+                    ],
+                    "font_size": 126.588,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                },
+                {
+                    "text": "Christmas",
+                    "box": [
+                        171,
+                        301,
+                        628,
+                        402
+                    ],
+                    "font_size": 118.508,
+                    "letter_spacing": 0.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12.20 - 12.31",
+            "box": [
+                323,
+                461,
+                477,
+                488
+            ],
+            "font_id": 1073,
+            "font_size": 31.167426691723787,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.32,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "12.20",
+                    "box": [
+                        323,
+                        461,
+                        387,
+                        488
+                    ],
+                    "font_size": 31.167,
+                    "letter_spacing": 3.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        387,
+                        461,
+                        395,
+                        488
+                    ],
+                    "font_size": 31.167,
+                    "letter_spacing": 3.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        395,
+                        461,
+                        404,
+                        488
+                    ],
+                    "font_size": 31.167,
+                    "letter_spacing": 3.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        404,
+                        461,
+                        412,
+                        488
+                    ],
+                    "font_size": 31.167,
+                    "letter_spacing": 3.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                },
+                {
+                    "text": "12.31",
+                    "box": [
+                        412,
+                        461,
+                        477,
+                        488
+                    ],
+                    "font_size": 31.167,
+                    "letter_spacing": 3.0,
+                    "font_id": 1073,
+                    "color": [
+                        217,
+                        168,
+                        83
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,904 @@
+{
+    "form": [
+        {
+            "text": "calories",
+            "box": [
+                38,
+                289,
+                726,
+                334
+            ],
+            "font_id": 1007,
+            "font_size": 187.9953,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 8.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "CALORIES",
+                    "box": [
+                        38,
+                        289,
+                        726,
+                        334
+                    ],
+                    "font_size": 187.995,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        114,
+                        255,
+                        245
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Burning off",
+            "box": [
+                44,
+                154,
+                720,
+                174
+            ],
+            "font_id": 1007,
+            "font_size": 153.44818082765835,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9400000000000002,
+            "opacity": 255.0,
+            "rotate": 8.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Burning",
+                    "box": [
+                        44,
+                        154,
+                        720,
+                        174
+                    ],
+                    "font_size": 153.448,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        20,
+                        20,
+                        20
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        504,
+                        89,
+                        260,
+                        239
+                    ],
+                    "font_size": 153.448,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        20,
+                        20,
+                        20
+                    ]
+                },
+                {
+                    "text": "off",
+                    "box": [
+                        535,
+                        85,
+                        230,
+                        243
+                    ],
+                    "font_size": 153.448,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        20,
+                        20,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Large fitness center | Comfortable environment",
+            "box": [
+                65,
+                408,
+                549,
+                365
+            ],
+            "font_id": 1019,
+            "font_size": 27.999299999999998,
+            "style": {
+                "bold": false,
+                "italic": true,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 8.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Large",
+                    "box": [
+                        65,
+                        408,
+                        549,
+                        365
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        121,
+                        400,
+                        494,
+                        373
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "fitness",
+                    "box": [
+                        127,
+                        400,
+                        488,
+                        374
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        193,
+                        390,
+                        421,
+                        383
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "center",
+                    "box": [
+                        199,
+                        389,
+                        415,
+                        384
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        263,
+                        380,
+                        351,
+                        393
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "|",
+                    "box": [
+                        269,
+                        380,
+                        345,
+                        394
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        275,
+                        379,
+                        339,
+                        395
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "Comfortable",
+                    "box": [
+                        281,
+                        378,
+                        333,
+                        395
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        403,
+                        361,
+                        211,
+                        413
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "environment",
+                    "box": [
+                        409,
+                        360,
+                        205,
+                        413
+                    ],
+                    "font_size": 27.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Disinfected\u00a0 \u00a0 \u00a0 times daily",
+            "box": [
+                82,
+                514,
+                423,
+                543
+            ],
+            "font_id": 1021,
+            "font_size": 36.13236428571429,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3289999999999997,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Disinfected",
+                    "box": [
+                        82,
+                        514,
+                        232,
+                        543
+                    ],
+                    "font_size": 36.132,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 ",
+                    "box": [
+                        232,
+                        514,
+                        279,
+                        543
+                    ],
+                    "font_size": 36.132,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "times",
+                    "box": [
+                        279,
+                        514,
+                        353,
+                        543
+                    ],
+                    "font_size": 36.132,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        353,
+                        514,
+                        361,
+                        543
+                    ],
+                    "font_size": 36.132,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                },
+                {
+                    "text": "daily",
+                    "box": [
+                        361,
+                        514,
+                        423,
+                        543
+                    ],
+                    "font_size": 36.132,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        114,
+                        255,
+                        148
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2",
+            "box": [
+                246,
+                514,
+                266,
+                542
+            ],
+            "font_id": 1007,
+            "font_size": 47.31613577704465,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9400000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        246,
+                        514,
+                        266,
+                        542
+                    ],
+                    "font_size": 47.316,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3",
+            "box": [
+                98,
+                619,
+                166,
+                713
+            ],
+            "font_id": 1007,
+            "font_size": 160.17840540216386,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9400000000000001,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "3",
+                    "box": [
+                        98,
+                        619,
+                        166,
+                        713
+                    ],
+                    "font_size": 160.178,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "free use",
+            "box": [
+                175,
+                664,
+                215,
+                705
+            ],
+            "font_id": 1017,
+            "font_size": 22.6661,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "FREE",
+                    "box": [
+                        175,
+                        664,
+                        215,
+                        683
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        215,
+                        664,
+                        215,
+                        683
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                },
+                {
+                    "text": "USE",
+                    "box": [
+                        175,
+                        687,
+                        207,
+                        705
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "months",
+            "box": [
+                174,
+                640,
+                237,
+                657
+            ],
+            "font_id": 1021,
+            "font_size": 19.999499999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "MONTHS",
+                    "box": [
+                        174,
+                        640,
+                        237,
+                        657
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "5",
+            "box": [
+                305,
+                619,
+                372,
+                713
+            ],
+            "font_id": 1007,
+            "font_size": 160.17846148379235,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.9399999999999997,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "5",
+                    "box": [
+                        305,
+                        619,
+                        372,
+                        713
+                    ],
+                    "font_size": 160.178,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spin classes",
+            "box": [
+                383,
+                664,
+                456,
+                705
+            ],
+            "font_id": 1017,
+            "font_size": 22.6661,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3290000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "SPIN",
+                    "box": [
+                        383,
+                        664,
+                        420,
+                        683
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        420,
+                        664,
+                        420,
+                        683
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                },
+                {
+                    "text": "CLASSES",
+                    "box": [
+                        383,
+                        687,
+                        456,
+                        705
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "months",
+            "box": [
+                383,
+                640,
+                446,
+                657
+            ],
+            "font_id": 1021,
+            "font_size": 19.999499999999998,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3289999999999997,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 10,
+            "words": [
+                {
+                    "text": "MONTHS",
+                    "box": [
+                        383,
+                        640,
+                        446,
+                        657
+                    ],
+                    "font_size": 19.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "15",
+            "box": [
+                515,
+                619,
+                650,
+                713
+            ],
+            "font_id": 1007,
+            "font_size": 160.1780224432222,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.94,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 11,
+            "words": [
+                {
+                    "text": "15",
+                    "box": [
+                        515,
+                        619,
+                        650,
+                        713
+                    ],
+                    "font_size": 160.178,
+                    "letter_spacing": -3.021,
+                    "font_id": 1007,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "OFF",
+            "box": [
+                657,
+                682,
+                702,
+                707
+            ],
+            "font_id": 1017,
+            "font_size": 30.24524308259791,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3289999999999997,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 12,
+            "words": [
+                {
+                    "text": "OFF",
+                    "box": [
+                        657,
+                        682,
+                        702,
+                        707
+                    ],
+                    "font_size": 30.245,
+                    "letter_spacing": -3.021,
+                    "font_id": 1017,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "%",
+            "box": [
+                656,
+                643,
+                686,
+                680
+            ],
+            "font_id": 1021,
+            "font_size": 45.98935257970347,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 13,
+            "words": [
+                {
+                    "text": "%",
+                    "box": [
+                        656,
+                        643,
+                        686,
+                        680
+                    ],
+                    "font_size": 45.989,
+                    "letter_spacing": -3.021,
+                    "font_id": 1021,
+                    "color": [
+                        255,
+                        129,
+                        14
+                    ]
+                }
+            ]
+        }
+    ]
+}

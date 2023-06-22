@@ -1,0 +1,1158 @@
+{
+    "form": [
+        {
+            "text": "World",
+            "box": [
+                251,
+                87,
+                559,
+                166
+            ],
+            "font_id": 1114,
+            "font_size": 119.99706428571429,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 229.5,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "World",
+                    "box": [
+                        251,
+                        87,
+                        534,
+                        166
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        534,
+                        87,
+                        559,
+                        166
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "June 5th.",
+            "box": [
+                81,
+                95,
+                186,
+                110
+            ],
+            "font_id": 1370,
+            "font_size": 40.53232,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.07,
+            "opacity": 255.0,
+            "rotate": 12.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "June",
+                    "box": [
+                        81,
+                        95,
+                        186,
+                        110
+                    ],
+                    "font_size": 40.532,
+                    "letter_spacing": 0.0,
+                    "font_id": 1370,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        133,
+                        85,
+                        135,
+                        121
+                    ],
+                    "font_size": 40.532,
+                    "letter_spacing": 0.0,
+                    "font_id": 1370,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": "5th.",
+                    "box": [
+                        141,
+                        83,
+                        126,
+                        123
+                    ],
+                    "font_size": 40.532,
+                    "letter_spacing": 0.0,
+                    "font_id": 1370,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "#Disposable item reduction event",
+            "box": [
+                116,
+                433,
+                683,
+                461
+            ],
+            "font_id": 1114,
+            "font_size": 41.3323,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 214.2,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "#Disposable",
+                    "box": [
+                        116,
+                        433,
+                        333,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        333,
+                        433,
+                        341,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "item",
+                    "box": [
+                        341,
+                        433,
+                        409,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        409,
+                        433,
+                        417,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "reduction",
+                    "box": [
+                        417,
+                        433,
+                        578,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        578,
+                        433,
+                        586,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "event",
+                    "box": [
+                        586,
+                        433,
+                        683,
+                        461
+                    ],
+                    "font_size": 41.332,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "June 5-7, 2050",
+            "box": [
+                219,
+                573,
+                404,
+                601
+            ],
+            "font_id": 1019,
+            "font_size": 33.86571428571428,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "June",
+                    "box": [
+                        219,
+                        573,
+                        277,
+                        601
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        277,
+                        573,
+                        285,
+                        601
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "5-7,",
+                    "box": [
+                        285,
+                        573,
+                        334,
+                        601
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        334,
+                        573,
+                        342,
+                        601
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "2050",
+                    "box": [
+                        342,
+                        573,
+                        404,
+                        601
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Period",
+            "box": [
+                91,
+                574,
+                162,
+                601
+            ],
+            "font_id": 1018,
+            "font_size": 31.9992,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Period",
+                    "box": [
+                        91,
+                        574,
+                        162,
+                        601
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Gift",
+            "box": [
+                106,
+                641,
+                147,
+                667
+            ],
+            "font_id": 1018,
+            "font_size": 31.9992,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "Gift",
+                    "box": [
+                        106,
+                        641,
+                        147,
+                        667
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "How to\napply",
+            "box": [
+                97,
+                704,
+                154,
+                741
+            ],
+            "font_id": 1018,
+            "font_size": 22.6661,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "How",
+                    "box": [
+                        97,
+                        704,
+                        133,
+                        723
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        133,
+                        704,
+                        138,
+                        723
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        138,
+                        704,
+                        154,
+                        723
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                },
+                {
+                    "text": "apply",
+                    "box": [
+                        104,
+                        723,
+                        147,
+                        741
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": 0.0,
+                    "font_id": 1018,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Eco-Friendly Tumbler (20 people)",
+            "box": [
+                219,
+                642,
+                615,
+                670
+            ],
+            "font_id": 1019,
+            "font_size": 33.86590714285714,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Eco-Friendly",
+                    "box": [
+                        219,
+                        642,
+                        367,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        367,
+                        642,
+                        375,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "Tumbler",
+                    "box": [
+                        375,
+                        642,
+                        473,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        473,
+                        642,
+                        480,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "(20",
+                    "box": [
+                        480,
+                        642,
+                        520,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        520,
+                        642,
+                        527,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "people)",
+                    "box": [
+                        527,
+                        642,
+                        615,
+                        670
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Leave your own tips on reducing disposable items in the comments!",
+            "box": [
+                214,
+                708,
+                739,
+                767
+            ],
+            "font_id": 1019,
+            "font_size": 33.86571428571428,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Leave",
+                    "box": [
+                        214,
+                        708,
+                        286,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        286,
+                        708,
+                        293,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "your",
+                    "box": [
+                        293,
+                        708,
+                        346,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        346,
+                        708,
+                        353,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "own",
+                    "box": [
+                        353,
+                        708,
+                        405,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        405,
+                        708,
+                        413,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "tips",
+                    "box": [
+                        413,
+                        708,
+                        457,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        457,
+                        708,
+                        464,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "on",
+                    "box": [
+                        464,
+                        708,
+                        493,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        493,
+                        708,
+                        501,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "reducing",
+                    "box": [
+                        501,
+                        708,
+                        605,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        605,
+                        708,
+                        612,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "disposable",
+                    "box": [
+                        612,
+                        708,
+                        739,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        739,
+                        708,
+                        739,
+                        736
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "items",
+                    "box": [
+                        214,
+                        740,
+                        281,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        281,
+                        740,
+                        288,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "in",
+                    "box": [
+                        288,
+                        740,
+                        309,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        309,
+                        740,
+                        316,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        316,
+                        740,
+                        355,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        355,
+                        740,
+                        363,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                },
+                {
+                    "text": "comments!",
+                    "box": [
+                        363,
+                        740,
+                        498,
+                        767
+                    ],
+                    "font_size": 33.866,
+                    "letter_spacing": 0.0,
+                    "font_id": 1019,
+                    "color": [
+                        20,
+                        10,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Day",
+            "box": [
+                313,
+                298,
+                497,
+                378
+            ],
+            "font_id": 1114,
+            "font_size": 119.99706428571429,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 229.5,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "Day",
+                    "box": [
+                        313,
+                        298,
+                        497,
+                        378
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        243,
+                        233
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Environment",
+            "box": [
+                105,
+                192,
+                705,
+                272
+            ],
+            "font_id": 1114,
+            "font_size": 119.99706428571429,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.24,
+            "opacity": 229.5,
+            "rotate": 0.0,
+            "id": 10,
+            "words": [
+                {
+                    "text": "Environment",
+                    "box": [
+                        105,
+                        192,
+                        705,
+                        272
+                    ],
+                    "font_size": 119.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 1114,
+                    "color": [
+                        209,
+                        236,
+                        131
+                    ]
+                }
+            ]
+        }
+    ]
+}

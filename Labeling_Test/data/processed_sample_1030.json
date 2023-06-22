@@ -1,0 +1,737 @@
+{
+    "form": [
+        {
+            "text": "WHY",
+            "box": [
+                239,
+                36,
+                385,
+                111
+            ],
+            "font_id": 1033,
+            "font_size": 89.71666854836424,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "WHY",
+                    "box": [
+                        239,
+                        36,
+                        385,
+                        111
+                    ],
+                    "font_size": 89.717,
+                    "letter_spacing": 0.0,
+                    "font_id": 1033,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Please enter relevant details here.\nWrite something\u00a0about the text.",
+            "box": [
+                170,
+                222,
+                452,
+                270
+            ],
+            "font_id": 849,
+            "font_size": 25.569699867295622,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.5,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "Please",
+                    "box": [
+                        170,
+                        222,
+                        224,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        224,
+                        222,
+                        228,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "enter",
+                    "box": [
+                        228,
+                        222,
+                        273,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        273,
+                        222,
+                        278,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "relevant",
+                    "box": [
+                        278,
+                        222,
+                        345,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        345,
+                        222,
+                        350,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "details",
+                    "box": [
+                        350,
+                        222,
+                        405,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        405,
+                        222,
+                        409,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "here.",
+                    "box": [
+                        409,
+                        222,
+                        452,
+                        242
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "Write",
+                    "box": [
+                        179,
+                        250,
+                        223,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        223,
+                        250,
+                        228,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "something",
+                    "box": [
+                        228,
+                        250,
+                        316,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        316,
+                        250,
+                        321,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "about",
+                    "box": [
+                        321,
+                        250,
+                        370,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        370,
+                        250,
+                        375,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        375,
+                        250,
+                        402,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        402,
+                        250,
+                        407,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "text.",
+                    "box": [
+                        407,
+                        250,
+                        443,
+                        270
+                    ],
+                    "font_size": 25.57,
+                    "letter_spacing": 0.0,
+                    "font_id": 849,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Sturdy\ndesign",
+            "box": [
+                134,
+                477,
+                192,
+                520
+            ],
+            "font_id": -1,
+            "font_size": 25.316248490047567,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Sturdy",
+                    "box": [
+                        134,
+                        477,
+                        192,
+                        496
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "design",
+                    "box": [
+                        135,
+                        501,
+                        191,
+                        520
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Excellent waterproofing",
+            "box": [
+                251,
+                477,
+                373,
+                520
+            ],
+            "font_id": -1,
+            "font_size": 25.316248490047567,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Excellent",
+                    "box": [
+                        272,
+                        477,
+                        352,
+                        496
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "waterproofing",
+                    "box": [
+                        251,
+                        501,
+                        373,
+                        520
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Eco-friendly material",
+            "box": [
+                409,
+                477,
+                513,
+                520
+            ],
+            "font_id": -1,
+            "font_size": 25.316248490047567,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "Eco-friend",
+                    "box": [
+                        409,
+                        477,
+                        499,
+                        496
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "ly",
+                    "box": [
+                        499,
+                        477,
+                        513,
+                        496
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "material",
+                    "box": [
+                        426,
+                        501,
+                        497,
+                        520
+                    ],
+                    "font_size": 25.316,
+                    "letter_spacing": 0.0,
+                    "font_id": 847,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "What makes Cozy Tents special?",
+            "box": [
+                43,
+                137,
+                581,
+                174
+            ],
+            "font_id": 850,
+            "font_size": 47.998799999999996,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "What",
+                    "box": [
+                        43,
+                        137,
+                        132,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        132,
+                        137,
+                        141,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "makes",
+                    "box": [
+                        141,
+                        137,
+                        251,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        251,
+                        137,
+                        260,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "Cozy",
+                    "box": [
+                        260,
+                        137,
+                        339,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        339,
+                        137,
+                        348,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "Tents",
+                    "box": [
+                        348,
+                        137,
+                        441,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        441,
+                        137,
+                        450,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                },
+                {
+                    "text": "special?",
+                    "box": [
+                        450,
+                        137,
+                        581,
+                        174
+                    ],
+                    "font_size": 47.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 850,
+                    "color": [
+                        70,
+                        75,
+                        65
+                    ]
+                }
+            ]
+        }
+    ]
+}

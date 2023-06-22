@@ -1,0 +1,919 @@
+{
+    "form": [
+        {
+            "text": "LEASH",
+            "box": [
+                101,
+                242,
+                523,
+                350
+            ],
+            "font_id": 1055,
+            "font_size": 168.52933333333334,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2300000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "LEASH",
+                    "box": [
+                        101,
+                        242,
+                        523,
+                        350
+                    ],
+                    "font_size": 168.529,
+                    "letter_spacing": 0.0,
+                    "font_id": 1055,
+                    "color": [
+                        255,
+                        240,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "miripet",
+            "box": [
+                93,
+                206,
+                186,
+                222
+            ],
+            "font_id": 1021,
+            "font_size": 20.41226880678478,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.3290000000000002,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "MIRIPET",
+                    "box": [
+                        93,
+                        206,
+                        186,
+                        222
+                    ],
+                    "font_size": 20.412,
+                    "letter_spacing": 32.0,
+                    "font_id": 1021,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "since2030",
+            "box": [
+                433,
+                205,
+                556,
+                221
+            ],
+            "font_id": 1021,
+            "font_size": 20.4123,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.329,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "SINCE2030",
+                    "box": [
+                        433,
+                        205,
+                        556,
+                        221
+                    ],
+                    "font_size": 20.412,
+                    "letter_spacing": 32.0,
+                    "font_id": 1021,
+                    "color": [
+                        17,
+                        108,
+                        154
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "We prioritize\nyour dear pet's safety",
+            "box": [
+                189,
+                411,
+                435,
+                472
+            ],
+            "font_id": 1020,
+            "font_size": 31.999200000000002,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.529,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "We",
+                    "box": [
+                        241,
+                        411,
+                        279,
+                        436
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        279,
+                        411,
+                        285,
+                        436
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "prioritize",
+                    "box": [
+                        285,
+                        411,
+                        383,
+                        436
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "your",
+                    "box": [
+                        189,
+                        446,
+                        239,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        239,
+                        446,
+                        245,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "dear",
+                    "box": [
+                        245,
+                        446,
+                        295,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        295,
+                        446,
+                        302,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "pet's",
+                    "box": [
+                        302,
+                        446,
+                        357,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        357,
+                        446,
+                        364,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "safety",
+                    "box": [
+                        364,
+                        446,
+                        435,
+                        472
+                    ],
+                    "font_size": 31.999,
+                    "letter_spacing": -1.0,
+                    "font_id": 1020,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Products must be safe and trustworthy",
+            "box": [
+                107,
+                586,
+                518,
+                657
+            ],
+            "font_id": 1055,
+            "font_size": 42.1412,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.44,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "PRODUCTS",
+                    "box": [
+                        107,
+                        586,
+                        279,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        279,
+                        586,
+                        288,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "MUST",
+                    "box": [
+                        288,
+                        586,
+                        378,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        378,
+                        586,
+                        387,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "box": [
+                        387,
+                        586,
+                        428,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        428,
+                        586,
+                        437,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "SAFE",
+                    "box": [
+                        437,
+                        586,
+                        518,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        518,
+                        586,
+                        518,
+                        613
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        151,
+                        630,
+                        221,
+                        657
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        221,
+                        630,
+                        229,
+                        657
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "text": "TRUSTWORTHY",
+                    "box": [
+                        229,
+                        630,
+                        474,
+                        657
+                    ],
+                    "font_size": 42.141,
+                    "letter_spacing": -1.0,
+                    "font_id": 1055,
+                    "color": [
+                        2,
+                        2,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Maximum\u00a0possible\nfree range",
+            "box": [
+                244,
+                707,
+                379,
+                746
+            ],
+            "font_id": 1019,
+            "font_size": 22.666133333333335,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "Maximum",
+                    "box": [
+                        244,
+                        707,
+                        317,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        317,
+                        707,
+                        321,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "possible",
+                    "box": [
+                        321,
+                        707,
+                        379,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "free",
+                    "box": [
+                        274,
+                        727,
+                        303,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        303,
+                        727,
+                        307,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "range",
+                    "box": [
+                        307,
+                        727,
+                        349,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miri Awards\u00a0Safe Product Award",
+            "box": [
+                413,
+                707,
+                538,
+                746
+            ],
+            "font_id": 1019,
+            "font_size": 22.666133333333335,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "Miri",
+                    "box": [
+                        413,
+                        707,
+                        440,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        440,
+                        707,
+                        444,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Awards",
+                    "box": [
+                        444,
+                        707,
+                        501,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "\u00a0",
+                    "box": [
+                        501,
+                        707,
+                        505,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Safe",
+                    "box": [
+                        505,
+                        707,
+                        538,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        538,
+                        707,
+                        538,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Product",
+                    "box": [
+                        421,
+                        727,
+                        478,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        478,
+                        727,
+                        482,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Award",
+                    "box": [
+                        482,
+                        727,
+                        531,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Bestselling\nAuto Leashes",
+            "box": [
+                96,
+                707,
+                195,
+                746
+            ],
+            "font_id": 1019,
+            "font_size": 22.666133333333335,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "Bestselling",
+                    "box": [
+                        107,
+                        707,
+                        185,
+                        725
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Auto",
+                    "box": [
+                        96,
+                        727,
+                        131,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        131,
+                        727,
+                        135,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                },
+                {
+                    "text": "Leashes",
+                    "box": [
+                        135,
+                        727,
+                        195,
+                        746
+                    ],
+                    "font_size": 22.666,
+                    "letter_spacing": -4.0,
+                    "font_id": 1019,
+                    "color": [
+                        117,
+                        117,
+                        117
+                    ]
+                }
+            ]
+        }
+    ]
+}

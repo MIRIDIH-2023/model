@@ -1,0 +1,362 @@
+{
+    "form": [
+        {
+            "text": "ACTIVE CONVERSATION",
+            "box": [
+                28,
+                32,
+                477,
+                67
+            ],
+            "font_id": 363,
+            "font_size": 99.9974,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "ACTIVE",
+                    "box": [
+                        28,
+                        32,
+                        164,
+                        67
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 363,
+                    "color": [
+                        191,
+                        209,
+                        191
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        164,
+                        32,
+                        177,
+                        67
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 363,
+                    "color": [
+                        191,
+                        209,
+                        191
+                    ]
+                },
+                {
+                    "text": "CONVERSATION",
+                    "box": [
+                        177,
+                        32,
+                        477,
+                        67
+                    ],
+                    "font_size": 99.997,
+                    "letter_spacing": 0.0,
+                    "font_id": 363,
+                    "color": [
+                        191,
+                        209,
+                        191
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\uc801\uadf9\uc801\ub300\ud654",
+            "box": [
+                489,
+                52,
+                566,
+                66
+            ],
+            "font_id": 356,
+            "font_size": 39.99906976744185,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.1,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "\uc801\uadf9\uc801\ub300\ud654",
+                    "box": [
+                        489,
+                        52,
+                        566,
+                        66
+                    ],
+                    "font_size": 39.999,
+                    "letter_spacing": 0.0,
+                    "font_id": 356,
+                    "color": [
+                        191,
+                        209,
+                        191
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "* \ud398\uc774\uc9c0 \ub0b4 \uc778\ubb3c \uc0ac\uc9c4\uc740 \uc0d8\ud50c\uc774\ubbf8\uc9c0 \uc785\ub2c8\ub2e4.",
+            "box": [
+                38,
+                403,
+                160,
+                408
+            ],
+            "font_id": 359,
+            "font_size": 15.999599999999997,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "*",
+                    "box": [
+                        38,
+                        403,
+                        41,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        41,
+                        403,
+                        43,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\ud398\uc774\uc9c0",
+                    "box": [
+                        43,
+                        403,
+                        62,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        62,
+                        403,
+                        64,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\ub0b4",
+                    "box": [
+                        64,
+                        403,
+                        70,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        70,
+                        403,
+                        72,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\uc778\ubb3c",
+                    "box": [
+                        72,
+                        403,
+                        84,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        84,
+                        403,
+                        87,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\uc0ac\uc9c4\uc740",
+                    "box": [
+                        87,
+                        403,
+                        105,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        105,
+                        403,
+                        107,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\uc0d8\ud50c\uc774\ubbf8\uc9c0",
+                    "box": [
+                        107,
+                        403,
+                        138,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        138,
+                        403,
+                        140,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                },
+                {
+                    "text": "\uc785\ub2c8\ub2e4.",
+                    "box": [
+                        140,
+                        403,
+                        160,
+                        408
+                    ],
+                    "font_size": 16.0,
+                    "letter_spacing": 0.0,
+                    "font_id": 359,
+                    "color": [
+                        137,
+                        164,
+                        137
+                    ]
+                }
+            ]
+        }
+    ]
+}

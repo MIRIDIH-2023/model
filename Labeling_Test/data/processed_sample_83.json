@@ -1,0 +1,636 @@
+{
+    "form": [
+        {
+            "text": "OPEN\nHOUR",
+            "box": [
+                99,
+                689,
+                169,
+                737
+            ],
+            "font_id": 2187,
+            "font_size": 37.24453325497984,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "OPEN",
+                    "box": [
+                        100,
+                        689,
+                        168,
+                        715
+                    ],
+                    "font_size": 37.244,
+                    "letter_spacing": 9.0,
+                    "font_id": 2187,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "HOUR",
+                    "box": [
+                        99,
+                        711,
+                        169,
+                        737
+                    ],
+                    "font_size": 37.244,
+                    "letter_spacing": 9.0,
+                    "font_id": 2187,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": ")",
+            "box": [
+                233,
+                673,
+                256,
+                740
+            ],
+            "font_id": 1036,
+            "font_size": 90.60443468901026,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": ")",
+                    "box": [
+                        233,
+                        673,
+                        256,
+                        740
+                    ],
+                    "font_size": 90.604,
+                    "letter_spacing": 9.0,
+                    "font_id": 1036,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "(",
+            "box": [
+                15,
+                673,
+                37,
+                740
+            ],
+            "font_id": 1036,
+            "font_size": 90.60442353883201,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "(",
+                    "box": [
+                        15,
+                        673,
+                        37,
+                        740
+                    ],
+                    "font_size": 90.604,
+                    "letter_spacing": 9.0,
+                    "font_id": 1036,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TUE - SUN\n9:00 - 20:00",
+            "box": [
+                363,
+                689,
+                501,
+                735
+            ],
+            "font_id": 1035,
+            "font_size": 32.37683327152091,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.11,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "TUE",
+                    "box": [
+                        374,
+                        689,
+                        419,
+                        713
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        419,
+                        689,
+                        425,
+                        713
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        425,
+                        689,
+                        436,
+                        713
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        436,
+                        689,
+                        443,
+                        713
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "SUN",
+                    "box": [
+                        443,
+                        689,
+                        490,
+                        713
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "9:00",
+                    "box": [
+                        363,
+                        712,
+                        413,
+                        735
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        413,
+                        712,
+                        420,
+                        735
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        420,
+                        712,
+                        430,
+                        735
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        430,
+                        712,
+                        437,
+                        735
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "20:00",
+                    "box": [
+                        437,
+                        712,
+                        501,
+                        735
+                    ],
+                    "font_size": 32.377,
+                    "letter_spacing": 9.0,
+                    "font_id": 1035,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": ")",
+            "box": [
+                532,
+                673,
+                554,
+                740
+            ],
+            "font_id": 1036,
+            "font_size": 90.60443468901026,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": ")",
+                    "box": [
+                        532,
+                        673,
+                        554,
+                        740
+                    ],
+                    "font_size": 90.604,
+                    "letter_spacing": 9.0,
+                    "font_id": 1036,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "(",
+            "box": [
+                313,
+                673,
+                336,
+                740
+            ],
+            "font_id": 1036,
+            "font_size": 90.60442353883198,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "(",
+                    "box": [
+                        313,
+                        673,
+                        336,
+                        740
+                    ],
+                    "font_size": 90.604,
+                    "letter_spacing": 9.0,
+                    "font_id": 1036,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "/",
+            "box": [
+                271,
+                673,
+                299,
+                740
+            ],
+            "font_id": 1036,
+            "font_size": 90.60465298901663,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.96,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "/",
+                    "box": [
+                        271,
+                        673,
+                        299,
+                        740
+                    ],
+                    "font_size": 90.605,
+                    "letter_spacing": 9.0,
+                    "font_id": 1036,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "05.25(FRI) - 05.27(SUN)",
+            "box": [
+                48,
+                599,
+                517,
+                637
+            ],
+            "font_id": 2109,
+            "font_size": 62.36207268404468,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.44,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "05.25(FRI)",
+                    "box": [
+                        48,
+                        599,
+                        252,
+                        637
+                    ],
+                    "font_size": 62.362,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        252,
+                        599,
+                        264,
+                        637
+                    ],
+                    "font_size": 62.362,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        264,
+                        599,
+                        280,
+                        637
+                    ],
+                    "font_size": 62.362,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        280,
+                        599,
+                        292,
+                        637
+                    ],
+                    "font_size": 62.362,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "05.27(SUN)",
+                    "box": [
+                        292,
+                        599,
+                        517,
+                        637
+                    ],
+                    "font_size": 62.362,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "STUDIO M",
+            "box": [
+                239,
+                766,
+                324,
+                781
+            ],
+            "font_id": 2109,
+            "font_size": 24.365050958011587,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.44,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "STUDIO",
+                    "box": [
+                        239,
+                        766,
+                        304,
+                        781
+                    ],
+                    "font_size": 24.365,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        304,
+                        766,
+                        308,
+                        781
+                    ],
+                    "font_size": 24.365,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "M",
+                    "box": [
+                        308,
+                        766,
+                        324,
+                        781
+                    ],
+                    "font_size": 24.365,
+                    "letter_spacing": 4.0,
+                    "font_id": 2109,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

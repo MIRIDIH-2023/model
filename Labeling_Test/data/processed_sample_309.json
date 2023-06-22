@@ -1,0 +1,158 @@
+{
+    "form": [
+        {
+            "text": "REFRESHING",
+            "box": [
+                25,
+                257,
+                515,
+                322
+            ],
+            "font_id": 1114,
+            "font_size": 115.25268018206692,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2129999999999999,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "REFRESHING",
+                    "box": [
+                        25,
+                        257,
+                        515,
+                        322
+                    ],
+                    "font_size": 115.253,
+                    "letter_spacing": 1.0,
+                    "font_id": 1114,
+                    "color": [
+                        137,
+                        224,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "PLAYLIST",
+            "box": [
+                25,
+                348,
+                383,
+                411
+            ],
+            "font_id": 1114,
+            "font_size": 112.17696407577557,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2129999999999999,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "PLAYLIST",
+                    "box": [
+                        25,
+                        348,
+                        383,
+                        411
+                    ],
+                    "font_size": 112.177,
+                    "letter_spacing": 1.0,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        220,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Music box",
+            "box": [
+                578,
+                49,
+                744,
+                77
+            ],
+            "font_id": 1114,
+            "font_size": 49.6483393875357,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.213,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Music",
+                    "box": [
+                        578,
+                        49,
+                        674,
+                        77
+                    ],
+                    "font_size": 49.648,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        674,
+                        49,
+                        681,
+                        77
+                    ],
+                    "font_size": 49.648,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "box",
+                    "box": [
+                        681,
+                        49,
+                        744,
+                        77
+                    ],
+                    "font_size": 49.648,
+                    "letter_spacing": -3.021,
+                    "font_id": 1114,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

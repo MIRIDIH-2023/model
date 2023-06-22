@@ -1,0 +1,818 @@
+{
+    "form": [
+        {
+            "text": "MON\u00a0 \u00a0 TUE\u00a0 \u00a0 WED\u00a0 \u00a0 THU\u00a0 \u00a0 FRI\u00a0 \u00a0 SAT\u00a0 \u00a0 SUN",
+            "box": [
+                224,
+                116,
+                463,
+                125
+            ],
+            "font_id": 1065,
+            "font_size": 16.012856102374922,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "MON",
+                    "box": [
+                        224,
+                        116,
+                        252,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        252,
+                        116,
+                        264,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "TUE",
+                    "box": [
+                        264,
+                        116,
+                        287,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        287,
+                        116,
+                        299,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "WED",
+                    "box": [
+                        299,
+                        116,
+                        326,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        326,
+                        116,
+                        338,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "THU",
+                    "box": [
+                        338,
+                        116,
+                        362,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        362,
+                        116,
+                        374,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "FRI",
+                    "box": [
+                        374,
+                        116,
+                        391,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        391,
+                        116,
+                        403,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "SAT",
+                    "box": [
+                        403,
+                        116,
+                        426,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 ",
+                    "box": [
+                        426,
+                        116,
+                        438,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "SUN",
+                    "box": [
+                        438,
+                        116,
+                        463,
+                        125
+                    ],
+                    "font_size": 16.013,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DATE\u00a0 \u00a0 \u00a0 \u00a0 \u00a0.\u00a0 \u00a0 \u00a0 \u00a0 .",
+            "box": [
+                70,
+                117,
+                155,
+                125
+            ],
+            "font_id": 1065,
+            "font_size": 15.930688761352869,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "DATE",
+                    "box": [
+                        70,
+                        117,
+                        101,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "box": [
+                        101,
+                        117,
+                        127,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        127,
+                        117,
+                        129,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "\u00a0 \u00a0 \u00a0 \u00a0 ",
+                    "box": [
+                        129,
+                        117,
+                        152,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": ".",
+                    "box": [
+                        152,
+                        117,
+                        155,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "BREAKFAST",
+            "box": [
+                70,
+                151,
+                129,
+                158
+            ],
+            "font_id": 1065,
+            "font_size": 13.612789377029861,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "BREAKFAST",
+                    "box": [
+                        70,
+                        151,
+                        129,
+                        158
+                    ],
+                    "font_size": 13.613,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "WATER",
+            "box": [
+                70,
+                422,
+                103,
+                429
+            ],
+            "font_id": 1065,
+            "font_size": 12.684287240845073,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "WATER",
+                    "box": [
+                        70,
+                        422,
+                        103,
+                        429
+                    ],
+                    "font_size": 12.684,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "SNACK",
+            "box": [
+                70,
+                473,
+                102,
+                479
+            ],
+            "font_id": 1065,
+            "font_size": 12.586888120264732,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 4,
+            "words": [
+                {
+                    "text": "SNACK",
+                    "box": [
+                        70,
+                        473,
+                        102,
+                        479
+                    ],
+                    "font_size": 12.587,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "LUNCH",
+            "box": [
+                296,
+                151,
+                332,
+                158
+            ],
+            "font_id": 1065,
+            "font_size": 13.61276845812683,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 5,
+            "words": [
+                {
+                    "text": "LUNCH",
+                    "box": [
+                        296,
+                        151,
+                        332,
+                        158
+                    ],
+                    "font_size": 13.613,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DINNER",
+            "box": [
+                526,
+                151,
+                563,
+                158
+            ],
+            "font_id": 1065,
+            "font_size": 13.61276845812683,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 6,
+            "words": [
+                {
+                    "text": "DINNER",
+                    "box": [
+                        526,
+                        151,
+                        563,
+                        158
+                    ],
+                    "font_size": 13.613,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "My day's meals",
+            "box": [
+                271,
+                59,
+                529,
+                85
+            ],
+            "font_id": 1064,
+            "font_size": 49.828,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 7,
+            "words": [
+                {
+                    "text": "My",
+                    "box": [
+                        271,
+                        59,
+                        321,
+                        85
+                    ],
+                    "font_size": 49.828,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        321,
+                        59,
+                        330,
+                        85
+                    ],
+                    "font_size": 49.828,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": "day's",
+                    "box": [
+                        330,
+                        59,
+                        419,
+                        85
+                    ],
+                    "font_size": 49.828,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        419,
+                        59,
+                        428,
+                        85
+                    ],
+                    "font_size": 49.828,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                },
+                {
+                    "text": "meals",
+                    "box": [
+                        428,
+                        59,
+                        529,
+                        85
+                    ],
+                    "font_size": 49.828,
+                    "letter_spacing": 0.0,
+                    "font_id": 1064,
+                    "color": [
+                        93,
+                        93,
+                        93
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "D -",
+            "box": [
+                601,
+                117,
+                617,
+                125
+            ],
+            "font_id": 1065,
+            "font_size": 15.930688761352869,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 8,
+            "words": [
+                {
+                    "text": "D",
+                    "box": [
+                        601,
+                        117,
+                        610,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        610,
+                        117,
+                        612,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        612,
+                        117,
+                        617,
+                        125
+                    ],
+                    "font_size": 15.931,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "MEMO",
+            "box": [
+                70,
+                346,
+                99,
+                353
+            ],
+            "font_id": 1065,
+            "font_size": 12.684287240845073,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 9,
+            "words": [
+                {
+                    "text": "MEMO",
+                    "box": [
+                        70,
+                        346,
+                        99,
+                        353
+                    ],
+                    "font_size": 12.684,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "box": [
+                325,
+                472,
+                356,
+                478
+            ],
+            "font_id": 1065,
+            "font_size": 12.586888120264732,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.389,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 10,
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "box": [
+                        325,
+                        472,
+                        356,
+                        478
+                    ],
+                    "font_size": 12.587,
+                    "letter_spacing": 0.0,
+                    "font_id": 1065,
+                    "color": [
+                        238,
+                        123,
+                        106
+                    ]
+                }
+            ]
+        }
+    ]
+}

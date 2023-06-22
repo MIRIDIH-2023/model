@@ -1,0 +1,141 @@
+{
+    "form": [
+        {
+            "text": "Cyber-bullying",
+            "box": [
+                95,
+                161,
+                719,
+                413
+            ],
+            "font_id": 2242,
+            "font_size": 169.91829614582574,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.91,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "CYBER-",
+                    "box": [
+                        169,
+                        161,
+                        645,
+                        298
+                    ],
+                    "font_size": 169.918,
+                    "letter_spacing": 0.0,
+                    "font_id": 2242,
+                    "color": [
+                        0,
+                        35,
+                        103
+                    ]
+                },
+                {
+                    "text": "BULLYING",
+                    "box": [
+                        95,
+                        275,
+                        719,
+                        413
+                    ],
+                    "font_size": 169.918,
+                    "letter_spacing": 0.0,
+                    "font_id": 2242,
+                    "color": [
+                        0,
+                        35,
+                        103
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "What?",
+            "box": [
+                243,
+                113,
+                402,
+                176
+            ],
+            "font_id": 1228,
+            "font_size": 87.69478140802401,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.56,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "What?",
+                    "box": [
+                        243,
+                        113,
+                        402,
+                        176
+                    ],
+                    "font_size": 87.695,
+                    "letter_spacing": 0.0,
+                    "font_id": 1228,
+                    "color": [
+                        255,
+                        77,
+                        188
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Why?",
+            "box": [
+                410,
+                113,
+                554,
+                176
+            ],
+            "font_id": 1228,
+            "font_size": 87.69478140802396,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.56,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Why?",
+                    "box": [
+                        410,
+                        113,
+                        554,
+                        176
+                    ],
+                    "font_size": 87.695,
+                    "letter_spacing": 0.0,
+                    "font_id": 1228,
+                    "color": [
+                        0,
+                        180,
+                        182
+                    ]
+                }
+            ]
+        }
+    ]
+}

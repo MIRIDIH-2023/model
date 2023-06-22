@@ -1,0 +1,158 @@
+{
+    "form": [
+        {
+            "text": "OX",
+            "box": [
+                182,
+                43,
+                630,
+                386
+            ],
+            "font_id": 1046,
+            "font_size": 570.2981667341637,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "OX",
+                    "box": [
+                        182,
+                        43,
+                        630,
+                        386
+                    ],
+                    "font_size": 570.298,
+                    "letter_spacing": 3.0,
+                    "font_id": 1046,
+                    "color": [
+                        253,
+                        251,
+                        251
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GAME",
+            "box": [
+                166,
+                408,
+                644,
+                552
+            ],
+            "font_id": 5610,
+            "font_size": 210.93540799357342,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "GAME",
+                    "box": [
+                        166,
+                        408,
+                        644,
+                        552
+                    ],
+                    "font_size": 210.935,
+                    "letter_spacing": 8.0,
+                    "font_id": 5610,
+                    "color": [
+                        255,
+                        247,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "QUIZ START",
+            "box": [
+                306,
+                702,
+                533,
+                735
+            ],
+            "font_id": 1046,
+            "font_size": 55.74645515934571,
+            "style": {
+                "bold": true,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "QUIZ",
+                    "box": [
+                        306,
+                        702,
+                        397,
+                        735
+                    ],
+                    "font_size": 55.746,
+                    "letter_spacing": 5.0,
+                    "font_id": 1046,
+                    "color": [
+                        253,
+                        251,
+                        251
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        397,
+                        702,
+                        420,
+                        735
+                    ],
+                    "font_size": 55.746,
+                    "letter_spacing": 5.0,
+                    "font_id": 1046,
+                    "color": [
+                        253,
+                        251,
+                        251
+                    ]
+                },
+                {
+                    "text": "START",
+                    "box": [
+                        420,
+                        702,
+                        533,
+                        735
+                    ],
+                    "font_size": 55.746,
+                    "letter_spacing": 5.0,
+                    "font_id": 1046,
+                    "color": [
+                        253,
+                        251,
+                        251
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "form": [
+        {
+            "text": "HELPCENTER",
+            "box": [
+                86,
+                536,
+                476,
+                602
+            ],
+            "font_id": 1126,
+            "font_size": 102.70875154214421,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 0.95,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "HEL",
+                    "box": [
+                        86,
+                        536,
+                        199,
+                        602
+                    ],
+                    "font_size": 102.709,
+                    "letter_spacing": -3.0,
+                    "font_id": 1126,
+                    "color": [
+                        39,
+                        124,
+                        124
+                    ]
+                },
+                {
+                    "text": "P",
+                    "box": [
+                        199,
+                        536,
+                        246,
+                        602
+                    ],
+                    "font_size": 102.709,
+                    "letter_spacing": 10.0,
+                    "font_id": 1126,
+                    "color": [
+                        39,
+                        124,
+                        124
+                    ]
+                },
+                {
+                    "text": "CENTER",
+                    "box": [
+                        246,
+                        536,
+                        476,
+                        602
+                    ],
+                    "font_size": 102.709,
+                    "letter_spacing": -3.0,
+                    "font_id": 1126,
+                    "color": [
+                        8,
+                        41,
+                        35
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1-123-456-7890",
+            "box": [
+                112,
+                613,
+                447,
+                660
+            ],
+            "font_id": 1126,
+            "font_size": 71.57736980801374,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.2,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "1-123-456-7890",
+                    "box": [
+                        112,
+                        613,
+                        447,
+                        660
+                    ],
+                    "font_size": 71.577,
+                    "letter_spacing": -5.0,
+                    "font_id": 1126,
+                    "color": [
+                        8,
+                        41,
+                        35
+                    ]
+                }
+            ]
+        }
+    ]
+}

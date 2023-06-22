@@ -1,0 +1,413 @@
+{
+    "form": [
+        {
+            "text": "BEEF STEAK",
+            "box": [
+                92,
+                248,
+                396,
+                288
+            ],
+            "font_id": 888,
+            "font_size": 75.2639683349548,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "BEEF",
+                    "box": [
+                        92,
+                        248,
+                        222,
+                        288
+                    ],
+                    "font_size": 75.264,
+                    "letter_spacing": 0.0,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        222,
+                        248,
+                        234,
+                        288
+                    ],
+                    "font_size": 75.264,
+                    "letter_spacing": 0.0,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "STEAK",
+                    "box": [
+                        234,
+                        248,
+                        396,
+                        288
+                    ],
+                    "font_size": 75.264,
+                    "letter_spacing": 0.0,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Seasoning Sirloin Steak",
+            "box": [
+                115,
+                314,
+                373,
+                331
+            ],
+            "font_id": 888,
+            "font_size": 32.222868631621004,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.25,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "Seasoning",
+                    "box": [
+                        115,
+                        314,
+                        228,
+                        331
+                    ],
+                    "font_size": 32.223,
+                    "letter_spacing": 3.488,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        227,
+                        314,
+                        233,
+                        331
+                    ],
+                    "font_size": 32.223,
+                    "letter_spacing": 3.488,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Sirloin",
+                    "box": [
+                        233,
+                        314,
+                        306,
+                        331
+                    ],
+                    "font_size": 32.223,
+                    "letter_spacing": 3.488,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        306,
+                        314,
+                        311,
+                        331
+                    ],
+                    "font_size": 32.223,
+                    "letter_spacing": 3.488,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Steak",
+                    "box": [
+                        311,
+                        314,
+                        373,
+                        331
+                    ],
+                    "font_size": 32.223,
+                    "letter_spacing": 3.488,
+                    "font_id": 888,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Beef (sirloin) 99%\nPepper steak seasoning 1%",
+            "box": [
+                144,
+                372,
+                344,
+                408
+            ],
+            "font_id": 482,
+            "font_size": 24.95831955905233,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.41,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 3,
+            "words": [
+                {
+                    "text": "Beef",
+                    "box": [
+                        181,
+                        372,
+                        213,
+                        386
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        213,
+                        372,
+                        217,
+                        386
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "(sirloin)",
+                    "box": [
+                        217,
+                        372,
+                        271,
+                        386
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        271,
+                        372,
+                        275,
+                        386
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "99%",
+                    "box": [
+                        275,
+                        372,
+                        307,
+                        386
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "Pepper",
+                    "box": [
+                        144,
+                        395,
+                        196,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        196,
+                        395,
+                        200,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "steak",
+                    "box": [
+                        200,
+                        395,
+                        239,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        239,
+                        395,
+                        243,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "seasoning",
+                    "box": [
+                        243,
+                        395,
+                        316,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": " ",
+                    "box": [
+                        316,
+                        395,
+                        320,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                },
+                {
+                    "text": "1%",
+                    "box": [
+                        320,
+                        395,
+                        344,
+                        408
+                    ],
+                    "font_size": 24.958,
+                    "letter_spacing": 0.0,
+                    "font_id": 482,
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    ]
+}

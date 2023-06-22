@@ -1,0 +1,141 @@
+{
+    "form": [
+        {
+            "text": "THANK\nYOU",
+            "box": [
+                276,
+                222,
+                522,
+                368
+            ],
+            "font_id": 740,
+            "font_size": 113.99336934538732,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.13,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 0,
+            "words": [
+                {
+                    "text": "THANK",
+                    "box": [
+                        276,
+                        222,
+                        522,
+                        286
+                    ],
+                    "font_size": 113.993,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        41,
+                        41,
+                        41
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "box": [
+                        324,
+                        304,
+                        474,
+                        368
+                    ],
+                    "font_size": 113.993,
+                    "letter_spacing": -5.0,
+                    "font_id": 740,
+                    "color": [
+                        41,
+                        41,
+                        41
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "www.miridih.com",
+            "box": [
+                356,
+                490,
+                446,
+                502
+            ],
+            "font_id": 504,
+            "font_size": 16.521656697650762,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 1,
+            "words": [
+                {
+                    "text": "www.miridih.com",
+                    "box": [
+                        356,
+                        490,
+                        446,
+                        502
+                    ],
+                    "font_size": 16.522,
+                    "letter_spacing": 2.0,
+                    "font_id": 504,
+                    "color": [
+                        95,
+                        95,
+                        95
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GlowStudio",
+            "box": [
+                355,
+                475,
+                449,
+                488
+            ],
+            "font_id": 504,
+            "font_size": 16.52165669765076,
+            "style": {
+                "bold": false,
+                "italic": false,
+                "strikeout": false,
+                "underline": false
+            },
+            "linespace": 1.4,
+            "opacity": 255.0,
+            "rotate": 0.0,
+            "id": 2,
+            "words": [
+                {
+                    "text": "GLOWSTUDIO",
+                    "box": [
+                        355,
+                        475,
+                        449,
+                        488
+                    ],
+                    "font_size": 16.522,
+                    "letter_spacing": 26.0,
+                    "font_id": 504,
+                    "color": [
+                        95,
+                        95,
+                        95
+                    ]
+                }
+            ]
+        }
+    ]
+}
