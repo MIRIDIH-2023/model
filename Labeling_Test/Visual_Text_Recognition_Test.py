@@ -34,24 +34,25 @@ print(f'Targeted Sentence : {data["form"][target_sentence_idx]["text"]}')
 
 target_sentence = data['form'][target_sentence_idx]
 
-label = ''
+layout_token = ''
 
 for i in range(len(target_sentence['box'])):
     n = target_sentence['box'][i]
     # Layout Normalization
     if i % 2 == 0:
-        label += f'<loc_{int(n*500/1280)}> '
+        layout_token += f'<loc_{int(n*500/1280)}> '
     else:
-        label += f'<loc_{int(n*500/720)}> '
+        layout_token += f'<loc_{int(n*500/720)}> '
 
-label = '<extra_id_0> ' + label[:-1]
-prompt = 'Layout Modeling.'
+label = '<extra_id_0> '+ data['form'][target_sentence_idx]['text']
+layout_token = layout_token[:-1]
+prompt = 'Visual Text Recognition.'
 
 for i in range(len(data['form'])):
     if i == target_sentence_idx:
         # UDOP 논문 5페이지 참조. 얘네가 Layout Modeling 할 때 sentinel token을
-        # <layout_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_id_0>으로 대체했음!
-        prompt += ' <extra_id_0> ' + data['form'][i]['text'] + ' </extra_id_0>'
+        # <text_0>으로 했는데, UdopTokenizer에는 그런 token이 없어서 일단 <extra_id_0>으로 대체했음!
+        prompt += ' <extra_id_0> ' + layout_token + ' </extra_id_0>'
     else:
         prompt += ' ' + data['form'][i]['text']
 
