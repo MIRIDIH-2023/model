@@ -1,4 +1,4 @@
-# Randomized Labeling Test for Layout Modeling (sentence version)
+# Randomized Labeling Test for Visual Text Recognition (sentence version)
 
 # 원래는 좀 더 세세하게 word 단위로 라벨링하려 했는데, 레이아웃에 중점을 두면 
 # 문장 단위로 라벨링하는 게 나을 것 같아서 문장 단위로 했습니다

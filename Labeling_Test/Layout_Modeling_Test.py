@@ -57,7 +57,7 @@ for i in range(len(data['form'])):
 
 print(f'\nPrompt : "{prompt}"\n')
 
-print(f'Label : {label}')
+print(f'Label : {label}\n')
 
 
 
