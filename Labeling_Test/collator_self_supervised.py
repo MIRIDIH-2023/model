@@ -84,11 +84,26 @@ class DataCollatorForT5LayoutModeling:
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
         
-        prompt_text = user_prompt
-        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        input_ids = prompt_ids + ori_input_ids
-        bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
-
+        # prompt_text = user_prompt   # 'Layout Modeling'
+        # prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+        # input_ids = prompt_ids + ori_input_ids
+        # bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
+        
+        # input_ids = tokenizer("The <extra_id_0> walks in <extra_id_1> park", return_tensors="pt").input_ids
+        # labels = tokenizer("<extra_id_0> cute dog <extra_id_1> the <extra_id_2>", return_tensors="pt").input_ids
+        
+        # input: "The cute dog walks in the park"
+        # 일단 token화 까지 하자!
+        # 알고리즘=> input에서 "<extra_l_id_0> The cute dog </extra_l_id_0> walks in the park" 으로 masking: 0.75 (75%)
+        # label: <extra_l_id_0><loc_100><loc_200><loc_400><loc_500> => 위치는 masking한 단어의 bbox
+        # issue: <extra_l_id_0>의 bbox는?, The cute dog의 bbox를 포함해야 하는가? 
+        # Some text token like manually crafted prompts have no locations. So, we set their layout bounding boxes to be (0, 0, 0, 0)
+        # 위는 논문에서 말한 내용을 참고했을 때 <extra_l_id_0>의 bbox는 (0, 0, 0, 0)으로 설정해야할 듯
+        # The cute dog의 bbox는 포함하는 쪽으로 결정: 혹시 모르니까 길이는 맞춰주어야 할 것 같아서
+        # The cute dog는 text list에 한번에 안 넣고 각각 The, cute, dog 씩 넣고 token화 한다.
+        # label 설정만 신경쓰면 될 듯
+        
+        
         # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
         #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
