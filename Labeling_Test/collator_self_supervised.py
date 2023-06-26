@@ -76,7 +76,7 @@ class DataCollatorForT5LayoutModeling:
         # "prompt text 정보 + 원래 input text 정보" list
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
-
+        
         prompt_text = user_prompt
         prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
         input_ids = prompt_ids + ori_input_ids
