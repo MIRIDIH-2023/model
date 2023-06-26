@@ -103,6 +103,18 @@ class DataCollatorForT5LayoutModeling:
         # The cute dog는 text list에 한번에 안 넣고 각각 The, cute, dog 씩 넣고 token화 한다.
         # label 설정만 신경쓰면 될 듯
         
+        # mask_process
+        # random_masking: input이 ["The", "cute", "dog", "walks", "in", "the", "park"]
+        # 라면 masking할 부분을 1로, 하지 않는 부분은 0으로 하는 list 반환 예: [1, 1, 1, 0, 0, 0, 0]
+        # group_tokens: masking 할 부분의 index를 담은 list 반환, 예: [[0, 3], ]
+        form_word_text_list = ["The", "cute", "dog", "walks", "in", "the", "park"]
+        
+        # masking한 input
+        l = len(form_word_text_list)
+        mask = random_masking(L=l, mask_ratio=0.75)[0] # mask = [] 형태, mask[0]이 실제 mask list
+        masked_slice_idx = group_tokens(mask)
+        
+        
         
         # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
