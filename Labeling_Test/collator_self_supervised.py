@@ -7,6 +7,13 @@ from random import shuffle
 import numpy as np
 from transformers import PreTrainedTokenizerBase
 
+# TODO: 각각의 Task에 따라 라벨링 하기
+# 근데 Dataset에서 input text가 id로 변환되어가지고
+# 개인적인 생각으로는 다시 token으로 변환하던가, 아니면 decode까지 해서 하던가 해야 할 듯??
+# 그냥 Dataset에서 따로 라벨링을 하는 게 좀 더 편할 것 같긴 한디...
+
+# Wrapper Class
+# User Prompt에 따라서 Collator를 호출해주는 클래스입니다
 class DataCollatorForSelfSupervisedTasks:
 
     def __init__(self, tokenizer=None, meta_path=None, input_length=None, target_length=None, pad_token_id=None, decoder_start_token_id=None):
@@ -82,6 +89,7 @@ class DataCollatorForT5LayoutModeling:
         input_ids = prompt_ids + ori_input_ids
         bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
 
+        # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
         #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
           labels = self.tokenizer.encode(labels, add_special_tokens=True)
@@ -114,6 +122,7 @@ class DataCollatorForT5VisTextRec:
         input_ids = prompt_ids + ori_input_ids
         bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
 
+        # TODO: 라벨링 하기 (Visual_Text_Recognition_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
         #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
           labels = self.tokenizer.encode(labels, add_special_tokens=True)
@@ -146,6 +155,7 @@ class DataCollatorForT5JointReconstruction:
         input_ids = prompt_ids + ori_input_ids
         bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
 
+        # TODO: 라벨링 하기 (Joint_Text_Layout_Reconstruction_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
         #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
           labels = self.tokenizer.encode(labels, add_special_tokens=True)
