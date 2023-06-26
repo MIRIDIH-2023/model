@@ -76,7 +76,7 @@ class DataCollatorForT5LayoutModeling:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, ori_bbox_list):
+    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
 
         # "원래 input text 정보 & bounding box"
         # -->
@@ -107,18 +107,43 @@ class DataCollatorForT5LayoutModeling:
         # random_masking: input이 ["The", "cute", "dog", "walks", "in", "the", "park"]
         # 라면 masking할 부분을 1로, 하지 않는 부분은 0으로 하는 list 반환 예: [1, 1, 1, 0, 0, 0, 0]
         # group_tokens: masking 할 부분의 index를 담은 list 반환, 예: [[0, 3], ]
-        form_word_text_list = ["The", "cute", "dog", "walks", "in", "the", "park"]
+
+        # user_prompt: "Layout Modeling"
+        # ori_input_ids: text_list의 ids list를 담고 있음 ["The", "cute", "dog", "walks", "in", "the", "park"] id 버전
+        # bbox_list: ["The", "cute", "dog", "walks", "in", "the", "park"]의 bounding box
+        # group_list: [[0, 3], ]
+        # ori_bbox_list: "The cute dog"의 bounding box
+        # label_numbering: layout number (0 ~ masking되는 것의 개수)
         
-        # masking한 input
-        l = len(form_word_text_list)
-        mask = random_masking(L=l, mask_ratio=0.75)[0] # mask = [] 형태, mask[0]이 실제 mask list
-        masked_slice_idx = group_tokens(mask)
+        input_ids = []
+        res_bbox_list = []
+        labels = ""
+        for i, masked in enumerate(group_list) :
+            s_l_token = f"<extra_l_id_{label_numbering[i]}>"
+            e_l_token = f"</extra_l_id_{label_numbering[i]}>"
+            
+            s_l_token_ids = self.tokenizer.encode(s_l_token, add_special_tokens=False)
+            e_l_token_ids = self.tokenizer.encode(e_l_token, add_special_tokens=False)
+            
+            input_ids += s_l_token_ids
+            input_ids += ori_input_ids[masked[0] : masked[1]] # extend
+            input_ids += e_l_token_ids
+            
+            res_bbox_list += [[0, 0, 0, 0]] * len(s_l_token_ids)
+            res_bbox_list += bbox_list[masked[0] : masked[1]]
+            res_bbox_list += [[0, 0, 0, 0]] * len(e_l_token_ids)
+            
+            labels += s_l_token
+            labels += f"<loc_{ori_bbox_list[i][0]}><loc_{ori_bbox_list[i][1]}><loc_{ori_bbox_list[i][2]}><loc_{ori_bbox_list[i][3]}>"
         
+        if label_numbering != None:
+            if label_numbering[0] == 0 :
+                prompt_text = user_prompt
+                prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+                input_ids = prompt_ids + input_ids
+                res_bbox_list = [[0,0,0,0]] * len(prompt_ids) + res_bbox_list
         
-        
-        # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
-        if(labels!=None):  #label은 classification에서만 수행
-        #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
+        if(labels!=None): 
           labels = self.tokenizer.encode(labels, add_special_tokens=True)
 
         return input_ids, labels, bbox_list
@@ -169,7 +194,7 @@ class DataCollatorForT5JointReconstruction:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, ori_bbox_list):
+    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
 
         # "원래 input text 정보 & bounding box"
         # -->
