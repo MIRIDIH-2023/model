@@ -174,7 +174,7 @@ class DataCollatorForT5LayoutModeling:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
+    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, group_bbox_list, label_numbering):
 
         # "원래 input text 정보 & bounding box"
         # -->
@@ -182,10 +182,13 @@ class DataCollatorForT5LayoutModeling:
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
         
-        prompt_text = user_prompt
-        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        input_ids = prompt_ids + ori_input_ids
-        bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
+        input_ids = []
+        if label_numbering[0] == 0:
+            prompt_text = user_prompt
+            prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+            input_ids = prompt_ids
+
+        bbox_list = [[0,0,0,0]] * len(prompt_ids) + bbox_list
 
         # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
         if(labels!=None):  #label은 classification에서만 수행
@@ -207,7 +210,12 @@ class DataCollatorForT5VisTextRec:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
+    # Sub Class에서 해야 할 일
+    # 1. Argument를 user_prompt, ori_input_ids, group_list, ori_bbox_list, label_numbering을 받는다.
+    # 2. label_numbering의 시작이 0이라면, user_prompt를 앞에 id로 변환해서 붙인다. (input_ids에)
+    # 3. label_numbering에 따라서 sentinel token을 ori_bbox_list를 보면서 붙인다. (input_ids에)
+    # 4. labeling은 group_list와 ori_bbox_list를 보면서 붙인다 (labels에)
+    def __call__(self, user_prompt , input_ids, bbox_list, group_list, group_bbox_list, label_numbering, page_size):
 
         # "원래 input text 정보 & bounding box"
         # -->
@@ -217,13 +225,32 @@ class DataCollatorForT5VisTextRec:
 
         prompt_text = user_prompt
         prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        input_ids = prompt_ids + ori_input_ids
-        bbox_list = [[0,0,0,0]] * len(prompt_ids) + ori_bbox_list
+        input_ids = prompt_ids
+        bbox_list = [[0,0,0,0]] * len(prompt_ids) + bbox_list
 
         # TODO: 라벨링 하기 (Visual_Text_Recognition_Test.py 참고하면서)
-        labels = ''
+        labels = []
+        for i in range(len(label_numbering)):
+            labels += self.tokenizer.encode(f'<extra_t_id_{label_numbering[i]}>', add_special_tokens=True)
+            labels += input_ids[group_list[i][0]:group_list[i][1]]
 
 
+        slice_pointer=0
+        for i in range(len(input_ids)):
+            if i == group_list[slice_pointer][0]:
+                input_ids += self.tokenizer.encode(f'<extra_t_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                bbox_ids = []
+                for j in range(4):
+                    if j % 2 == 0:
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(group_bbox_list[slice_pointer][j]/page_size[1])}>', add_special_tokens=True)
+                    else:
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)
+                input_ids += bbox_ids
+                input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                i = group_list[slice_pointer][1]-1
+                slice_pointer += 1
+            else:
+                input_ids.append(input_ids[i])
 
 
         return input_ids, labels, bbox_list
