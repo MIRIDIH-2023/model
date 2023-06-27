@@ -259,7 +259,9 @@ class DataCollatorForT5VisTextRec:
                 tmp_input_ids.append(input_ids[i])
                 tmp_bbox_list.append(bbox_list[i])
 
-
+        tmp_input_ids += self.tokenizer.encode('</s>', add_special_tokens=True)
+        tmp_bbox_list.append([0,0,0,0])
+        labels += self.tokenizer.encode('</s>', add_special_tokens=True)
         return tmp_input_ids, labels, tmp_bbox_list
 
 
