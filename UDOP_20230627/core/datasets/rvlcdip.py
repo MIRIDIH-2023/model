@@ -204,8 +204,7 @@ class RvlCdipDataset(Dataset):
         self.labels = []
         self.images = []
 
-        self.cls_collator = DataCollatorForT5DocCLS( #기존에 정의한 토크나이저 선언
-                json_data = self.main_json_data ,
+        self.cls_collator = DataCollatorForSelfSupervisedTasks( #기존에 정의한 토크나이저 선언
                   tokenizer=tokenizer,
             )
         
