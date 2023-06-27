@@ -182,11 +182,12 @@ class DataCollatorForT5LayoutModeling:
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
         
+        res_input_ids = []
         prompt_text = user_prompt
-        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        input_ids = prompt_ids
+        prompt_ids = self.tokenizer.encode(prompt_text, add_special_tokens=False)
+        res_input_ids += prompt_ids
         res_bbox_list = [[0,0,0,0]] * len(prompt_ids)
-        
+
         labels = []
         for i in range(len(label_numbering)):
             labels += self.tokenizer.encode(f'<extra_l_id_{label_numbering[i]}>', add_special_tokens=True)
@@ -199,23 +200,23 @@ class DataCollatorForT5LayoutModeling:
         L = len(group_list)
         for i in range(len(input_ids)):
             if slice_pointer < L and i == group_list[slice_pointer][0]:
-                temp_ids += self.tokenizer.encode(f'<extra_l_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
-                input_ids += temp_ids
-                input_ids.append(input_ids[i])
+                temp_ids = self.tokenizer.encode(f'<extra_l_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                res_input_ids += temp_ids
+                res_input_ids.append(input_ids[i])
                 res_bbox_list += [[0,0,0,0]] * len(temp_ids)
-                res_bbox_list += bbox_list[i]
+                res_bbox_list.append(bbox_list[i])
             elif slice_pointer < L and i == group_list[slice_pointer][1] :
-                temp_ids += self.tokenizer.encode(f'</extra_l_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
-                input_ids += temp_ids
-                input_ids.append(input_ids[i])
+                temp_ids = self.tokenizer.encode(f'</extra_l_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                res_input_ids += temp_ids
+                res_input_ids.append(input_ids[i])
                 res_bbox_list += [[0,0,0,0]] * len(temp_ids)
-                res_bbox_list += bbox_list[i]
+                res_bbox_list.append(bbox_list[i])
                 slice_pointer += 1
             else:
-                input_ids.append(input_ids[i])
-                res_bbox_list += bbox_list[i]
+                res_input_ids.append(input_ids[i])
+                res_bbox_list.append(bbox_list[i])
         
-        return input_ids, labels, res_bbox_list
+        return res_input_ids, labels, res_bbox_list
 
 class DataCollatorForT5VisTextRec:
     """
