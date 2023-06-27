@@ -76,7 +76,7 @@ class DataCollatorForT5LayoutModeling:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
+    def __call__(self, user_prompt , input_ids, bbox_list, group_list, group_bbox_list, label_numbering, page_size):
 
         # "원래 input text 정보 & bounding box"
         # -->
@@ -115,38 +115,42 @@ class DataCollatorForT5LayoutModeling:
         # ori_bbox_list: "The cute dog"의 bounding box
         # label_numbering: layout number (0 ~ masking되는 것의 개수)
         
-        input_ids = []
-        res_bbox_list = []
-        labels = ""
-        for i, masked in enumerate(group_list) :
-            s_l_token = f"<extra_l_id_{label_numbering[i]}>"
-            e_l_token = f"</extra_l_id_{label_numbering[i]}>"
-            
-            s_l_token_ids = self.tokenizer.encode(s_l_token, add_special_tokens=False)
-            e_l_token_ids = self.tokenizer.encode(e_l_token, add_special_tokens=False)
-            
-            input_ids += s_l_token_ids
-            input_ids += ori_input_ids[masked[0] : masked[1]] # extend
-            input_ids += e_l_token_ids
-            
-            res_bbox_list += [[0, 0, 0, 0]] * len(s_l_token_ids)
-            res_bbox_list += bbox_list[masked[0] : masked[1]]
-            res_bbox_list += [[0, 0, 0, 0]] * len(e_l_token_ids)
-            
-            labels += s_l_token
-            labels += f"<loc_{ori_bbox_list[i][0]}><loc_{ori_bbox_list[i][1]}><loc_{ori_bbox_list[i][2]}><loc_{ori_bbox_list[i][3]}>"
+        # <extra_l_id_>는 convert_token_to_id
         
-        if label_numbering != None:
-            if label_numbering[0] == 0 :
-                prompt_text = user_prompt
-                prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-                input_ids = prompt_ids + input_ids
-                res_bbox_list = [[0,0,0,0]] * len(prompt_ids) + res_bbox_list
+        prompt_text = user_prompt
+        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+        input_ids = prompt_ids
+        res_bbox_list = [[0,0,0,0]] * len(prompt_ids)
         
-        if(labels!=None): 
-          labels = self.tokenizer.encode(labels, add_special_tokens=True)
-
-        return input_ids, labels, bbox_list
+        labels = []
+        for i in range(len(label_numbering)):
+            labels += self.tokenizer.encode(f'<extra_l_id_{label_numbering[i]}>', add_special_tokens=True)
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][0]/page_size[1])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][1]/page_size[0])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][2]/page_size[1])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][3]/page_size[0])}>')
+            
+        slice_pointer=0
+        L = len(group_list)
+        for i in range(len(input_ids)):
+            if slice_pointer < L and i == group_list[slice_pointer][0]:
+                temp_ids += self.tokenizer.encode(f'<extra_l_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                input_ids += temp_ids
+                input_ids.append(input_ids[i])
+                res_bbox_list += [[0,0,0,0]] * len(temp_ids)
+                res_bbox_list += bbox_list[i]
+            elif slice_pointer < L and i == group_list[slice_pointer][1] :
+                temp_ids += self.tokenizer.encode(f'</extra_l_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                input_ids += temp_ids
+                input_ids.append(input_ids[i])
+                res_bbox_list += [[0,0,0,0]] * len(temp_ids)
+                res_bbox_list += bbox_list[i]
+                slice_pointer += 1
+            else:
+                input_ids.append(input_ids[i])
+                res_bbox_list += bbox_list[i]
+        
+        return input_ids, labels, res_bbox_list
 
 
 class DataCollatorForT5VisTextRec:
