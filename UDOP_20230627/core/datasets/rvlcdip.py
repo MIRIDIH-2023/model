@@ -11,6 +11,7 @@ from torch.utils.data import Dataset
 
 from core.common.utils import img_trans_torchvision, get_visual_bbox
 from core.datasets.collate_supervised import DataCollatorForT5DocCLS
+from core.datasets.collator_self_supervised import DataCollatorForSelfSupervisedTasks
 
 import pandas as pd
 
@@ -70,12 +71,95 @@ def get_rvlcdip_labels():
         "memo"
     ]
 
+def random_masking(L=4096, mask_ratio=0.75):
+    """
+    Perform per-sample random masking by per-sample shuffling.
+    Per-sample shuffling is done by argsort random noise.
+    x: [N, L, D], sequence
+    """
+    len_keep = int(L * (1 - mask_ratio))
+
+    noise = torch.rand(L)  # noise in [0, 1]
+
+    # sort noise for each sample
+    ids_shuffle = torch.argsort(noise, dim=0)  # ascend: small is keep, large is remove
+    ids_restore = torch.argsort(ids_shuffle, dim=0)
+
+    # keep the first subset
+    ids_keep = ids_shuffle[:len_keep]
+    ids_remove = ids_shuffle[len_keep:]
+
+    # generate the binary mask: 0 is keep, 1 is remove
+    mask = torch.ones([L])
+    mask[:len_keep] = 0
+    # unshuffle to get the binary mask
+    mask = torch.gather(mask, dim=0, index=ids_restore)
+    print(f'mask = {mask}')
+    return mask, ids_restore, ids_remove, ids_keep
+
+# Argument : random_masking의 mask
+# Returns : masking할 곳의 slice들
+def group_tokens(mask):
+
+    group_lst = []
+    i=0
+    prev=0
+
+    for m in mask:
+        if m == 0:
+            if i == prev:
+                pass
+            else:
+                group_lst.append([prev, i])
+            prev = i+1
+        i += 1
+
+    if prev != i:
+        group_lst.append([prev, i])
+
+    print(f'group list : {group_lst}')
+    return group_lst
+
+# Argument : ori_bbox_lst, group_tokens의 리턴 list (slices)
+# Returns : masking된 부분의 그룹화된 bbox
+def group_bbox(bbox_lst, group_lst):
+
+    bbox_group_lst = []
+
+    for s in group_lst:
+        target = bbox_lst[s[0]:s[1]]
+        if len(target) == 1:
+            bbox_group_lst.append(*target)
+        else:
+            t = target[0][0]
+            l = target[0][1]
+            b = target[0][2]
+            r = target[0][3]
+            for i in target[1:]:
+                if i[0] < t:
+                    t = i[0]
+                if i[1] < l:
+                    l = i[1]
+                if i[2] > b:
+                    b = i[2]
+                if i[3] > r:
+                    b = i[3]
+            bbox_group_lst.append([t,l,b,r])
+    
+    return bbox_group_lst
+
+# Argument : ori_bbox_list, mask_ratio
+# Returns : token slices to be masked, grouped bboxes
+def mask_process(bbox_list, mask_ratio=0.75):
+    l = len(bbox_list)
+    mask = random_masking(L=l, mask_ratio=mask_ratio)
+    return group_tokens(mask[0]), group_bbox(bbox_list, group_tokens(mask[0]))
 
 class RvlCdipDataset(Dataset):
 
     #NUM_LABELS = 16
 
-    def __init__(self , xml_sample_loc , json_sum_loc, image_path, tokenizer , data_args , mode='train'):
+    def __init__(self , xml_sample_loc , json_sum_loc, image_path, tokenizer , data_args , mode='train', user_prompt=None):
 
         """ Structure of data directory:
 
@@ -124,6 +208,8 @@ class RvlCdipDataset(Dataset):
                 json_data = self.main_json_data ,
                   tokenizer=tokenizer,
             )
+        
+        self.user_prompt = user_prompt
 
         results = [self.load_file(file_idx) for file_idx in tqdm(range(file_data_range[0],file_data_range[1]))]
         for labels, examples, images in results:
@@ -153,7 +239,19 @@ class RvlCdipDataset(Dataset):
             label = self.labels[index]
             label = self.label_map[int(label)]
 
-            rets, n_split = read_ocr_core_engine(json_data = self.main_json_data , image_path = self.image_path , file_idx = index , tokenizer = self.tokenizer, max_seq_length = self.max_seq_length, num_img_embeds = self.num_img_embeds, image_size = self.image_size)
+            upt=''
+            if self.user_prompt is None:
+                r = random.randint(0,2)
+                if r == 0:
+                    upt = 'Layout Modeling.'
+                elif r == 1:
+                    upt = 'Visual Text Recognition.'
+                else:
+                    upt = 'Joint Text-Layout Reconstruction'
+            else:
+                upt = self.user_prompt
+
+            rets, n_split = read_ocr_core_engine(json_data = self.main_json_data , user_prompt=upt, image_path = self.image_path , file_idx = index , tokenizer = self.tokenizer, max_seq_length = self.max_seq_length, num_img_embeds = self.num_img_embeds, image_size = self.image_size)
 
             if n_split == 0:
                 # Something wrong with the .ocr.json file
@@ -239,7 +337,7 @@ class RvlCdipDataset(Dataset):
         return (sentence, mask, bbox, start_token, end_token)
 
 # 해당 부분은 json파일의 문장을 line-by-line으로 읽는 것으로 해당 함수 수정 완료.
-def read_ocr_core_engine(json_data,image_path, file_idx, tokenizer, max_seq_length=None, num_img_embeds=None, image_size=224):
+def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer, max_seq_length=None, num_img_embeds=None, image_size=224):
     #max_seq_length와 num_img_embeds 는 원본 코드에서도 안쓰는데 왜있는거지?
 
     #file_ 와 image_dir 모두 1 2 3 ... index 임.
@@ -256,7 +354,13 @@ def read_ocr_core_engine(json_data,image_path, file_idx, tokenizer, max_seq_leng
 
     image = img_trans_torchvision(tiff_images, image_size)
 
+    collator = DataCollatorForSelfSupervisedTasks(
+       tokenizer = tokenizer,
+    )
+
     text_list, bbox_list = [], []
+    sub_text_list, sub_bbox_list, labels_list = [], [], []
+    a = 0
     for form in data['form']: #문장별로 쪼갬
       for word in form['words']: #단어별로 쪼갬
 
@@ -269,14 +373,49 @@ def read_ocr_core_engine(json_data,image_path, file_idx, tokenizer, max_seq_leng
           bbox_list.append(word['box']) #현재는 단어별 bbox, 추후 문장별 bbox로도 수정 가능
           #bbox_list.append(form['box'])
 
+      # Labeling할 토큰들을 정한다
+      if 'Layout Modeling' in user_prompt:
+          mask_ratio = 0.75
+      elif 'Visual Text Recognition' in user_prompt:
+          mask_ratio = 0.5
+      elif 'Joint Text-Layout Reconstruction' in user_prompt:
+          mask_ratio = 0.15
+      else :
+          raise ValueError('Invalid Prompt')
+      
+      group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
+      # sentinel token을 numbering할 list를 만들기 위해 range를 정한다
+      b = a + len(group_list)
+      # range를 토대로 numbering list를 만든다
+      numbering_list = [i for i in range(a,b)]
+      a = b
+
+      ids_list = tokenizer.convert_tokens_to_ids(text_list)
+      # 변수 설명
+      # user_prompt = 말 그대로 user_prompt
+      # ids_list = 한 문장의 token들을 index(id)로 변환한 것들을 모아놓은 리스트 (그룹화 안됨)
+      # bbox_list = 한 문장의 token들에 대응하는 bounding box를 모아놓은 리스트(그룹화 안됨)
+      # group_list = masking할 범위를 slice (e.g. [a,b]) 형태로 저장해 놓은 것들의 리스트 (그룹화 됨)
+      # group_bbox_list = group_list에 대응하는, 즉 그룹화 된 것들에 대응하는 bounding box를 모아놓은 리스트 (그룹화 됨)
+      # numbering_list = sentinel_token에 번호를 부여하기 위해 넘겨주는 리스트
+      # page_size = 이미지 가로세로 (bbox 정규화하여 라벨링할 때 사용)
+      # 왜 collator 안에서 bbox를 정규화함??
+      #  -> 우리가 만든 rvlcdip 데이터셋 클래스 안에서 read_ocr(이 함수)에서 받은 bbox 정규화를 하기 때문에
+      #  여기서 bbox를 정규화하면 좀 귀찮아지기 때문에 collator 안에서 하는 게 좋다 
+      #
+      # Collator 안에서 이 변수들을 활용하여 labeling 및 sentinel token을 붙인 후 리턴하시면 됩니다
+      # Collator에서 labeling할 때에는 ids_list, 혹은 bbox_list를 기준으로 iteration을 하되
+      # group_list를 보면서 만약 index가 group_list에 있는 slice들중 하나에 해당된다, 하면은
+      # sentinel token을 붙이고, slice에 포함된 범위는 masking한 뒤 labeling을 적절히 하시면 되겠습니다
+      input_ids, labels, bbox_list = collator(user_prompt, ids_list, bbox_list, group_list, group_bbox_list, numbering_list, tiff_images.size)
+      sub_text_list += input_ids
+      sub_bbox_list += bbox_list
+      labels_list += labels
+      
     if len(text_list) > 0:
-      rets.append([text_list, bbox_list, image, page_size])
+      rets.append([sub_text_list, sub_bbox_list, labels_list, image, page_size])
 
     assert len(text_list) == len(bbox_list)
     n_split = len(rets)
 
     return rets, n_split
-
-
-
-
