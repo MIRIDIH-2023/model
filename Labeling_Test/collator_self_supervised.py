@@ -253,24 +253,24 @@ class DataCollatorForT5VisTextRec:
         # TODO: 라벨링 하기 (Visual_Text_Recognition_Test.py 참고하면서)
         labels = []
         for i in range(len(label_numbering)):
-            labels += self.tokenizer.encode(f'<extra_t_id_{label_numbering[i]}>', add_special_tokens=True)
+            labels += self.tokenizer.encode(f'<extra_t_id_{label_numbering[i]}>', add_special_tokens=True)[:-1]
             labels += input_ids[group_list[i][0]:group_list[i][1]]
 
 
         slice_pointer=0
         for i in range(len(input_ids)):
             if i == group_list[slice_pointer][0]:
-                tmp_input_ids += self.tokenizer.encode(f'<extra_t_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                tmp_input_ids += self.tokenizer.encode(f'<extra_t_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)[:-1]
                 tmp_bbox_list.append([0,0,0,0])
                 bbox_ids = []
                 for j in range(4):
                     if j % 2 == 0:
-                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[1])}>', add_special_tokens=True)
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[1])}>', add_special_tokens=True)[:-1]
                     else:
-                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)[:-1]
                         tmp_bbox_list.append([0,0,0,0])
                 tmp_input_ids += bbox_ids
-                tmp_input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                tmp_input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)[:-1]
                 tmp_bbox_list.append([0,0,0,0])
                 i = group_list[slice_pointer][1]-1
                 slice_pointer += 1
@@ -278,9 +278,7 @@ class DataCollatorForT5VisTextRec:
                 tmp_input_ids.append(input_ids[i])
                 tmp_bbox_list.append(bbox_list[i])
 
-        tmp_input_ids += self.tokenizer.encode('</s>', add_special_tokens=True)
-        tmp_bbox_list.append([0,0,0,0])
-        labels += self.tokenizer.encode('</s>', add_special_tokens=True)
+        labels += [1] #</s> token
         return tmp_input_ids, labels, tmp_bbox_list
 
 
