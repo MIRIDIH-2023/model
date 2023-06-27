@@ -242,9 +242,9 @@ class DataCollatorForT5VisTextRec:
                 bbox_ids = []
                 for j in range(4):
                     if j % 2 == 0:
-                        bbox_ids += self.tokenizer.encode(f'<loc_{int(group_bbox_list[slice_pointer][j]/page_size[1])}>', add_special_tokens=True)
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[1])}>', add_special_tokens=True)
                     else:
-                        bbox_ids += self.tokenizer.encode(f'<loc_{int(group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)
+                        bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)
                 input_ids += bbox_ids
                 input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
                 i = group_list[slice_pointer][1]-1
