@@ -174,7 +174,7 @@ class DataCollatorForT5LayoutModeling:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_ids, bbox_list, group_list, group_bbox_list, label_numbering):
+    def __call__(self, user_prompt , input_ids, bbox_list, group_list, group_bbox_list, label_numbering, page_size):
 
         # "원래 input text 정보 & bounding box"
         # -->
@@ -182,21 +182,40 @@ class DataCollatorForT5LayoutModeling:
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
         
-        input_ids = []
-        if label_numbering[0] == 0:
-            prompt_text = user_prompt
-            prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-            input_ids = prompt_ids
-
-        bbox_list = [[0,0,0,0]] * len(prompt_ids) + bbox_list
-
-        # TODO: 라벨링 하기 (Layout_Modeling_Test.py 참고하면서)
-        if(labels!=None):  #label은 classification에서만 수행
-        #인줄 알았는데 layout modeling 이런것도 다 output이 있으니까 label==output 인건가..???
-          labels = self.tokenizer.encode(labels, add_special_tokens=True)
-
-        return input_ids, labels, bbox_list
-
+        prompt_text = user_prompt
+        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+        input_ids = prompt_ids
+        res_bbox_list = [[0,0,0,0]] * len(prompt_ids)
+        
+        labels = []
+        for i in range(len(label_numbering)):
+            labels += self.tokenizer.encode(f'<extra_l_id_{label_numbering[i]}>', add_special_tokens=True)
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][0]/page_size[1])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][1]/page_size[0])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][2]/page_size[1])}>')
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][3]/page_size[0])}>')
+            
+        slice_pointer=0
+        L = len(group_list)
+        for i in range(len(input_ids)):
+            if slice_pointer < L and i == group_list[slice_pointer][0]:
+                temp_ids += self.tokenizer.encode(f'<extra_l_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                input_ids += temp_ids
+                input_ids.append(input_ids[i])
+                res_bbox_list += [[0,0,0,0]] * len(temp_ids)
+                res_bbox_list += bbox_list[i]
+            elif slice_pointer < L and i == group_list[slice_pointer][1] :
+                temp_ids += self.tokenizer.encode(f'</extra_l_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                input_ids += temp_ids
+                input_ids.append(input_ids[i])
+                res_bbox_list += [[0,0,0,0]] * len(temp_ids)
+                res_bbox_list += bbox_list[i]
+                slice_pointer += 1
+            else:
+                input_ids.append(input_ids[i])
+                res_bbox_list += bbox_list[i]
+        
+        return input_ids, labels, res_bbox_list
 
 class DataCollatorForT5VisTextRec:
     """
