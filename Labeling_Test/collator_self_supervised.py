@@ -224,8 +224,11 @@ class DataCollatorForT5VisTextRec:
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
 
         prompt_text = user_prompt
-        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        input_ids = prompt_ids
+        if label_numbering[0] == 0:
+            prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+            tmp_input_ids = prompt_ids
+        else:
+            tmp_input_ids = []
         tmp_bbox_list = [[0,0,0,0]] * len(prompt_ids)
 
         # TODO: 라벨링 하기 (Visual_Text_Recognition_Test.py 참고하면서)
@@ -238,7 +241,7 @@ class DataCollatorForT5VisTextRec:
         slice_pointer=0
         for i in range(len(input_ids)):
             if i == group_list[slice_pointer][0]:
-                input_ids += self.tokenizer.encode(f'<extra_t_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                tmp_input_ids += self.tokenizer.encode(f'<extra_t_id_{label_numbering[slice_pointer]}>', add_special_tokens=True)
                 tmp_bbox_list.append([0,0,0,0])
                 bbox_ids = []
                 for j in range(4):
@@ -247,17 +250,17 @@ class DataCollatorForT5VisTextRec:
                     else:
                         bbox_ids += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[slice_pointer][j]/page_size[0])}>', add_special_tokens=True)
                         tmp_bbox_list.append([0,0,0,0])
-                input_ids += bbox_ids
-                input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
+                tmp_input_ids += bbox_ids
+                tmp_input_ids += self.tokenizer.encode(f'</extra_t_id{label_numbering[slice_pointer]}>', add_special_tokens=True)
                 tmp_bbox_list.append([0,0,0,0])
                 i = group_list[slice_pointer][1]-1
                 slice_pointer += 1
             else:
-                input_ids.append(input_ids[i])
+                tmp_input_ids.append(input_ids[i])
                 tmp_bbox_list.append(bbox_list[i])
 
 
-        return input_ids, labels, tmp_bbox_list
+        return tmp_input_ids, labels, tmp_bbox_list
 
 
 class DataCollatorForT5JointReconstruction:
