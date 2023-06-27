@@ -215,6 +215,10 @@ class DataCollatorForT5LayoutModeling:
             else:
                 res_input_ids.append(input_ids[i])
                 res_bbox_list.append(bbox_list[i])
+                
+        res_input_ids += [1] # </s> token
+        res_bbox_list.append([0,0,0,0])
+        labels += [1] # </s> token
         
         return res_input_ids, labels, res_bbox_list
 
