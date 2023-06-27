@@ -2,3 +2,5 @@
 2. json 데이터의 text 및 csv 파일의 keyword를 통한 tokenizer 학습
 3. json 파일 및 csv의 image 파일을 모두 하나의 zip 파일로 압축
 4. 1~3 내용을 이용한 Dataset class 구현 완료.
+
+5. run_rvlcdip 및 config json 파일 업로드 (python run_rvlcdip.py config.json)으로 실행
