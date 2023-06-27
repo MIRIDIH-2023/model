@@ -93,5 +93,5 @@ bbox_lst = [[random.randint(0,1280), random.randint(0,720), random.randint(0,128
 print(bbox_lst)
 
 for i in range(10):
-    print(process(bbox_lst))
+    print(mask_process(bbox_lst))
     print()
