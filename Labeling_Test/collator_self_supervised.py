@@ -143,16 +143,16 @@ class DataCollatorForSelfSupervisedTasks:
     # label_numbering 변수의 형태 = [a, b]
     # a = 시작, b = 끝
     # mask_process는 read_ocr_core_engine에서 불러서 mask할 범위를 집어 줄 것이다
-    def __call__(self, user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering):
+    def __call__(self, user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size):
 
         if 'Layout Modeling' in user_prompt:
-            return self.LM(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering)
+            return self.LM(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size)
         
         elif 'Visual Text Recognition' in user_prompt:
-            return self.VT(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering)
+            return self.VT(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size)
         
         elif 'Joint Text-Layout Reconstruction' in user_prompt:
-            return self.JR(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering)
+            return self.JR(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size)
         
         else:
             raise ValueError("Invalid user prompt")
