@@ -408,7 +408,9 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
       labels_list += labels
       
     if len(text_list) > 0:
-      
+      sub_text_list += [1] # </s> token
+      sub_bbox_list.append([0,0,0,0]) # </s> token's bbox
+      labels_list += [1] # </s> token
       rets.append([sub_text_list, sub_bbox_list, labels_list, image, page_size])
 
     assert len(sub_text_list) == len(sub_bbox_list)
