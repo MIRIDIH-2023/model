@@ -355,8 +355,8 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
 
     text_list, bbox_list = [], []
     sub_text_list, sub_bbox_list, labels_list = [], [], []
+    a = 0
     for form in data['form']: #문장별로 쪼갬
-      a = 0
       for word in form['words']: #단어별로 쪼갬
 
         if word == ' ': #띄어쓰기는 건너뛰기
@@ -369,44 +369,44 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
           #bbox_list.append(form['box'])
 
       # Labeling할 토큰들을 정한다
-      if 'Layout Modeling' in user_prompt:
-          mask_ratio = 0.75
-      elif 'Visual Text Recognition' in user_prompt:
-          mask_ratio = 0.5
-      elif 'Joint Text-Layout Reconstruction' in user_prompt:
-          mask_ratio = 0.15
-      else :
-          raise ValueError('Invalid Prompt')
+    if 'Layout Modeling' in user_prompt:
+        mask_ratio = 0.75
+    elif 'Visual Text Recognition' in user_prompt:
+        mask_ratio = 0.5
+    elif 'Joint Text-Layout Reconstruction' in user_prompt:
+        mask_ratio = 0.15
+    else :
+        raise ValueError('Invalid Prompt')
 
-      group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
-      # sentinel token을 numbering할 list를 만들기 위해 range를 정한다
-      b = a + len(group_list)
-      
-      # range를 토대로 numbering list를 만든다
-      numbering_list = [i%100 for i in range(a,b)]
-      a = b
+    group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
+    # sentinel token을 numbering할 list를 만들기 위해 range를 정한다
+    b = a + len(group_list)
+    
+    # range를 토대로 numbering list를 만든다
+    numbering_list = [i%100 for i in range(a,b)]
+    a = b
 
-      ids_list = tokenizer.convert_tokens_to_ids(text_list)
-      # 변수 설명
-      # user_prompt = 말 그대로 user_prompt
-      # ids_list = 한 문장의 token들을 index(id)로 변환한 것들을 모아놓은 리스트 (그룹화 안됨)
-      # bbox_list = 한 문장의 token들에 대응하는 bounding box를 모아놓은 리스트(그룹화 안됨)
-      # group_list = masking할 범위를 slice (e.g. [a,b]) 형태로 저장해 놓은 것들의 리스트 (그룹화 됨)
-      # group_bbox_list = group_list에 대응하는, 즉 그룹화 된 것들에 대응하는 bounding box를 모아놓은 리스트 (그룹화 됨)
-      # numbering_list = sentinel_token에 번호를 부여하기 위해 넘겨주는 리스트
-      # page_size = 이미지 가로세로 (bbox 정규화하여 라벨링할 때 사용)
-      # 왜 collator 안에서 bbox를 정규화함??
-      #  -> 우리가 만든 rvlcdip 데이터셋 클래스 안에서 read_ocr(이 함수)에서 받은 bbox 정규화를 하기 때문에
-      #  여기서 bbox를 정규화하면 좀 귀찮아지기 때문에 collator 안에서 하는 게 좋다 
-      #
-      # Collator 안에서 이 변수들을 활용하여 labeling 및 sentinel token을 붙인 후 리턴하시면 됩니다
-      # Collator에서 labeling할 때에는 ids_list, 혹은 bbox_list를 기준으로 iteration을 하되
-      # group_list를 보면서 만약 index가 group_list에 있는 slice들중 하나에 해당된다, 하면은
-      # sentinel token을 붙이고, slice에 포함된 범위는 masking한 뒤 labeling을 적절히 하시면 되겠습니다
-      input_ids, labels, bbox_list = collator(user_prompt, ids_list, bbox_list, group_list, group_bbox_list, numbering_list, tiff_images.size)
-      sub_text_list += input_ids
-      sub_bbox_list += bbox_list
-      labels_list += labels
+    ids_list = tokenizer.convert_tokens_to_ids(text_list)
+    # 변수 설명
+    # user_prompt = 말 그대로 user_prompt
+    # ids_list = 한 문장의 token들을 index(id)로 변환한 것들을 모아놓은 리스트 (그룹화 안됨)
+    # bbox_list = 한 문장의 token들에 대응하는 bounding box를 모아놓은 리스트(그룹화 안됨)
+    # group_list = masking할 범위를 slice (e.g. [a,b]) 형태로 저장해 놓은 것들의 리스트 (그룹화 됨)
+    # group_bbox_list = group_list에 대응하는, 즉 그룹화 된 것들에 대응하는 bounding box를 모아놓은 리스트 (그룹화 됨)
+    # numbering_list = sentinel_token에 번호를 부여하기 위해 넘겨주는 리스트
+    # page_size = 이미지 가로세로 (bbox 정규화하여 라벨링할 때 사용)
+    # 왜 collator 안에서 bbox를 정규화함??
+    #  -> 우리가 만든 rvlcdip 데이터셋 클래스 안에서 read_ocr(이 함수)에서 받은 bbox 정규화를 하기 때문에
+    #  여기서 bbox를 정규화하면 좀 귀찮아지기 때문에 collator 안에서 하는 게 좋다 
+    #
+    # Collator 안에서 이 변수들을 활용하여 labeling 및 sentinel token을 붙인 후 리턴하시면 됩니다
+    # Collator에서 labeling할 때에는 ids_list, 혹은 bbox_list를 기준으로 iteration을 하되
+    # group_list를 보면서 만약 index가 group_list에 있는 slice들중 하나에 해당된다, 하면은
+    # sentinel token을 붙이고, slice에 포함된 범위는 masking한 뒤 labeling을 적절히 하시면 되겠습니다
+    input_ids, labels, bbox_list = collator(user_prompt, ids_list, bbox_list, group_list, group_bbox_list, numbering_list, tiff_images.size)
+    sub_text_list += input_ids
+    sub_bbox_list += bbox_list
+    labels_list += labels
       
     if len(text_list) > 0:
       sub_text_list += [1] # </s> token
