@@ -98,11 +98,18 @@ class DataCollatorForT5LayoutModeling:
         # +
         # [0,0,0,0]을 promt text token 개수만큼 + 원래 bounding box
         
-        res_input_ids = []
         prompt_text = user_prompt
-        prompt_ids = self.tokenizer.encode(prompt_text, add_special_tokens=False)[:-1]
-        res_input_ids += prompt_ids
-        res_bbox_list = [[0,0,0,0]] * len(prompt_ids)
+        length = 0
+        res_input_ids = []
+        if label_numbering[0] == 0:
+            prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+            length = len(prompt_ids)
+            res_input_ids = prompt_ids
+            res_bbox_list = [[0,0,0,0]] * length
+        else:
+            length = 0
+            res_input_ids = []
+            res_bbox_list = []
 
         labels = []
         for i in range(len(label_numbering)):
