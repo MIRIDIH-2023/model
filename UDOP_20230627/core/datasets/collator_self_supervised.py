@@ -66,7 +66,7 @@ class DataCollatorForSelfSupervisedTasks:
             ret = self.VT(ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size)
         
         elif 'Joint Text-Layout Reconstruction' in user_prompt:
-            ret = self.JR(ori_input_ids, bbox_list)
+            ret = self.JR(user_prompt, ori_input_ids, bbox_list, group_list, ori_bbox_list, label_numbering, page_size)
         
         else:
             raise ValueError("Invalid user prompt")
@@ -212,79 +212,43 @@ class DataCollatorForT5JointReconstruction:
         self.pad_token_id = pad_token_id
         self.decoder_start_token_id = decoder_start_token_id
 
-    def __call__(self, user_prompt ,ori_input_text, ori_bbox_list):
-
+    def __call__(self, user_prompt , input_ids, bbox_list, group_list, group_bbox_list, label_numbering, page_size):
+        
         prompt_text = user_prompt
-        prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
-        
-        masked_input_text, labels, bbox = self.random_masking(ori_input_text, ori_bbox_list, mask_ratio=0.15)
-        masked_input_ids = self.tokenizer.encode(masked_input_text, add_special_tokens=True)
-        input_ids = prompt_ids + masked_input_ids
-        bbox_list = [[0, 0, 0, 0]] * len(prompt_ids) + bbox + [[0, 0, 0, 0]] # <\s> token
-        label_ids = self.tokenizer.encode(labels, add_special_tokens=True)
+        length = 0
+        tmp_input_ids = []
+        if label_numbering[0] == 0:
+            prompt_ids =  self.tokenizer.encode(prompt_text, add_special_tokens=False)
+            length = len(prompt_ids)
+            tmp_input_ids = prompt_ids
+            tmp_bbox_list = [[0,0,0,0]] * length
+        else:
+            length = 0
+            tmp_input_ids = []
+            tmp_bbox_list = []
 
-        assert len(input_ids) == len(bbox_list)
-        return input_ids, label_ids, bbox_list
-        
-        
-    def random_masking(self, input_text, bbox_list, mask_ratio=0.15):
-        idx = 0
-        
-        total_input_ids, total_targets, total_bbox = [], "", []
+        # TODO: 라벨링 하기 (Visual_Text_Recognition_Test.py 참고하면서)
+        labels = []
+        for i in range(len(label_numbering)):
+            labels += self.tokenizer.encode(f'<extra_id_{label_numbering[i]}>', add_special_tokens=False)
+            labels += input_ids[group_list[i][0]:group_list[i][1]]
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][0]/page_size[0])}>', add_special_tokens=False)
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][1]/page_size[1])}>', add_special_tokens=False)
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][2]/page_size[0])}>', add_special_tokens=False)
+            labels += self.tokenizer.encode(f'<loc_{int(500*group_bbox_list[i][3]/page_size[1])}>', add_special_tokens=False)
 
-        for text,bbox in zip(input_text, bbox_list):
-            masked_input_ids, targets, part_bbox = [], "", []
+        slice_pointer=0
+        L = len(group_list)
+        for i in range(len(input_ids)):
+            if slice_pointer < L and i == group_list[slice_pointer][0]:
+                tmp_input_ids += self.tokenizer.encode(f'<extra_id_{label_numbering[slice_pointer]}>', add_special_tokens=False)
+                tmp_bbox_list.append([0,0,0,0])
 
-            L = len(text)
-            len_keep = int(L * (1 - mask_ratio))
+                i = group_list[slice_pointer][1]-1
+                slice_pointer += 1
+            else:
+                tmp_input_ids.append(input_ids[i])
+                tmp_bbox_list.append(bbox_list[i])
 
-            noise = torch.rand(L)  # Noise in [0, 1]
-
-            # Sort noise for each sample
-            ids_shuffle = torch.argsort(noise, dim=0)  # Ascend: small is keep, large is remove
-            ids_restore = torch.argsort(ids_shuffle, dim=0)
-
-            # Generate the binary mask: 0 is keep, 1 is remove
-            mask = torch.ones([L])
-            mask[:len_keep] = 0
-            # Unshuffle to get the binary mask
-            mask = torch.gather(mask, dim=0, index=ids_restore)
-            mask[0] = 1
-
-            # Convert masked tokens to the '<extra_ids_idx>' format
-            is_previous_masked = False
-            previous_bbox = None
-
-            for index, (token, token_bbox, is_masked) in enumerate(zip(text, bbox, mask)):
-                if is_masked:
-                    if not is_previous_masked:
-                        masked_input_ids.append(f"<extra_id_{idx}>")
-                        tokenized_bbox = list(map(int, [i * self.tokenizer._loc_extra_ids for i in token_bbox]))
-                        targets += f" <extra_id_{idx}> {token}" 
-                        part_bbox.append([0, 0, 0, 0])
-                        idx += 1
-
-                    else: # Previous masked
-                        targets += f" {token}"
-                        tokenized_bbox = list(map(int, [i * self.tokenizer._loc_extra_ids for i in token_bbox]))
-                        tokenized_bbox = [min(previous_bbox[0], tokenized_bbox[0]), min(previous_bbox[1], tokenized_bbox[1]), max(previous_bbox[2], tokenized_bbox[2]), max(previous_bbox[3], tokenized_bbox[3])]
-
-                    previous_bbox = tokenized_bbox
-                        
-                else: # not masked
-                    masked_input_ids.append(token)
-                    part_bbox.append(token_bbox)
-                    if previous_bbox is not None:
-                        targets += f" <loc_{previous_bbox[0]}> <loc_{previous_bbox[1]}> <loc_{previous_bbox[2]}> <loc_{previous_bbox[3]}>"
-                        previous_bbox = None
-                is_previous_masked = is_masked
-            
-            if previous_bbox is not None:
-                targets += f" <loc_{previous_bbox[0]}> <loc_{previous_bbox[1]}> <loc_{previous_bbox[2]}> <loc_{previous_bbox[3]}>"
-
-            total_input_ids.extend(masked_input_ids)
-            total_targets += targets
-            total_bbox.extend(part_bbox)
-        
-        return total_input_ids, total_targets, total_bbox
+        return tmp_input_ids, labels, tmp_bbox_list
     
