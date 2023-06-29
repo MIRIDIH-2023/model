@@ -384,7 +384,7 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
     a = 0
     for i in range(len(sub_text_list)):
 
-        group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
+        group_list, group_bbox_list = mask_process(sub_bbox_list[i], mask_ratio=mask_ratio)
 
         b = a + len(group_list)
         numbering_list = [i%100 for i in range(a,b)]
