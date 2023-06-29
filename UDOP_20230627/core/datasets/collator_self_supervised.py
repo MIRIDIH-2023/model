@@ -132,9 +132,6 @@ class DataCollatorForT5LayoutModeling:
                 res_input_ids.append(input_ids[i])
                 res_bbox_list.append(bbox_list[i])
         
-        res_input_ids += [1] # </s> token
-        res_bbox_list.append([0,0,0,0])
-        labels += [1] # </s> token
         return res_input_ids, labels, res_bbox_list
 
 class DataCollatorForT5VisTextRec:
@@ -207,9 +204,6 @@ class DataCollatorForT5VisTextRec:
                 tmp_input_ids.append(input_ids[i])
                 tmp_bbox_list.append(bbox_list[i])
 
-        tmp_input_ids += [1] # </s> token
-        tmp_bbox_list.append([0,0,0,0])
-        labels += [1] # </s> token
         return tmp_input_ids, labels, tmp_bbox_list
 
 

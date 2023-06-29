@@ -381,6 +381,7 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
       group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
       # sentinel token을 numbering할 list를 만들기 위해 range를 정한다
       b = a + len(group_list)
+      
       # range를 토대로 numbering list를 만든다
       numbering_list = [i%100 for i in range(a,b)]
       a = b
