@@ -377,7 +377,7 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
           bbox_list.append(word['box']) #현재는 단어별 bbox, 추후 문장별 bbox로도 수정 가능
           #bbox_list.append(form['box'])
       sub_text_list.append(text_list)
-      sub_bbox_list(bbox_list)
+      sub_bbox_list.append(bbox_list)
 
     assert len(sub_text_list) == len(sub_bbox_list)
 
