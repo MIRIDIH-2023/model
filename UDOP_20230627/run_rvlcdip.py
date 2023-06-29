@@ -262,19 +262,21 @@ def main():
     
     #######################################################################################
     
-    model = model_type.from_pretrained(
-        model_args.model_name_or_path,
-        from_tf=bool(".ckpt" in model_args.model_name_or_path),
-        config=config,
-        cache_dir=model_args.cache_dir,
-        revision=model_args.model_revision,
-        use_auth_token=True if model_args.use_auth_token else None,
-    )
+    #model = model_type.from_pretrained(
+    #    model_args.model_name_or_path,
+    #    from_tf=bool(".ckpt" in model_args.model_name_or_path),
+    #    config=config,
+    #    cache_dir=model_args.cache_dir,
+    #    revision=model_args.model_revision,
+    #    use_auth_token=True if model_args.use_auth_token else None,
+    #)
+
+    model = UdopUnimodelForConditionalGeneration.from_pretrained("udop-unimodel-large-224")
 
     ################################################### revised start ############################################
-    xml_sample_loc = 'XML_sample.csv'
-    json_sum_loc = 'sumall_processed_sample.json'
-    image_path = 'image'
+    xml_sample_loc = './XML_sample.csv'
+    json_sum_loc = './sumall_processed_sample.json'
+    image_path = './image'
     
    # Get datasets
     train_dataset = (RvlCdipDataset(xml_sample_loc=xml_sample_loc,
@@ -306,9 +308,12 @@ def main():
     metric = load_metric("accuracy")
 
     def compute_metrics(eval_pred):
+      """
         logits, labels = eval_pred
         predictions = np.argmax(logits, axis=-1)
         return metric.compute(predictions=predictions, references=labels)
+      """
+      return {"demo" : 0.0 }
 
     # Initialize our Trainer
     trainer = Trainer(

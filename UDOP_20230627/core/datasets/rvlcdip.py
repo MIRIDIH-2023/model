@@ -94,7 +94,6 @@ def random_masking(L=4096, mask_ratio=0.75):
     mask[:len_keep] = 0
     # unshuffle to get the binary mask
     mask = torch.gather(mask, dim=0, index=ids_restore)
-    print(f'mask = {mask}')
     return mask, ids_restore, ids_remove, ids_keep
 
 # Argument : random_masking의 mask
@@ -117,7 +116,6 @@ def group_tokens(mask):
     if prev != i:
         group_lst.append([prev, i])
 
-    print(f'group list : {group_lst}')
     return group_lst
 
 # Argument : ori_bbox_lst, group_tokens의 리턴 list (slices)
@@ -240,7 +238,7 @@ class RvlCdipDataset(Dataset):
 
             upt=''
             if self.user_prompt is None:
-                r = random.randint(0,2)
+                r = random.randint(0,1)
                 if r == 0:
                     upt = 'Layout Modeling.'
                 elif r == 1:
@@ -251,13 +249,12 @@ class RvlCdipDataset(Dataset):
                 upt = self.user_prompt
 
             rets, n_split = read_ocr_core_engine(json_data = self.main_json_data , user_prompt=upt, image_path = self.image_path , file_idx = index , tokenizer = self.tokenizer, max_seq_length = self.max_seq_length, num_img_embeds = self.num_img_embeds, image_size = self.image_size)
-
             if n_split == 0:
                 # Something wrong with the .ocr.json file
                 print(f"EMPTY ENTRY in index {index}")
                 return self[(index + 1) % len(self)]
             for i in range(n_split): #정상적으로 코드 실행됬다면 n_split==1 임.
-                text_list, bbox_list, image, page_size = rets[i]
+                text_list, bbox_list, labels, image, page_size = rets[i]
                 (width, height) = page_size
                 bbox = [  #이미지 크기에 맞게 정규화
                     [
@@ -271,9 +268,11 @@ class RvlCdipDataset(Dataset):
 
                 visual_bbox_input = get_visual_bbox(self.image_size) # (x_min, y_min, x_max, y_max) 형태의 좌표로 이루어진 텐서 반환
 
-                input_ids = self.tokenizer.convert_tokens_to_ids(text_list) #토큰 자른것들을 token id들로 변환
+                #input_ids = self.tokenizer.convert_tokens_to_ids(text_list) #토큰 자른것들을 token id들로 변환
 
-                input_ids, labels, bbox_input = self.cls_collator("user prompt", input_ids, bbox, label) #prompt 붙여서 최종 input,bbox,label을 만듦. ################################
+                #input_ids, labels, bbox_input = self.cls_collator("user prompt", text_list, bbox, label) #prompt 붙여서 최종 input,bbox,label을 만듦. ################################
+                input_ids, labels, bbox_input = text_list, labels, bbox_list
+
                 attention_mask = [1] * len(input_ids)
                 decoder_attention_mask = [1] * len(labels)
 
@@ -308,11 +307,7 @@ class RvlCdipDataset(Dataset):
         except: #오류가 났다는 거는 파일이 없다는 것. 해당 상황에서는 index+1 파일 불러오는 것으로 대체
             #image는 로딩 중 오류 생긴 파일 그냥 해당 index가 없게 저장해서 문제 없음.
             #json파일도 오류 생긴건 해당 index없어서 걸러짐.
-            print(f"{index} 파일을 {0}로 대체")
-
-            return self.__getitem__(0)
-
-            #return self[(index + 1) % len(self)]
+            return self[(index + 1) % len(self)]
 
     #def get_labels(self): # classification에서 label의 종류 출력하는 함수. 우리는 필요 없을 듯.
     #    return list(map(str, list(range(self.NUM_LABELS))))
@@ -350,6 +345,7 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
     page_size = data['form'][0]['sheet_size']
 
     tiff_images =  Image.open(f"{image_path}/image_{file_idx}.png")
+    tiff_images.convert('RGB')
 
     image = img_trans_torchvision(tiff_images, image_size)
 
@@ -359,8 +355,8 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
 
     text_list, bbox_list = [], []
     sub_text_list, sub_bbox_list, labels_list = [], [], []
-    a = 0
     for form in data['form']: #문장별로 쪼갬
+      a = 0
       for word in form['words']: #단어별로 쪼갬
 
         if word == ' ': #띄어쓰기는 건너뛰기
@@ -381,12 +377,12 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
           mask_ratio = 0.15
       else :
           raise ValueError('Invalid Prompt')
-      
+
       group_list, group_bbox_list = mask_process(bbox_list, mask_ratio=mask_ratio)
       # sentinel token을 numbering할 list를 만들기 위해 range를 정한다
       b = a + len(group_list)
       # range를 토대로 numbering list를 만든다
-      numbering_list = [i for i in range(a,b)]
+      numbering_list = [i%100 for i in range(a,b)]
       a = b
 
       ids_list = tokenizer.convert_tokens_to_ids(text_list)
@@ -412,9 +408,10 @@ def read_ocr_core_engine(json_data, user_prompt, image_path, file_idx, tokenizer
       labels_list += labels
       
     if len(text_list) > 0:
+      
       rets.append([sub_text_list, sub_bbox_list, labels_list, image, page_size])
 
-    assert len(text_list) == len(bbox_list)
+    assert len(sub_text_list) == len(sub_bbox_list)
     n_split = len(rets)
 
     return rets, n_split
